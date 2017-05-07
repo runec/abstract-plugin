@@ -1,0 +1,86 @@
+= 1.1.2 - 06/07/2015 - Minor Release =
+* Feature - Added email templates for status change - accepted and rejected
+* Feature - Added the ability to turn off attachment completely
+* Feature - Added the ability to unassign a reviewer
+* Fix - Exporting file name issue under Reports
+* Fix - Minor JS bug affecting abstracts submission
+* Fix - Author affiliations input field limitation issue
+
+= 1.1.1 - 03/13/2015 - Minor Release =
+* Fix - Language and localization bug
+* Fix - Enabling blind review displayed author's name on reviewer's dashboard
+* Fix - Author instructions not saving
+* Fix - Auto-update error on WP plugin page
+* Fix - Reviewer submission setting affected author's dashboard
+
+
+= 1.1 - 03/03/2015 = Major Release
+* Enhancement - Completely new Responsive front-end dashboard
+* Feature - Added Attachments Tab for fast and easier access to uploaded attachments
+* Feature - Added Ability to customize outgoing emails
+* Feature - Added submission deadline on events / conferences
+* Feature - Added Automatic Updates. Update to the latest version just like you would with other plugins
+* Feature - Added support for multiple events or conferences. Include the event ID in the shortcode E.g.[wpabstracts event_id=2]
+* Feature - Added option (under setting tab) to disable reviewer abstract editing privileges
+* Feature - Added option (under setting tab) to disable reviewer abstract submission privileges
+* Feature - Merged Author and Reviewers login area (now one dashboard login but backward compatible)
+* Tweak - Redesigned the user's manager area
+* Tweak - Partial transition to jQuery
+* Tweak - Minor admin area JS and CSS tweak
+* Compatibility testing up to WP 4.1
+
+= 1.0.4 - 08/15/2014 - Minor Release =
+* Feature - Added limit for attachment uploads per submission
+* Feature - Added customizable instruction text for authors
+* Feature - Authors can now delete abstracts if still in pending mode
+* Feature - Ability to customize presenter preferences
+* Fix - Front-end HTML rendering issues on some templates (a work in progress)
+* Fix - Content sanitization issue while saving abstract description
+* Fix - Character count now changed to word count and rectified
+* Fix - Date error/warning while adding reviews
+* Fix - Only related topics are loaded on event change when editing abstracts
+* Tweak - Author's name now accepts commas
+* Tweak - Added event name on abstracts listing
+* Tweak - Added submissions count to events listing
+* Tweak - Proper chart labeling of y-axe under reports
+* Compatibility testing with WP 3.9.2
+
+= 1.0.3 - 05/15/2014 - Minor Release =
+* Feature - Added language support (Thanks to Stergatou Eleni, CTI, Greece)
+* Feature - Added Greek translation (Again thanks to Stergatou Eleni)
+* Feature - Ability for blind reviews
+* Fix - Topics are now displayed to the reviewers in IE.
+* Fix - Abstract sorting error on reviews tab
+* Fix - PHP short tags
+* Fix - WP debug notices
+* Tweak - Added get_option('date_format') . ' ' . get_option('time_format') for abstracts display in admin pages
+* Tweak - Simplified shortcode to [wpabstracts] (backward compatibility kept)
+* Tweak - Added flick as jquery ui css theme
+* Tweak - Added Abstract ID column on Reviews tab
+* Tweak - Migrated HTML to separate location
+* Tweak - Partial transition from Javascript to jQuery
+* Compatibility testing with WP 3.9.1
+
+= 1.0.2 - 03/15/2014 - Minor Release =
+* Feature - Reports tab with graphs and csv exports
+* Feature - Download Abstracts as PDF
+* Feature - Ability to add up to 3 reviewers
+* Feature - Setting to turn off 'change ownership' on submissions
+* Feature - Added Author Affiliation to submissions
+* Fix - Better HTML formatting abstracts description
+* Fix - Restrict removal of all authors
+* Fix - Error when email reviewer on assignment is enabled
+* Tweak - Added tooltips on settings page
+* Tweak - Partial transition from Javascript to jQuery
+
+= 1.0.1 - 02/15/2014 - Minor Release =
+* Feature - Option to manage attachments from the edit screen.
+* Feature - Option to assign abstracts to existing users (change ownership).
+* Feature - Option for reviewers to submit abstracts
+* Feature - New column to show attachment count on submissions
+* Fix - possible "header() already sent" error while downloading attachments
+* Fix - bug on summary page where abstracts displayed wrong title
+* Tweak - Minor JS and CSS tweak
+
+= 1.0  – 01/15/2014 - Major Release =
+* Initial Release

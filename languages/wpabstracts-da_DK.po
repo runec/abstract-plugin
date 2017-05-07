@@ -1,0 +1,2149 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wpabstracts-da_DK\n"
+"POT-Creation-Date: 2017-01-24 22:33+0100\n"
+"PO-Revision-Date: 2017-01-24 22:36+0100\n"
+"Last-Translator: \n"
+"Language-Team: Nuancer <support@wpabstracts.com>\n"
+"Language: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../backend/wpabstracts_addAbstract.php:12
+#: ../frontend/wpabstracts_dashboard.php:115
+#: ../frontend/wpabstracts_dashboard.php:121
+msgid "New Abstract"
+msgstr "Nyt Abstract"
+
+#: ../backend/wpabstracts_addAbstract.php:17
+#: ../frontend/wpabstracts_addAbstract.php:279
+#: ../inc/wpabstracts_addAbstract.php:280
+msgid "Submit Abstract"
+msgstr "Indsend Abstract"
+
+#: ../backend/wpabstracts_addAbstract.php:20
+#: ../backend/wpabstracts_addEvent.php:15
+#: ../backend/wpabstracts_editAbstract.php:19
+#: ../backend/wpabstracts_editAbstract_backup.php:20
+#: ../backend/wpabstracts_editEvent.php:17
+#: ../frontend/wpabstracts_addAbstract.php:142
+#: ../frontend/wpabstracts_editAbstract.php:92 ../inc/old_pdfdownload.php:44
+#: ../inc/old_pdfdownload.php:115 ../inc/wpabstracts_addAbstract.php:156
+#: ../wpabstracts_editAbstract.php:20 ../wpabstracts_editEvent.php:17
+msgid "Event Information"
+msgstr "Om begivenheden"
+
+#: ../backend/wpabstracts_addAbstract.php:20
+#: ../backend/wpabstracts_addAbstract.php:71
+#: ../backend/wpabstracts_addEvent.php:15
+#: ../backend/wpabstracts_addReview.php:9
+#: ../backend/wpabstracts_editEvent.php:17
+#: ../backend/wpabstracts_editReview.php:9
+#: ../frontend/wpabstracts_editAbstract.php:92
+#: ../frontend/wpabstracts_editAbstract.php:127
+#: ../frontend/wpabstracts_editAbstract.php:170 ../wpabstracts_editEvent.php:17
+msgid "All fields required"
+msgstr "Alle felter skal udfyldes"
+
+#: ../backend/wpabstracts_addAbstract.php:24
+#: ../backend/wpabstracts_addReview.php:87
+#: ../backend/wpabstracts_editAbstract.php:23
+#: ../backend/wpabstracts_editAbstract_backup.php:24
+#: ../backend/wpabstracts_editReview.php:87
+#: ../frontend/wpabstracts_addAbstract.php:148
+#: ../frontend/wpabstracts_addReview.php:127
+#: ../frontend/wpabstracts_editAbstract.php:98
+#: ../frontend/wpabstracts_editReview.php:115 ../inc/old_pdfdownload.php:45
+#: ../inc/old_pdfdownload.php:116 ../inc/wpabstracts_addAbstract.php:162
+#: ../inc/wpabstracts_classes.php:438 ../inc/wpabstracts_downloads.php:232
+#: ../wpabstracts_classes.php:435 ../wpabstracts_editAbstract.php:24
+msgid "Event"
+msgstr "Begivenhed"
+
+#: ../backend/wpabstracts_addAbstract.php:26
+msgid "Select an event"
+msgstr "Vælg en begivenhed"
+
+#: ../backend/wpabstracts_addAbstract.php:36
+#: ../backend/wpabstracts_addEvent.php:62
+#: ../backend/wpabstracts_addReview.php:88
+#: ../backend/wpabstracts_editAbstract.php:35
+#: ../backend/wpabstracts_editAbstract_backup.php:36
+#: ../backend/wpabstracts_editEvent.php:70
+#: ../backend/wpabstracts_editReview.php:88
+#: ../frontend/wpabstracts_addAbstract.php:163
+#: ../frontend/wpabstracts_addReview.php:128
+#: ../frontend/wpabstracts_editAbstract.php:109
+#: ../frontend/wpabstracts_editReview.php:116 ../inc/old_pdfdownload.php:46
+#: ../inc/old_pdfdownload.php:117 ../inc/wpabstracts_addAbstract.php:177
+#: ../inc/wpabstracts_downloads.php:232 ../wpabstracts.php:694
+#: ../wpabstracts_editAbstract.php:36 ../wpabstracts_editEvent.php:70
+msgid "Topic"
+msgstr "Emne"
+
+#: ../backend/wpabstracts_addAbstract.php:38
+#: ../frontend/wpabstracts_addAbstract.php:165
+#: ../inc/wpabstracts_addAbstract.php:179
+msgid "Select a topic"
+msgstr "Vælg et emne"
+
+#: ../backend/wpabstracts_addAbstract.php:71
+#: ../backend/wpabstracts_addReview.php:39
+#: ../backend/wpabstracts_editAbstract.php:109
+#: ../backend/wpabstracts_editAbstract_backup.php:110
+#: ../backend/wpabstracts_editReview.php:41
+#: ../frontend/wpabstracts_addAbstract.php:214
+#: ../frontend/wpabstracts_editAbstract.php:170 ../inc/old_pdfdownload.php:48
+#: ../inc/old_pdfdownload.php:119 ../inc/wpabstracts_addAbstract.php:219
+#: ../wpabstracts_editAbstract.php:110
+msgid "Presenter Information"
+msgstr "Om oplægsholderen"
+
+#: ../backend/wpabstracts_addAbstract.php:75
+#: ../backend/wpabstracts_addReview.php:42
+#: ../backend/wpabstracts_editAbstract.php:113
+#: ../backend/wpabstracts_editAbstract_backup.php:114
+#: ../backend/wpabstracts_editReview.php:44
+#: ../frontend/wpabstracts_addAbstract.php:220
+#: ../frontend/wpabstracts_addReview.php:123
+#: ../frontend/wpabstracts_editAbstract.php:147
+#: ../frontend/wpabstracts_editAbstract.php:176
+#: ../frontend/wpabstracts_editReview.php:111
+#: ../inc/wpabstracts_addAbstract.php:225 ../wpabstracts.php:683
+#: ../wpabstracts_editAbstract.php:114
+msgid "Name"
+msgstr "Navn"
+
+#: ../backend/wpabstracts_addAbstract.php:79
+#: ../backend/wpabstracts_addReview.php:43
+#: ../backend/wpabstracts_addUser.php:57
+#: ../backend/wpabstracts_editAbstract.php:121
+#: ../backend/wpabstracts_editAbstract_backup.php:122
+#: ../backend/wpabstracts_editReview.php:45
+#: ../frontend/images/wpabstracts_classes.php:938
+#: ../frontend/wpabstracts_addAbstract.php:230
+#: ../frontend/wpabstracts_editAbstract.php:150
+#: ../frontend/wpabstracts_editAbstract.php:181
+#: ../images/wpabstracts_classes.php:938 ../inc/old_pdfdownload.php:50
+#: ../inc/old_pdfdownload.php:121 ../inc/wpabstracts_addAbstract.php:235
+#: ../inc/wpabstracts_classes.php:1170 ../wpabstracts.php:684
+#: ../wpabstracts_classes.php:1167 ../wpabstracts_editAbstract.php:122
+msgid "Email"
+msgstr "E-mail"
+
+#: ../backend/wpabstracts_addAbstract.php:83
+#: ../backend/wpabstracts_addReview.php:44
+#: ../backend/wpabstracts_editAbstract.php:125
+#: ../backend/wpabstracts_editAbstract_backup.php:126
+#: ../backend/wpabstracts_editReview.php:46
+#: ../frontend/wpabstracts_addAbstract.php:235 ../inc/old_pdfdownload.php:51
+#: ../inc/old_pdfdownload.php:122 ../inc/wpabstracts_addAbstract.php:240
+#: ../wpabstracts_editAbstract.php:126
+msgid "Phone"
+msgstr "Telefon"
+
+#: ../backend/wpabstracts_addAbstract.php:87
+#: ../backend/wpabstracts_addReview.php:45
+#: ../backend/wpabstracts_editAbstract.php:129
+#: ../backend/wpabstracts_editAbstract_backup.php:130
+#: ../backend/wpabstracts_editReview.php:47
+#: ../frontend/wpabstracts_addAbstract.php:240 ../inc/old_pdfdownload.php:52
+#: ../inc/old_pdfdownload.php:123 ../inc/wpabstracts_addAbstract.php:245
+#: ../wpabstracts_editAbstract.php:130
+msgid "LinkedIn"
+msgstr "LinkedIn-profil eller kort jobbeskrivelse"
+
+#: ../backend/wpabstracts_addAbstract.php:126
+#: ../backend/wpabstracts_addReview.php:51
+#: ../backend/wpabstracts_editAbstract.php:171
+#: ../backend/wpabstracts_editAbstract_backup.php:172
+#: ../backend/wpabstracts_editReview.php:53
+#: ../frontend/wpabstracts_addAbstract.php:264
+#: ../frontend/wpabstracts_addReview.php:135
+#: ../frontend/wpabstracts_editReview.php:123
+#: ../inc/wpabstracts_addAbstract.php:269 ../wpabstracts_editAbstract.php:172
+msgid "Photo"
+msgstr "Billede"
+
+#: ../backend/wpabstracts_addAbstract.php:128
+#: ../backend/wpabstracts_editAbstract.php:174
+#: ../frontend/wpabstracts_addAbstract.php:266
+msgid "Click or drag image here to upload"
+msgstr "Klik eller træk billede hertil for at tilføje"
+
+#: ../backend/wpabstracts_addAbstract.php:143
+#: ../backend/wpabstracts_addReview.php:66
+#: ../backend/wpabstracts_editAbstract.php:192
+#: ../backend/wpabstracts_editAbstract_backup.php:185
+#: ../backend/wpabstracts_editReview.php:66
+#: ../frontend/wpabstracts_addAbstract.php:41
+#: ../frontend/wpabstracts_addReview.php:13
+#: ../frontend/wpabstracts_editReview.php:16
+#: ../frontend/wpabstracts_listAbstracts.php:34 ../inc/old_pdfdownload.php:36
+#: ../inc/old_pdfdownload.php:102 ../inc/wpabstracts_addAbstract.php:55
+#: ../wpabstracts_editAbstract.php:185
+msgid "Target Group"
+msgstr "Målgruppe"
+
+#: ../backend/wpabstracts_addAbstract.php:145
+msgid "Please add a target group description"
+msgstr "Tilføj beskrivelse af målgruppen"
+
+#: ../backend/wpabstracts_addAbstract.php:152
+#: ../backend/wpabstracts_addAbstract.php:164
+#: ../backend/wpabstracts_addAbstract.php:176
+#: ../backend/wpabstracts_editAbstract.php:201
+#: ../backend/wpabstracts_editAbstract.php:213
+#: ../backend/wpabstracts_editAbstract.php:225
+#: ../backend/wpabstracts_editAbstract_backup.php:194
+#: ../backend/wpabstracts_editAbstract_backup.php:206
+#: ../backend/wpabstracts_editAbstract_backup.php:218
+#: ../frontend/wpabstracts_editAbstract.php:35
+#: ../wpabstracts_editAbstract.php:194 ../wpabstracts_editAbstract.php:206
+#: ../wpabstracts_editAbstract.php:218
+#, php-format
+msgid "Word count: %s"
+msgstr "Ordtælling: %s"
+
+#: ../backend/wpabstracts_addAbstract.php:155
+#: ../backend/wpabstracts_addReview.php:68
+#: ../backend/wpabstracts_editAbstract.php:204
+#: ../backend/wpabstracts_editAbstract_backup.php:197
+#: ../backend/wpabstracts_editReview.php:68
+#: ../frontend/wpabstracts_addAbstract.php:57
+#: ../frontend/wpabstracts_addReview.php:16
+#: ../frontend/wpabstracts_editReview.php:20
+#: ../frontend/wpabstracts_listAbstracts.php:30 ../inc/old_pdfdownload.php:38
+#: ../inc/old_pdfdownload.php:106 ../inc/wpabstracts_addAbstract.php:71
+#: ../wpabstracts_editAbstract.php:197
+msgid "Resume"
+msgstr "Resume"
+
+#: ../backend/wpabstracts_addAbstract.php:157
+msgid "Please add a resume"
+msgstr "Tilføj et resumé"
+
+#: ../backend/wpabstracts_addAbstract.php:167
+#: ../backend/wpabstracts_addReview.php:70
+#: ../backend/wpabstracts_editAbstract.php:216
+#: ../backend/wpabstracts_editAbstract_backup.php:209
+#: ../backend/wpabstracts_editReview.php:70
+#: ../frontend/images/wpabstracts_classes.php:277
+#: ../frontend/images/wpabstracts_classes.php:554
+#: ../frontend/wpabstracts_addAbstract.php:73
+#: ../frontend/wpabstracts_addReview.php:20
+#: ../frontend/wpabstracts_editReview.php:24
+#: ../frontend/wpabstracts_listAbstracts.php:39
+#: ../images/wpabstracts_classes.php:277 ../images/wpabstracts_classes.php:554
+#: ../inc/wpabstracts_addAbstract.php:87 ../inc/wpabstracts_classes.php:437
+#: ../inc/wpabstracts_classes.php:783 ../inc/wpabstracts_downloads.php:232
+#: ../wpabstracts_classes.php:434 ../wpabstracts_classes.php:780
+#: ../wpabstracts_editAbstract.php:209
+msgid "Abstract"
+msgstr "Abstract"
+
+#: ../backend/wpabstracts_addAbstract.php:169
+msgid "Please add your abstract here"
+msgstr "Skriv dit abstract her"
+
+#: ../backend/wpabstracts_addAbstract.php:180
+msgid "Comments for abstract"
+msgstr "Bemærkninger"
+
+#: ../backend/wpabstracts_addEvent.php:12
+#: ../backend/wpabstracts_editEvent.php:13 ../wpabstracts_editEvent.php:13
+msgid "Save Event"
+msgstr "Gem begivenhed"
+
+#: ../backend/wpabstracts_addEvent.php:19
+#: ../backend/wpabstracts_editEvent.php:21
+#: ../frontend/images/wpabstracts_classes.php:691
+#: ../images/wpabstracts_classes.php:691 ../inc/wpabstracts_classes.php:921
+#: ../wpabstracts_classes.php:918 ../wpabstracts_editEvent.php:21
+msgid "Host"
+msgstr "Vært"
+
+#: ../backend/wpabstracts_addEvent.php:23
+#: ../backend/wpabstracts_editEvent.php:25
+#: ../frontend/images/wpabstracts_classes.php:690
+#: ../images/wpabstracts_classes.php:690 ../inc/wpabstracts_classes.php:920
+#: ../wpabstracts_classes.php:917 ../wpabstracts_editEvent.php:25
+msgid "Location"
+msgstr "Sted"
+
+#: ../backend/wpabstracts_addEvent.php:24
+#: ../backend/wpabstracts_addEvent.php:29
+#: ../backend/wpabstracts_addEvent.php:33
+#: ../backend/wpabstracts_addEvent.php:37
+#: ../backend/wpabstracts_addEvent.php:43
+#: ../backend/wpabstracts_addEvent.php:58
+#: ../backend/wpabstracts_addEvent.php:83
+#: ../backend/wpabstracts_editEvent.php:26
+#: ../backend/wpabstracts_editEvent.php:30
+#: ../backend/wpabstracts_editEvent.php:34
+#: ../backend/wpabstracts_editEvent.php:38
+#: ../backend/wpabstracts_editEvent.php:44
+#: ../backend/wpabstracts_editEvent.php:64
+#: ../backend/wpabstracts_editEvent.php:92 ../wpabstracts_editEvent.php:26
+#: ../wpabstracts_editEvent.php:30 ../wpabstracts_editEvent.php:34
+#: ../wpabstracts_editEvent.php:38 ../wpabstracts_editEvent.php:44
+#: ../wpabstracts_editEvent.php:64 ../wpabstracts_editEvent.php:92
+msgid "Required field"
+msgstr "Skal udfyldes"
+
+#: ../backend/wpabstracts_addEvent.php:27
+#: ../backend/wpabstracts_editEvent.php:29
+#: ../frontend/images/wpabstracts_classes.php:693
+#: ../images/wpabstracts_classes.php:693 ../inc/wpabstracts_classes.php:924
+#: ../wpabstracts_classes.php:921 ../wpabstracts_editEvent.php:29
+msgid "Start Date"
+msgstr "Startdato"
+
+#: ../backend/wpabstracts_addEvent.php:32
+#: ../backend/wpabstracts_editEvent.php:33
+#: ../frontend/images/wpabstracts_classes.php:694
+#: ../images/wpabstracts_classes.php:694 ../inc/wpabstracts_classes.php:925
+#: ../wpabstracts_classes.php:922 ../wpabstracts_editEvent.php:33
+msgid "End Date"
+msgstr "Slutdato"
+
+#: ../backend/wpabstracts_addEvent.php:36
+#: ../backend/wpabstracts_editEvent.php:37
+#: ../frontend/images/wpabstracts_classes.php:695
+#: ../images/wpabstracts_classes.php:695 ../inc/wpabstracts_classes.php:926
+#: ../wpabstracts_classes.php:923 ../wpabstracts_editEvent.php:37
+msgid "Deadline"
+msgstr "Deadline"
+
+#: ../backend/wpabstracts_addEvent.php:43
+#: ../backend/wpabstracts_editEvent.php:44 ../inc/wpabstracts_classes.php:923
+#: ../wpabstracts_classes.php:920 ../wpabstracts_editEvent.php:44
+msgid "Sessions"
+msgstr "Sessioner"
+
+#: ../backend/wpabstracts_addEvent.php:47
+#: ../backend/wpabstracts_editAbstract.php:47
+#: ../backend/wpabstracts_editAbstract_backup.php:48
+#: ../backend/wpabstracts_editEvent.php:51
+#: ../frontend/wpabstracts_listAbstracts.php:29
+#: ../inc/wpabstracts_classes.php:100 ../wpabstracts.php:695
+#: ../wpabstracts_classes.php:105 ../wpabstracts_editAbstract.php:48
+#: ../wpabstracts_editEvent.php:51
+msgid "Session"
+msgstr "Session"
+
+#: ../backend/wpabstracts_addEvent.php:52
+#: ../backend/wpabstracts_editEvent.php:58 ../wpabstracts_editEvent.php:58
+msgid "add session"
+msgstr "Tilføj session"
+
+#: ../backend/wpabstracts_addEvent.php:53
+#: ../backend/wpabstracts_editEvent.php:59 ../wpabstracts_editEvent.php:59
+msgid "delete session"
+msgstr "Fjern session"
+
+#: ../backend/wpabstracts_addEvent.php:58
+#: ../backend/wpabstracts_editEvent.php:64
+#: ../frontend/images/wpabstracts_classes.php:692
+#: ../images/wpabstracts_classes.php:692 ../inc/wpabstracts_classes.php:922
+#: ../wpabstracts_classes.php:919 ../wpabstracts_editEvent.php:64
+msgid "Topics"
+msgstr "Emner"
+
+#: ../backend/wpabstracts_addEvent.php:68
+#: ../backend/wpabstracts_editEvent.php:77 ../wpabstracts_editEvent.php:77
+msgid "add topic"
+msgstr "vælg emne"
+
+#: ../backend/wpabstracts_addEvent.php:69
+#: ../backend/wpabstracts_editEvent.php:78 ../wpabstracts_editEvent.php:78
+msgid "delete topic"
+msgstr "slet emne"
+
+#: ../backend/wpabstracts_addEvent.php:78
+#: ../backend/wpabstracts_editEvent.php:87 ../wpabstracts_editEvent.php:87
+msgid "Enter event name here. Eg. ICS Conference 2014"
+msgstr "Skriv navnet på begivenheden her. Fx. “Kortdage 2016”"
+
+#: ../backend/wpabstracts_addReview.php:1
+#: ../frontend/wpabstracts_addReview.php:1
+msgid "New Review"
+msgstr "Ny anmeldelse"
+
+#: ../backend/wpabstracts_addReview.php:7
+#: ../frontend/wpabstracts_addReview.php:144
+msgid "Save Review"
+msgstr "Gem anmeldelse"
+
+#: ../backend/wpabstracts_addReview.php:11
+#: ../backend/wpabstracts_editReview.php:11
+#: ../frontend/images/wpabstracts_classes.php:279
+#: ../frontend/images/wpabstracts_classes.php:556
+#: ../frontend/wpabstracts_addReview.php:62
+#: ../frontend/wpabstracts_dashboard.php:286
+#: ../frontend/wpabstracts_editReview.php:50
+#: ../images/wpabstracts_classes.php:279 ../images/wpabstracts_classes.php:556
+#: ../inc/wpabstracts_classes.php:440 ../inc/wpabstracts_classes.php:785
+#: ../inc/wpabstracts_downloads.php:267 ../wpabstracts_classes.php:437
+#: ../wpabstracts_classes.php:782
+msgid "Relevance"
+msgstr "Relevans"
+
+#: ../backend/wpabstracts_addReview.php:13
+#: ../backend/wpabstracts_addReview.php:22
+#: ../backend/wpabstracts_editReview.php:13
+#: ../backend/wpabstracts_editReview.php:22
+#: ../frontend/wpabstracts_addReview.php:67
+#: ../frontend/wpabstracts_addReview.php:89
+#: ../frontend/wpabstracts_editReview.php:55
+#: ../frontend/wpabstracts_editReview.php:77 ../wpabstracts_reports.php:65
+#: ../wpabstracts_reports.php:95
+msgid "Excellent"
+msgstr "Perfekt"
+
+#: ../backend/wpabstracts_addReview.php:14
+#: ../backend/wpabstracts_addReview.php:23
+#: ../backend/wpabstracts_editReview.php:14
+#: ../backend/wpabstracts_editReview.php:23
+#: ../frontend/wpabstracts_addReview.php:70
+#: ../frontend/wpabstracts_addReview.php:92
+#: ../frontend/wpabstracts_editReview.php:58
+#: ../frontend/wpabstracts_editReview.php:80 ../wpabstracts_reports.php:66
+#: ../wpabstracts_reports.php:96
+msgid "Good"
+msgstr "God"
+
+#: ../backend/wpabstracts_addReview.php:15
+#: ../backend/wpabstracts_addReview.php:24
+#: ../backend/wpabstracts_editReview.php:15
+#: ../backend/wpabstracts_editReview.php:24
+#: ../frontend/wpabstracts_addReview.php:73
+#: ../frontend/wpabstracts_addReview.php:95
+#: ../frontend/wpabstracts_editReview.php:61
+#: ../frontend/wpabstracts_editReview.php:83 ../wpabstracts_reports.php:67
+#: ../wpabstracts_reports.php:97
+msgid "Average"
+msgstr "Middel"
+
+#: ../backend/wpabstracts_addReview.php:16
+#: ../backend/wpabstracts_addReview.php:25
+#: ../backend/wpabstracts_editReview.php:16
+#: ../backend/wpabstracts_editReview.php:26
+#: ../frontend/wpabstracts_addReview.php:76
+#: ../frontend/wpabstracts_addReview.php:98
+#: ../frontend/wpabstracts_editReview.php:64
+#: ../frontend/wpabstracts_editReview.php:86 ../wpabstracts_reports.php:68
+#: ../wpabstracts_reports.php:98
+msgid "Poor"
+msgstr "Dårlig"
+
+#: ../backend/wpabstracts_addReview.php:20
+#: ../backend/wpabstracts_editReview.php:20
+#: ../frontend/images/wpabstracts_classes.php:280
+#: ../frontend/images/wpabstracts_classes.php:557
+#: ../frontend/wpabstracts_addReview.php:84
+#: ../frontend/wpabstracts_dashboard.php:287
+#: ../frontend/wpabstracts_editReview.php:72
+#: ../images/wpabstracts_classes.php:280 ../images/wpabstracts_classes.php:557
+#: ../inc/wpabstracts_classes.php:441 ../inc/wpabstracts_classes.php:786
+#: ../inc/wpabstracts_downloads.php:268 ../wpabstracts_classes.php:438
+#: ../wpabstracts_classes.php:783
+msgid "Quality"
+msgstr "Kvalitet"
+
+#: ../backend/wpabstracts_addReview.php:29
+#: ../backend/wpabstracts_editReview.php:30
+#: ../frontend/wpabstracts_addReview.php:106
+#: ../frontend/wpabstracts_editReview.php:94
+msgid "Suggest Status"
+msgstr "Statusvurdering"
+
+#: ../backend/wpabstracts_addReview.php:31
+#: ../backend/wpabstracts_editReview.php:32 ../inc/wpabstracts_classes.php:30
+#: ../wpabstracts_classes.php:30 ../wpabstracts_reports.php:44
+#: ../wpabstracts_reports.php:87 ../wpabstracts_summary.php:33
+msgid "Pending"
+msgstr "Afventer"
+
+#: ../backend/wpabstracts_addReview.php:32
+#: ../backend/wpabstracts_editReview.php:33
+#: ../frontend/wpabstracts_addReview.php:110
+#: ../frontend/wpabstracts_editReview.php:98 ../wpabstracts_reports.php:43
+#: ../wpabstracts_reports.php:86 ../wpabstracts_summary.php:30
+msgid "Approved"
+msgstr "Godkendt"
+
+#: ../backend/wpabstracts_addReview.php:33
+#: ../backend/wpabstracts_editReview.php:34
+#: ../frontend/wpabstracts_addReview.php:111
+#: ../frontend/wpabstracts_editReview.php:99 ../wpabstracts_reports.php:45
+#: ../wpabstracts_reports.php:88 ../wpabstracts_summary.php:36
+msgid "Rejected"
+msgstr "Afvis"
+
+#: ../backend/wpabstracts_addReview.php:75
+#: ../backend/wpabstracts_editReview.php:75
+#: ../frontend/wpabstracts_addReview.php:45
+#: ../frontend/wpabstracts_editReview.php:33
+msgid "Add Comments"
+msgstr "Tilføj kommentarer"
+
+#: ../backend/wpabstracts_addReview.php:75
+#: ../backend/wpabstracts_editReview.php:75
+msgid "Please add some comments about this review"
+msgstr "Tilføj venligst flere kommentarer om dette abstract"
+
+#: ../backend/wpabstracts_addReview.php:84
+#: ../backend/wpabstracts_editReview.php:84
+#: ../frontend/wpabstracts_addReview.php:119
+#: ../frontend/wpabstracts_editReview.php:107
+msgid "Additional Information"
+msgstr "Ekstra information"
+
+#: ../backend/wpabstracts_addReview.php:86
+#: ../backend/wpabstracts_editReview.php:86
+#: ../frontend/images/wpabstracts_classes.php:79
+#: ../frontend/wpabstracts_dashboard.php:158
+#: ../images/wpabstracts_classes.php:79 ../inc/wpabstracts_classes.php:106
+#: ../inc/wpabstracts_downloads.php:235 ../wpabstracts_classes.php:111
+#: ../wpabstracts_reports.php:42
+msgid "Submitted"
+msgstr "Indsendt"
+
+#: ../backend/wpabstracts_addUser.php:9
+msgid "View"
+msgstr "Vis"
+
+#: ../backend/wpabstracts_addUser.php:10
+msgid "Instructions"
+msgstr "Instruktioner"
+
+#: ../backend/wpabstracts_addUser.php:12
+msgid ""
+"1. Enter the user's name, username, temporary password and email address.\n"
+"                    Then select the level and submit. "
+msgstr ""
+
+#: ../backend/wpabstracts_addUser.php:13
+msgid ""
+"2. Email the user his/her user name\n"
+"                    and temporary password and have them update their "
+"password after the first login."
+msgstr ""
+
+#: ../backend/wpabstracts_addUser.php:15
+msgid ""
+"<strong>Authors</strong> are only allowed to submit abstracts from the "
+"frontend."
+msgstr ""
+
+#: ../backend/wpabstracts_addUser.php:16
+msgid ""
+"<strong>Reviewers</strong> are allowed backend access to review, approve or "
+"reject abstracts."
+msgstr ""
+
+#: ../backend/wpabstracts_addUser.php:17
+msgid ""
+"You may also manage users from the default WordPress users tab. Authors are "
+"equivalent to subscribers\n"
+"                    while reviewers are editors."
+msgstr ""
+
+#: ../backend/wpabstracts_addUser.php:31
+msgid "User Information"
+msgstr "Om brugeren"
+
+#: ../backend/wpabstracts_addUser.php:37
+msgid "First Name"
+msgstr "Fornavn"
+
+#: ../backend/wpabstracts_addUser.php:39 ../backend/wpabstracts_addUser.php:44
+#: ../backend/wpabstracts_addUser.php:49 ../backend/wpabstracts_addUser.php:54
+#: ../backend/wpabstracts_addUser.php:59 ../backend/wpabstracts_addUser.php:69
+msgid "Required"
+msgstr "Skal udfyldes"
+
+#: ../backend/wpabstracts_addUser.php:42
+msgid "Last Name"
+msgstr "Efternavn"
+
+#: ../backend/wpabstracts_addUser.php:47
+#: ../frontend/images/wpabstracts_classes.php:937
+#: ../images/wpabstracts_classes.php:937 ../inc/wpabstracts_classes.php:1169
+#: ../wpabstracts_classes.php:1166
+msgid "Username"
+msgstr "Brugernavn"
+
+#: ../backend/wpabstracts_addUser.php:52
+msgid "Password"
+msgstr "Kodeord"
+
+#: ../backend/wpabstracts_addUser.php:62
+msgid "User Level"
+msgstr "Userlevel"
+
+#: ../backend/wpabstracts_addUser.php:65
+msgid "User Role"
+msgstr "Rolle"
+
+#: ../backend/wpabstracts_addUser.php:66
+#: ../frontend/images/wpabstracts_classes.php:76
+#: ../frontend/images/wpabstracts_classes.php:420
+#: ../frontend/wpabstracts_dashboard.php:217
+#: ../images/wpabstracts_classes.php:76 ../images/wpabstracts_classes.php:420
+#: ../inc/wpabstracts_classes.php:649 ../wpabstracts_classes.php:646
+#: ../wpabstracts_summary.php:64
+msgid "Author"
+msgstr "Forfatter"
+
+#: ../backend/wpabstracts_addUser.php:67 ../inc/wpabstracts_downloads.php:234
+#: ../inc/wpabstracts_downloads.php:235 ../wpabstracts_abstracts.php:184
+#: ../wpabstracts_abstracts.php:250 ../wpabstracts_summary.php:93
+msgid "Reviewer"
+msgstr "Anmelder"
+
+#: ../backend/wpabstracts_addUser.php:76
+msgid "Create User"
+msgstr "Opret bruger"
+
+#: ../backend/wpabstracts_editAbstract.php:11
+#: ../backend/wpabstracts_editAbstract_backup.php:12
+#: ../frontend/wpabstracts_dashboard.php:257
+#: ../frontend/wpabstracts_editAbstract.php:24
+#: ../wpabstracts_editAbstract.php:12
+msgid "Edit Abstract"
+msgstr "Rediger Abstract"
+
+#: ../backend/wpabstracts_editAbstract.php:16
+#: ../backend/wpabstracts_editAbstract_backup.php:17
+#: ../frontend/wpabstracts_editAbstract.php:232
+#: ../wpabstracts_editAbstract.php:17
+msgid "Update Abstract"
+msgstr "Opdater Abstract"
+
+#: ../backend/wpabstracts_editAbstract.php:19
+#: ../backend/wpabstracts_editAbstract.php:109
+#: ../backend/wpabstracts_editAbstract.php:194
+#: ../backend/wpabstracts_editAbstract.php:206
+#: ../backend/wpabstracts_editAbstract.php:218
+#: ../backend/wpabstracts_editAbstract_backup.php:20
+#: ../backend/wpabstracts_editAbstract_backup.php:110
+#: ../backend/wpabstracts_editAbstract_backup.php:187
+#: ../backend/wpabstracts_editAbstract_backup.php:199
+#: ../backend/wpabstracts_editAbstract_backup.php:211
+#: ../wpabstracts_editAbstract.php:20 ../wpabstracts_editAbstract.php:110
+#: ../wpabstracts_editAbstract.php:187 ../wpabstracts_editAbstract.php:199
+#: ../wpabstracts_editAbstract.php:211
+msgid " All fields required"
+msgstr "Alle felter skal udfyldes"
+
+#: ../backend/wpabstracts_editAbstract.php:50
+#: ../backend/wpabstracts_editAbstract_backup.php:51
+#: ../inc/wpabstracts_classes.php:88 ../wpabstracts_classes.php:93
+#: ../wpabstracts_editAbstract.php:51
+msgid "No session"
+msgstr "Ingen session"
+
+#: ../backend/wpabstracts_editAbstract.php:60
+#: ../backend/wpabstracts_editAbstract_backup.php:61
+#: ../inc/wpabstracts_classes.php:101 ../wpabstracts_classes.php:106
+#: ../wpabstracts_editAbstract.php:61
+msgid "Priority"
+msgstr "Prioritet"
+
+#: ../backend/wpabstracts_editAbstract.php:117
+#: ../backend/wpabstracts_editAbstract_backup.php:118
+#: ../frontend/wpabstracts_addAbstract.php:225
+#: ../inc/wpabstracts_addAbstract.php:230 ../wpabstracts_editAbstract.php:118
+msgid "Company"
+msgstr "Virksomhed"
+
+#: ../backend/wpabstracts_editAbstract.php:230
+#: ../backend/wpabstracts_editAbstract_backup.php:223
+#: ../wpabstracts_editAbstract.php:223
+msgid "Presenter comments for abstract"
+msgstr "Forfatters bemærkninger"
+
+#: ../backend/wpabstracts_editAbstract.php:240
+#: ../backend/wpabstracts_editAbstract_backup.php:233
+#: ../wpabstracts_editAbstract.php:233
+msgid "Manager comments for abstract"
+msgstr "Administrators bemærkninger"
+
+#: ../backend/wpabstracts_editAbstract.php:272
+#: ../backend/wpabstracts_editAbstract_backup.php:265
+#: ../wpabstracts_editAbstract.php:265
+msgid "Change Ownership"
+msgstr "Skift ejerskab"
+
+#: ../backend/wpabstracts_editAbstract.php:274
+#: ../backend/wpabstracts_editAbstract_backup.php:267
+#: ../frontend/wpabstracts_editAbstract.php:69
+#: ../wpabstracts_editAbstract.php:267
+msgid "Use this box to assign a new user / owner of this submission"
+msgstr "Brug denne boks til at tildele en ny bruger/ejer til dette abstract"
+
+#: ../backend/wpabstracts_editAbstract_backup.php:174
+#: ../inc/wpabstracts_addAbstract.php:271 ../wpabstracts_editAbstract.php:174
+msgid "Choose photo..."
+msgstr "Vælg et billede"
+
+#: ../backend/wpabstracts_editAbstract_backup.php:299
+#: ../inc/wpabstracts_addAbstract.php:35 ../wpabstracts_editAbstract.php:299
+msgid "Done"
+msgstr "Færdig"
+
+#: ../backend/wpabstracts_editAbstract_backup.php:300
+#: ../inc/wpabstracts_addAbstract.php:36 ../wpabstracts_editAbstract.php:300
+msgid "Cancel"
+msgstr "Annullér"
+
+#: ../backend/wpabstracts_editEmailTemplate.php:5
+#: ../inc/wpabstracts_editEmailTemplate.php:5
+msgid "Available Shortcodes"
+msgstr "Shortcodes"
+
+#: ../backend/wpabstracts_editEmailTemplate.php:7
+#: ../inc/wpabstracts_editEmailTemplate.php:7
+msgid "Receiver data"
+msgstr "Om modtager"
+
+#: ../backend/wpabstracts_editEmailTemplate.php:8
+#: ../inc/wpabstracts_editEmailTemplate.php:8
+msgid "Receiver name"
+msgstr "Navn"
+
+#: ../backend/wpabstracts_editEmailTemplate.php:9
+msgid "User data (only for single abstract)"
+msgstr "Forfatter (kun for enkelt abstract)"
+
+#: ../backend/wpabstracts_editEmailTemplate.php:10
+#: ../inc/wpabstracts_editEmailTemplate.php:10
+msgid "User name"
+msgstr "Navn"
+
+#: ../backend/wpabstracts_editEmailTemplate.php:11
+#: ../inc/wpabstracts_editEmailTemplate.php:11
+msgid "User company"
+msgstr "Virksomhed"
+
+#: ../backend/wpabstracts_editEmailTemplate.php:12
+#: ../inc/wpabstracts_editEmailTemplate.php:12
+msgid "User email"
+msgstr "E-mail"
+
+#: ../backend/wpabstracts_editEmailTemplate.php:13
+#: ../inc/wpabstracts_editEmailTemplate.php:13
+msgid "User phone"
+msgstr "Telefon"
+
+#: ../backend/wpabstracts_editEmailTemplate.php:14
+msgid "Abstract (only for single abstract)"
+msgstr "Abstract info (kun for enkelt abstract)"
+
+#: ../backend/wpabstracts_editEmailTemplate.php:15
+#: ../inc/wpabstracts_editEmailTemplate.php:15
+msgid "Abstract title"
+msgstr "Titel"
+
+#: ../backend/wpabstracts_editEmailTemplate.php:16
+#: ../inc/wpabstracts_editEmailTemplate.php:16
+msgid "Abstract subject"
+msgstr "Emne"
+
+#: ../backend/wpabstracts_editEmailTemplate.php:17
+#: ../inc/wpabstracts_editEmailTemplate.php:17
+msgid "Abstract target group"
+msgstr "Målgruppe"
+
+#: ../backend/wpabstracts_editEmailTemplate.php:18
+#: ../inc/wpabstracts_editEmailTemplate.php:18
+msgid "Abstract resume"
+msgstr "Resume"
+
+#: ../backend/wpabstracts_editEmailTemplate.php:19
+#: ../inc/wpabstracts_editEmailTemplate.php:19
+msgid "Abstract content"
+msgstr "Abstract"
+
+#: ../backend/wpabstracts_editEmailTemplate.php:20
+#: ../inc/wpabstracts_editEmailTemplate.php:20
+msgid "Manager comments"
+msgstr "Administrators bemærkninger"
+
+#: ../backend/wpabstracts_editEmailTemplate.php:21
+#: ../inc/wpabstracts_editEmailTemplate.php:21
+msgid "Abstracts (only for multiple abstracts)"
+msgstr "Abstracts (kun for flere abstracts på en gang)"
+
+#: ../backend/wpabstracts_editEmailTemplate.php:22
+#: ../inc/wpabstracts_editEmailTemplate.php:22
+msgid "Abstracts list"
+msgstr "Liste af abstracts"
+
+#: ../backend/wpabstracts_editEmailTemplate.php:23
+#: ../inc/wpabstracts_editEmailTemplate.php:23
+msgid "Number of abstracts"
+msgstr "Antal abstracts"
+
+#: ../backend/wpabstracts_editEmailTemplate.php:24
+#: ../inc/wpabstracts_editEmailTemplate.php:24
+msgid "Event data"
+msgstr "Om event"
+
+#: ../backend/wpabstracts_editEmailTemplate.php:25
+#: ../inc/wpabstracts_editEmailTemplate.php:25
+msgid "Event name"
+msgstr "Begivenhedsnavn"
+
+#: ../backend/wpabstracts_editEmailTemplate.php:26
+#: ../inc/wpabstracts_editEmailTemplate.php:26
+msgid "Event start date"
+msgstr "Startdato"
+
+#: ../backend/wpabstracts_editEmailTemplate.php:27
+#: ../inc/wpabstracts_editEmailTemplate.php:27
+msgid "Event end date"
+msgstr "Slutdato"
+
+#: ../backend/wpabstracts_editEmailTemplate.php:28
+#: ../inc/wpabstracts_editEmailTemplate.php:28
+msgid "Other shortcodes"
+msgstr "Andre"
+
+#: ../backend/wpabstracts_editEmailTemplate.php:29
+#: ../inc/wpabstracts_editEmailTemplate.php:29
+msgid "Site name"
+msgstr "Hjemmesidens navn"
+
+#: ../backend/wpabstracts_editEmailTemplate.php:30
+#: ../inc/wpabstracts_editEmailTemplate.php:30
+msgid "Site URL"
+msgstr "Link til hjemmesiden"
+
+#: ../backend/wpabstracts_editEmailTemplate.php:31
+#: ../inc/wpabstracts_editEmailTemplate.php:31
+msgid "One week later"
+msgstr "En uge senere"
+
+#: ../backend/wpabstracts_editEmailTemplate.php:32
+#: ../inc/wpabstracts_editEmailTemplate.php:32
+msgid "Two weeks later"
+msgstr "To uger senere"
+
+#: ../backend/wpabstracts_editEmailTemplate.php:39
+#: ../inc/wpabstracts_editEmailTemplate.php:39
+msgid "Edit Email Template"
+msgstr "Rediger emailskabeloner"
+
+#: ../backend/wpabstracts_editEmailTemplate.php:43
+#: ../inc/wpabstracts_editEmailTemplate.php:43
+msgid "Template Name"
+msgstr "Skabelonnavn"
+
+#: ../backend/wpabstracts_editEmailTemplate.php:47
+#: ../frontend/images/wpabstracts_classes.php:822
+#: ../images/wpabstracts_classes.php:822 ../inc/wpabstracts_classes.php:1054
+#: ../inc/wpabstracts_editEmailTemplate.php:47 ../wpabstracts_classes.php:1051
+msgid "From Name"
+msgstr "Fra Navn"
+
+#: ../backend/wpabstracts_editEmailTemplate.php:51
+#: ../frontend/images/wpabstracts_classes.php:823
+#: ../images/wpabstracts_classes.php:823 ../inc/wpabstracts_classes.php:1055
+#: ../inc/wpabstracts_editEmailTemplate.php:51 ../wpabstracts_classes.php:1052
+msgid "From Email"
+msgstr "Fra Email"
+
+#: ../backend/wpabstracts_editEmailTemplate.php:55
+#: ../inc/wpabstracts_editEmailTemplate.php:55
+msgid "Email Subject"
+msgstr "Email Emne"
+
+#: ../backend/wpabstracts_editEmailTemplate.php:59
+#: ../inc/wpabstracts_editEmailTemplate.php:59
+msgid "Email Body"
+msgstr "Email Tekst"
+
+#: ../backend/wpabstracts_editEmailTemplate.php:71
+#: ../inc/wpabstracts_editEmailTemplate.php:71
+msgid "Update Template"
+msgstr "Opdater Skabelon"
+
+#: ../backend/wpabstracts_editReview.php:1
+#: ../frontend/wpabstracts_editReview.php:1
+msgid "Edit Review"
+msgstr "Rediger Anmeldelse"
+
+#: ../backend/wpabstracts_editReview.php:7
+#: ../frontend/wpabstracts_editReview.php:132
+msgid "Update Review"
+msgstr "Opdater anmeldelse"
+
+#: ../frontend/images/wpabstracts_classes.php:25
+#: ../frontend/images/wpabstracts_classes.php:99
+#: ../images/wpabstracts_classes.php:25 ../images/wpabstracts_classes.php:99
+#: ../inc/wpabstracts_classes.php:28 ../inc/wpabstracts_classes.php:128
+#: ../wpabstracts_classes.php:28 ../wpabstracts_classes.php:133
+msgid "Approve"
+msgstr "Udgiv"
+
+#: ../frontend/images/wpabstracts_classes.php:26
+#: ../frontend/images/wpabstracts_classes.php:100
+#: ../images/wpabstracts_classes.php:26 ../images/wpabstracts_classes.php:100
+#: ../inc/wpabstracts_classes.php:29 ../inc/wpabstracts_classes.php:129
+#: ../wpabstracts_classes.php:29 ../wpabstracts_classes.php:134
+msgid "Reject"
+msgstr "Afvis"
+
+#: ../frontend/images/wpabstracts_classes.php:27
+#: ../frontend/images/wpabstracts_classes.php:228
+#: ../frontend/images/wpabstracts_classes.php:517
+#: ../frontend/images/wpabstracts_classes.php:658
+#: ../frontend/images/wpabstracts_classes.php:797
+#: ../frontend/images/wpabstracts_classes.php:902
+#: ../frontend/wpabstracts_dashboard.php:178
+#: ../frontend/wpabstracts_dashboard.php:315
+#: ../images/wpabstracts_classes.php:27 ../images/wpabstracts_classes.php:228
+#: ../images/wpabstracts_classes.php:517 ../images/wpabstracts_classes.php:658
+#: ../images/wpabstracts_classes.php:797 ../images/wpabstracts_classes.php:902
+#: ../inc/wpabstracts_classes.php:31 ../inc/wpabstracts_classes.php:398
+#: ../inc/wpabstracts_classes.php:746 ../inc/wpabstracts_classes.php:887
+#: ../inc/wpabstracts_classes.php:1028 ../inc/wpabstracts_classes.php:1134
+#: ../wpabstracts_classes.php:31 ../wpabstracts_classes.php:395
+#: ../wpabstracts_classes.php:743 ../wpabstracts_classes.php:884
+#: ../wpabstracts_classes.php:1025 ../wpabstracts_classes.php:1131
+msgid "Edit"
+msgstr "Rediger"
+
+#: ../frontend/images/wpabstracts_classes.php:28
+#: ../images/wpabstracts_classes.php:28 ../inc/wpabstracts_classes.php:32
+#: ../wpabstracts_classes.php:32
+msgid "Assign"
+msgstr "Tildel"
+
+#: ../frontend/images/wpabstracts_classes.php:29
+#: ../frontend/wpabstracts_dashboard.php:275
+#: ../images/wpabstracts_classes.php:29 ../inc/wpabstracts_classes.php:33
+#: ../wpabstracts_classes.php:33
+msgid "Reviews"
+msgstr "Anmeldelser"
+
+#: ../frontend/images/wpabstracts_classes.php:30
+#: ../images/wpabstracts_classes.php:30 ../inc/wpabstracts_classes.php:34
+#: ../wpabstracts_classes.php:34
+msgid "Export PDF"
+msgstr "Eksporter til PDF"
+
+#: ../frontend/images/wpabstracts_classes.php:31
+#: ../frontend/images/wpabstracts_classes.php:101
+#: ../frontend/images/wpabstracts_classes.php:229
+#: ../frontend/images/wpabstracts_classes.php:300
+#: ../frontend/images/wpabstracts_classes.php:518
+#: ../frontend/images/wpabstracts_classes.php:577
+#: ../frontend/images/wpabstracts_classes.php:659
+#: ../frontend/images/wpabstracts_classes.php:722
+#: ../frontend/images/wpabstracts_classes.php:903
+#: ../frontend/images/wpabstracts_classes.php:955
+#: ../frontend/wpabstracts_dashboard.php:179
+#: ../frontend/wpabstracts_dashboard.php:316
+#: ../images/wpabstracts_classes.php:31 ../images/wpabstracts_classes.php:101
+#: ../images/wpabstracts_classes.php:229 ../images/wpabstracts_classes.php:300
+#: ../images/wpabstracts_classes.php:518 ../images/wpabstracts_classes.php:577
+#: ../images/wpabstracts_classes.php:659 ../images/wpabstracts_classes.php:722
+#: ../images/wpabstracts_classes.php:903 ../images/wpabstracts_classes.php:955
+#: ../inc/wpabstracts_classes.php:35 ../inc/wpabstracts_classes.php:130
+#: ../inc/wpabstracts_classes.php:399 ../inc/wpabstracts_classes.php:461
+#: ../inc/wpabstracts_classes.php:747 ../inc/wpabstracts_classes.php:806
+#: ../inc/wpabstracts_classes.php:888 ../inc/wpabstracts_classes.php:953
+#: ../inc/wpabstracts_classes.php:1135 ../inc/wpabstracts_classes.php:1187
+#: ../wpabstracts_classes.php:35 ../wpabstracts_classes.php:135
+#: ../wpabstracts_classes.php:396 ../wpabstracts_classes.php:458
+#: ../wpabstracts_classes.php:744 ../wpabstracts_classes.php:803
+#: ../wpabstracts_classes.php:885 ../wpabstracts_classes.php:950
+#: ../wpabstracts_classes.php:1132 ../wpabstracts_classes.php:1184
+msgid "Delete"
+msgstr "Slet"
+
+#: ../frontend/images/wpabstracts_classes.php:57
+#: ../images/wpabstracts_classes.php:57 ../inc/wpabstracts_classes.php:62
+#: ../wpabstracts_classes.php:67 ../wpabstracts_summary.php:111
+msgid "Not Assigned"
+msgstr "Ikke tildelt"
+
+#: ../frontend/images/wpabstracts_classes.php:74
+#: ../frontend/wpabstracts_dashboard.php:155
+#: ../frontend/wpabstracts_dashboard.php:215
+#: ../frontend/wpabstracts_dashboard.php:283
+#: ../images/wpabstracts_classes.php:74 ../inc/wpabstracts_classes.php:98
+#: ../inc/wpabstracts_downloads.php:232 ../wpabstracts_classes.php:103
+msgid "Title"
+msgstr "Titel"
+
+#: ../frontend/images/wpabstracts_classes.php:75
+#: ../images/wpabstracts_classes.php:75 ../inc/wpabstracts_classes.php:99
+#: ../wpabstracts_classes.php:104
+msgid "Event / Topic"
+msgstr "Begivenhed / Emne"
+
+#: ../frontend/images/wpabstracts_classes.php:77
+#: ../frontend/images/wpabstracts_classes.php:558
+#: ../frontend/wpabstracts_dashboard.php:156
+#: ../frontend/wpabstracts_dashboard.php:285
+#: ../images/wpabstracts_classes.php:77 ../images/wpabstracts_classes.php:558
+#: ../inc/wpabstracts_classes.php:104 ../inc/wpabstracts_classes.php:787
+#: ../inc/wpabstracts_downloads.php:233 ../inc/wpabstracts_downloads.php:267
+#: ../wpabstracts_classes.php:109 ../wpabstracts_classes.php:784
+#: ../wpabstracts_reports.php:41 ../wpabstracts_reports.php:64
+msgid "Status"
+msgstr "Status"
+
+#: ../frontend/images/wpabstracts_classes.php:78
+#: ../images/wpabstracts_classes.php:78 ../inc/wpabstracts_classes.php:105
+#: ../wpabstracts_classes.php:110
+msgid "Reviewers"
+msgstr "Anmeldere"
+
+#: ../frontend/images/wpabstracts_classes.php:184
+#: ../images/wpabstracts_classes.php:184 ../inc/wpabstracts_classes.php:226
+#: ../inc/wpabstracts_classes.php:525 ../inc/wpabstracts_filters.php:24
+#: ../wpabstracts_classes.php:223 ../wpabstracts_classes.php:522
+#: ../wpabstracts_filters.php:25
+msgid "All events"
+msgstr "Alle events"
+
+#: ../frontend/images/wpabstracts_classes.php:238
+#: ../frontend/images/wpabstracts_classes.php:528
+#: ../images/wpabstracts_classes.php:238 ../images/wpabstracts_classes.php:528
+#: ../inc/wpabstracts_classes.php:408 ../inc/wpabstracts_classes.php:757
+#: ../wpabstracts_classes.php:405 ../wpabstracts_classes.php:754
+msgid "User deleted"
+msgstr "Brugeren er slettet"
+
+#: ../frontend/images/wpabstracts_classes.php:241
+#: ../frontend/images/wpabstracts_classes.php:531
+#: ../images/wpabstracts_classes.php:241 ../images/wpabstracts_classes.php:531
+#: ../inc/wpabstracts_classes.php:411 ../inc/wpabstracts_classes.php:760
+#: ../wpabstracts_classes.php:408 ../wpabstracts_classes.php:757
+#, php-format
+msgid "%1$s<br><span style=\"color:silver\">Reviewed by: %2$s | %3$s</span>"
+msgstr "%1$s<br><span style=\"color:silver\">Anmeldt af: %2$s | %3$s</span>"
+
+#: ../frontend/images/wpabstracts_classes.php:266
+#: ../images/wpabstracts_classes.php:266
+msgid ""
+"TIP: The suggested status on reviews is only\n"
+"                    a recommendation, administrators have the final decision "
+"to accept or reject submissions."
+msgstr ""
+"NB. Statusvurderingen er kun et forslag. Det er administratorens afgørelse "
+"om abstractet skal godkendes eller afvises."
+
+#: ../frontend/images/wpabstracts_classes.php:278
+#: ../frontend/images/wpabstracts_classes.php:555
+#: ../frontend/wpabstracts_dashboard.php:284
+#: ../images/wpabstracts_classes.php:278 ../images/wpabstracts_classes.php:555
+#: ../inc/wpabstracts_classes.php:439 ../inc/wpabstracts_classes.php:784
+#: ../inc/wpabstracts_downloads.php:268 ../wpabstracts_classes.php:436
+#: ../wpabstracts_classes.php:781 ../wpabstracts_summary.php:92
+msgid "Comments"
+msgstr "Kommentarer"
+
+#: ../frontend/images/wpabstracts_classes.php:281
+#: ../images/wpabstracts_classes.php:281 ../inc/wpabstracts_classes.php:442
+#: ../wpabstracts_classes.php:439
+msgid "Suggested"
+msgstr "Foreslået"
+
+#: ../frontend/images/wpabstracts_classes.php:282
+#: ../frontend/images/wpabstracts_classes.php:559
+#: ../frontend/images/wpabstracts_classes.php:939
+#: ../frontend/wpabstracts_dashboard.php:157
+#: ../images/wpabstracts_classes.php:282 ../images/wpabstracts_classes.php:559
+#: ../images/wpabstracts_classes.php:939 ../inc/wpabstracts_classes.php:443
+#: ../inc/wpabstracts_classes.php:788 ../inc/wpabstracts_classes.php:1171
+#: ../wpabstracts_classes.php:440 ../wpabstracts_classes.php:785
+#: ../wpabstracts_classes.php:1168
+msgid "Type"
+msgstr "Type"
+
+#: ../frontend/images/wpabstracts_classes.php:379
+#: ../frontend/images/wpabstracts_classes.php:423
+#: ../images/wpabstracts_classes.php:379 ../images/wpabstracts_classes.php:423
+#: ../inc/wpabstracts_classes.php:608 ../inc/wpabstracts_classes.php:652
+#: ../wpabstracts_classes.php:605 ../wpabstracts_classes.php:649
+msgid "Download"
+msgstr "Download"
+
+#: ../frontend/images/wpabstracts_classes.php:418
+#: ../images/wpabstracts_classes.php:418 ../inc/wpabstracts_classes.php:647
+#: ../wpabstracts_classes.php:644
+msgid "File Name"
+msgstr "Filnavn"
+
+#: ../frontend/images/wpabstracts_classes.php:419
+#: ../images/wpabstracts_classes.php:419 ../inc/wpabstracts_classes.php:648
+#: ../wpabstracts_classes.php:645
+msgid "Uploaded to"
+msgstr "Upload til"
+
+#: ../frontend/images/wpabstracts_classes.php:421
+#: ../images/wpabstracts_classes.php:421 ../inc/wpabstracts_classes.php:650
+#: ../wpabstracts_classes.php:647
+msgid "File Type"
+msgstr "Filtype"
+
+#: ../frontend/images/wpabstracts_classes.php:422
+#: ../images/wpabstracts_classes.php:422 ../inc/wpabstracts_classes.php:651
+#: ../wpabstracts_classes.php:648
+msgid "File Size"
+msgstr "Filstørrelse"
+
+#: ../frontend/images/wpabstracts_classes.php:505
+#: ../images/wpabstracts_classes.php:505 ../inc/wpabstracts_classes.php:734
+#: ../wpabstracts_classes.php:731
+msgid "review"
+msgstr "anmeldelse"
+
+#: ../frontend/images/wpabstracts_classes.php:506
+#: ../images/wpabstracts_classes.php:506 ../inc/wpabstracts_classes.php:735
+#: ../wpabstracts_classes.php:732
+msgid "reviews"
+msgstr "anmeldelser"
+
+#: ../frontend/images/wpabstracts_classes.php:689
+#: ../images/wpabstracts_classes.php:689 ../inc/wpabstracts_classes.php:919
+#: ../wpabstracts_classes.php:916
+msgid "Event Name"
+msgstr "Begivenhedsnavn"
+
+#: ../frontend/images/wpabstracts_classes.php:696
+#: ../images/wpabstracts_classes.php:696 ../inc/wpabstracts_classes.php:927
+#: ../wpabstracts_classes.php:924
+msgid "Submissions"
+msgstr "Indlæg"
+
+#: ../frontend/images/wpabstracts_classes.php:820
+#: ../images/wpabstracts_classes.php:820 ../inc/wpabstracts_classes.php:1052
+#: ../wpabstracts_classes.php:1049
+msgid "Email Template"
+msgstr "E-mailskabelon"
+
+#: ../frontend/images/wpabstracts_classes.php:821
+#: ../images/wpabstracts_classes.php:821 ../inc/wpabstracts_classes.php:1053
+#: ../wpabstracts_classes.php:1050
+msgid "Subject"
+msgstr "Emne"
+
+#: ../frontend/images/wpabstracts_classes.php:824
+#: ../images/wpabstracts_classes.php:824 ../inc/wpabstracts_classes.php:1056
+#: ../wpabstracts_classes.php:1053
+msgid "Email Group"
+msgstr "E-mail-gruppe"
+
+#: ../frontend/images/wpabstracts_classes.php:936
+#: ../images/wpabstracts_classes.php:936 ../inc/wpabstracts_classes.php:1168
+#: ../wpabstracts_classes.php:1165
+msgid "Full Name"
+msgstr "Navn"
+
+#: ../frontend/images/wpabstracts_classes.php:971
+#: ../images/wpabstracts_classes.php:971 ../inc/wpabstracts_classes.php:1203
+#: ../wpabstracts_classes.php:1200
+msgid "Search users"
+msgstr "Søg i brugere"
+
+#: ../frontend/wpabstracts_addAbstract.php:16
+#: ../inc/wpabstracts_addAbstract.php:16
+msgid "<h4>Abstract submission for this event has past</h4>"
+msgstr "<h4>Deadline for indsending af abstracts er overskredet</h4>"
+
+#: ../frontend/wpabstracts_addAbstract.php:20
+#: ../frontend/wpabstracts_dashboard.php:73
+#: ../inc/wpabstracts_addAbstract.php:20
+msgid "Thanks for your submission"
+msgstr "Tak for dit abstract. Vi sender en bekræftelse til din e-mail."
+
+#: ../frontend/wpabstracts_addAbstract.php:24
+#: ../inc/wpabstracts_addAbstract.php:24
+msgid "New abstract"
+msgstr "Nyt Abstract"
+
+#: ../frontend/wpabstracts_addAbstract.php:33
+#: ../inc/wpabstracts_addAbstract.php:47
+msgid "Title of Abstract"
+msgstr "Titel"
+
+#: ../frontend/wpabstracts_addAbstract.php:36
+#: ../frontend/wpabstracts_editAbstract.php:27
+#: ../inc/wpabstracts_addAbstract.php:50
+msgid "Enter title"
+msgstr "Skriv titlen på dit abstract"
+
+#: ../frontend/wpabstracts_addAbstract.php:50
+#: ../frontend/wpabstracts_addAbstract.php:66
+#: ../frontend/wpabstracts_addAbstract.php:84
+#: ../frontend/wpabstracts_addAbstract.php:101
+#: ../inc/wpabstracts_addAbstract.php:64 ../inc/wpabstracts_addAbstract.php:80
+#: ../inc/wpabstracts_addAbstract.php:98 ../inc/wpabstracts_addAbstract.php:115
+#, php-format
+msgid "Character count: %s"
+msgstr "Tegntælling: %s"
+
+#: ../frontend/wpabstracts_addAbstract.php:74
+#: ../inc/wpabstracts_addAbstract.php:88
+#, php-format
+msgid "Minimum %s characters"
+msgstr "Mindst %s tegn"
+
+#: ../frontend/wpabstracts_addAbstract.php:92
+#: ../inc/wpabstracts_addAbstract.php:106
+msgid "Comments (optional)"
+msgstr "Bemærkninger (valgfri)"
+
+#: ../frontend/wpabstracts_addAbstract.php:112
+#: ../frontend/wpabstracts_addAbstract.php:113
+#: ../frontend/wpabstracts_editAbstract.php:203
+#: ../inc/wpabstracts_addAbstract.php:126
+#: ../inc/wpabstracts_addAbstract.php:127 ../wpabstracts_summary.php:42
+msgid "Attachments"
+msgstr "Vedhæftninger"
+
+#: ../frontend/wpabstracts_addAbstract.php:113
+#: ../inc/wpabstracts_addAbstract.php:127
+msgid "Add up to "
+msgstr "Vælg op til"
+
+#: ../frontend/wpabstracts_addAbstract.php:119
+#: ../frontend/wpabstracts_editAbstract.php:210
+#: ../inc/wpabstracts_addAbstract.php:133
+msgid "Use this form to upload your images, photos or tables."
+msgstr "Brug denne formular til at uploade dine billeder."
+
+#: ../frontend/wpabstracts_addAbstract.php:120
+#: ../frontend/wpabstracts_editAbstract.php:211
+#: ../inc/wpabstracts_addAbstract.php:134
+msgid "Supported formats"
+msgstr "Du kan bruge følgende formater"
+
+#: ../frontend/wpabstracts_addAbstract.php:121
+#: ../frontend/wpabstracts_editAbstract.php:212
+#: ../inc/wpabstracts_addAbstract.php:135
+msgid "Maximum attachment size"
+msgstr "Max størrelse på vedhæftning"
+
+#: ../frontend/wpabstracts_addAbstract.php:245
+#: ../inc/wpabstracts_addAbstract.php:250
+msgid "I would like to send a message to Geoforum Perspektiv"
+msgstr "Ja tak, jeg vil gerne skrive en artikel til Geoforum Perspektiv."
+
+#: ../frontend/wpabstracts_addReview.php:112
+#: ../frontend/wpabstracts_editReview.php:100
+msgid "Maybe"
+msgstr "Måske egnet"
+
+#: ../frontend/wpabstracts_dashboard.php:14
+msgid "Wrong username or password"
+msgstr "Forkert brugernavn eller kodeord"
+
+#: ../frontend/wpabstracts_dashboard.php:23
+msgid "Password reset requested. You should receive an email shortly"
+msgstr ""
+"Du har anmodet om nulstilling af kode. Du burde modtage en email inden for "
+"kort tid"
+
+#: ../frontend/wpabstracts_dashboard.php:29
+msgid "Please login for your conference participation"
+msgstr "Log venligst ind for at lave reviews"
+
+#: ../frontend/wpabstracts_dashboard.php:33
+msgid "Lost password?"
+msgstr "Glemt kodeord?"
+
+#: ../frontend/wpabstracts_dashboard.php:37
+msgid ""
+"You're an Administrator. Please use the WordPress admin area to manage "
+"abstracts."
+msgstr ""
+"Du er administrator. Brug venligst backendmodulet til at administrere "
+"abstracts."
+
+#: ../frontend/wpabstracts_dashboard.php:128
+msgid "Logout"
+msgstr "Log ud"
+
+#: ../frontend/wpabstracts_dashboard.php:147
+msgid "My Abstracts"
+msgstr "Mine abstracts"
+
+#: ../frontend/wpabstracts_dashboard.php:154
+msgid "ID"
+msgstr "ID"
+
+#: ../frontend/wpabstracts_dashboard.php:159
+#: ../frontend/wpabstracts_dashboard.php:219
+#: ../frontend/wpabstracts_dashboard.php:289
+msgid "Action"
+msgstr "Handling"
+
+#: ../frontend/wpabstracts_dashboard.php:164
+msgid "You have NOT submitted any abstracts."
+msgstr "Du har ikke indsendt nogle abstracts."
+
+#: ../frontend/wpabstracts_dashboard.php:182
+msgid "Closed"
+msgstr "Lukket"
+
+#: ../frontend/wpabstracts_dashboard.php:207
+msgid "New Abstracts"
+msgstr "Nye abstracts"
+
+#: ../frontend/wpabstracts_dashboard.php:239
+msgid "You have NO newly assigned abstracts"
+msgstr "Du har ikke fået tildelt nogle nye abstracts"
+
+#: ../frontend/wpabstracts_dashboard.php:259
+msgid "Review"
+msgstr "Anmeld"
+
+#: ../frontend/wpabstracts_dashboard.php:288
+msgid "Reviewed"
+msgstr "anmeldt"
+
+#: ../frontend/wpabstracts_dashboard.php:297
+msgid "You have no COMPLETED reviews"
+msgstr "Du har ingen afsluttede anmeldelser"
+
+#: ../frontend/wpabstracts_editAbstract.php:28
+msgid "Please add a description"
+msgstr "Tilføj en beskrivelse"
+
+#: ../frontend/wpabstracts_editAbstract.php:42
+msgid "Manage Attachments"
+msgstr "Administrer vedhæftninger"
+
+#: ../frontend/wpabstracts_editAbstract.php:47
+msgid "<p>No Attachments uploaded</p>"
+msgstr "<p>Der er ikke nogle vedhæftninger</p>"
+
+#: ../frontend/wpabstracts_editAbstract.php:66
+msgid "Manage Ownership"
+msgstr "Rediger ejerskab"
+
+#: ../frontend/wpabstracts_editAbstract.php:127
+msgid "Author Information"
+msgstr "Om forfatteren"
+
+#: ../frontend/wpabstracts_editAbstract.php:153 ../wpabstracts.php:696
+msgid "Affiliation"
+msgstr ""
+
+#: ../frontend/wpabstracts_editAbstract.php:161
+msgid "add author"
+msgstr "Tilføj forfatter"
+
+#: ../frontend/wpabstracts_editAbstract.php:162
+msgid "delete author"
+msgstr "Slet forfatter"
+
+#: ../frontend/wpabstracts_editAbstract.php:186
+msgid "Presenter Preference"
+msgstr "Oplægsholderens præferencer"
+
+#: ../frontend/wpabstracts_editAbstract.php:204
+msgid "(add up to "
+msgstr "(tilføj op til "
+
+#: ../frontend/wpabstracts_listAbstracts.php:73
+#: ../wpabstracts_listAbstracts.php:52
+msgid "Unknown abstract id"
+msgstr "Ukendt abstract id"
+
+#: ../frontend/wpabstracts_listAbstracts.php:97
+#: ../wpabstracts_listAbstracts.php:114
+#, php-format
+msgid "Abstracts for %s"
+msgstr "Abstracts for %s"
+
+#: ../frontend/wpabstracts_listAbstracts.php:131
+msgid "Choose session"
+msgstr "Vælg session"
+
+#: ../inc/old_pdfdownload.php:31 ../inc/old_pdfdownload.php:96
+msgid "by"
+msgstr ""
+
+#: ../inc/old_pdfdownload.php:33 ../inc/old_pdfdownload.php:98
+msgid "Abstract ID"
+msgstr "Abstract ID"
+
+#: ../inc/old_pdfdownload.php:40 ../inc/old_pdfdownload.php:110
+msgid "Abstract Details"
+msgstr "Detaljer om abstractet"
+
+#: ../inc/old_pdfdownload.php:49 ../inc/old_pdfdownload.php:120
+#: ../inc/wpabstracts_classes.php:102 ../inc/wpabstracts_downloads.php:233
+#: ../wpabstracts_classes.php:107
+msgid "Presenter"
+msgstr "Oplægsholder"
+
+#: ../inc/old_pdfdownload.php:53 ../inc/wpabstracts_downloads.php:234
+msgid "Preference"
+msgstr "Præference"
+
+#: ../inc/old_pdfdownload.php:81
+msgid "Auto-Generated"
+msgstr "Autogenerered"
+
+#: ../inc/wpabstracts_classes.php:91 ../wpabstracts_classes.php:96
+msgid "No edits"
+msgstr "Ingen ændringer"
+
+#: ../inc/wpabstracts_classes.php:103 ../wpabstracts_classes.php:108
+msgid "Rating"
+msgstr "Rating"
+
+#: ../inc/wpabstracts_classes.php:107 ../wpabstracts_classes.php:112
+msgid "Last editted"
+msgstr "Sidst ændret"
+
+#: ../inc/wpabstracts_classes.php:131 ../wpabstracts_classes.php:136
+msgid "Assign reviewers"
+msgstr "Tildel reviewers"
+
+#: ../inc/wpabstracts_classes.php:132 ../wpabstracts_classes.php:137
+msgid "Download as PDF"
+msgstr "Download som PDF"
+
+#: ../inc/wpabstracts_classes.php:254 ../wpabstracts_classes.php:251
+#: ../wpabstracts_events.php:156
+msgid "All topics"
+msgstr "Alle emner"
+
+#: ../inc/wpabstracts_classes.php:285 ../inc/wpabstracts_classes.php:545
+#: ../wpabstracts_classes.php:282 ../wpabstracts_classes.php:542
+msgid "Filter"
+msgstr "Filtrér"
+
+#: ../inc/wpabstracts_classes.php:286 ../wpabstracts_classes.php:283
+msgid "Export to Excel"
+msgstr "Eksporter til Excel"
+
+#: ../inc/wpabstracts_classes.php:1029 ../wpabstracts_classes.php:1026
+msgid "Send test email"
+msgstr "Send test E-mail"
+
+#: ../inc/wpabstracts_downloads.php:232
+msgid "Description"
+msgstr "Beskrivelse"
+
+#: ../inc/wpabstracts_downloads.php:233
+msgid "Authors"
+msgstr "Forfattere"
+
+#: ../inc/wpabstracts_downloads.php:233
+msgid "AuthorsEmail"
+msgstr "E-mail til forfatter"
+
+#: ../inc/wpabstracts_downloads.php:233
+msgid "AuthorAffiliation"
+msgstr ""
+
+#: ../inc/wpabstracts_downloads.php:233
+msgid "PresenterEmail"
+msgstr "E-mail til oplægsholder"
+
+#: ../inc/wpabstracts_downloads.php:235
+msgid "User"
+msgstr "Bruger"
+
+#: ../inc/wpabstracts_downloads.php:238
+msgid "Approved Abstracts"
+msgstr "Godkendte abstracts"
+
+#: ../inc/wpabstracts_downloads.php:245
+msgid "Pending Abstracts"
+msgstr "Afventer godkendelse"
+
+#: ../inc/wpabstracts_downloads.php:252
+msgid "Rejected Abstracts"
+msgstr "Afviste abstracts"
+
+#: ../inc/wpabstracts_downloads.php:259 ../wpabstracts_reports.php:89
+msgid "All Abstracts"
+msgstr "Alle abstracts"
+
+#: ../inc/wpabstracts_downloads.php:267
+msgid "ReviewID"
+msgstr "AnmeldelsesID"
+
+#: ../inc/wpabstracts_downloads.php:267
+msgid "AbstractID"
+msgstr "AbstractID"
+
+#: ../inc/wpabstracts_downloads.php:267
+msgid "UserID"
+msgstr "BrugerID"
+
+#: ../inc/wpabstracts_downloads.php:268
+msgid "Recommendation"
+msgstr "Anbefaling"
+
+#: ../inc/wpabstracts_downloads.php:268
+msgid "ReviewDate"
+msgstr "Dato for anmeldelse"
+
+#: ../inc/wpabstracts_downloads.php:271
+msgid "Excellent Reviews"
+msgstr "Anmeldelser (Perfekte)"
+
+#: ../inc/wpabstracts_downloads.php:275
+msgid "Good Reviews"
+msgstr "Anmeldelser (Gode)"
+
+#: ../inc/wpabstracts_downloads.php:279
+msgid "Average Reviews"
+msgstr "Anmeldelser (Middel)"
+
+#: ../inc/wpabstracts_downloads.php:283
+msgid "Poor Reviews"
+msgstr "Anmeldelser (Dårlige)"
+
+#: ../inc/wpabstracts_downloads.php:287 ../wpabstracts_reports.php:99
+#: ../wpabstracts_reviews.php:100
+msgid "All Reviews"
+msgstr "Alle anmeldelser"
+
+#: ../inc/wpabstracts_editEmailTemplate.php:9
+msgid "User data"
+msgstr "Om forfatter"
+
+#: ../inc/wpabstracts_editEmailTemplate.php:14
+msgid "Abstract data (only for single abstract)"
+msgstr ""
+
+#: ../wpabstracts.php:119
+#, fuzzy
+msgid "WP Abstracts Pro"
+msgstr "Abstracts"
+
+#: ../wpabstracts.php:121
+msgid "Manage Submissions"
+msgstr "Adminitrer indsendte abstracts"
+
+#: ../wpabstracts.php:121 ../wpabstracts.php:310
+msgid "Abstracts"
+msgstr "Abstracts"
+
+#: ../wpabstracts.php:122
+msgid "Events / Conference"
+msgstr "Begivenheder / konferencer"
+
+#: ../wpabstracts.php:122 ../wpabstracts.php:311 ../wpabstracts_events.php:125
+#: ../wpabstracts_summary.php:39
+msgid "Events"
+msgstr "Begivenheder"
+
+#: ../wpabstracts.php:125 ../wpabstracts.php:314 ../wpabstracts_settings.php:30
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: ../wpabstracts.php:126 ../wpabstracts.php:315
+msgid "Emails"
+msgstr "Emails"
+
+#: ../wpabstracts.php:127 ../wpabstracts.php:316
+msgid "Help"
+msgstr "Hjælp"
+
+#: ../wpabstracts.php:142 ../wpabstracts.php:164 ../wpabstracts.php:187
+#: ../wpabstracts.php:207
+msgid "<h3 style=\"color:red;\">Please enter a valid event ID</h3>"
+msgstr "<h3 style=\"color:red;\">Skriv et gyldigt begivenhedsID</h3>"
+
+#: ../wpabstracts.php:143 ../wpabstracts.php:165 ../wpabstracts.php:188
+msgid ""
+"<p>The shortcode in this page should be similar to [wpabstracts "
+"event_id=EventID]</p>"
+msgstr ""
+"<p>The shortcode in this page should be similar to [wpabstracts "
+"event_id=EventID]</p>"
+
+#: ../wpabstracts.php:208
+msgid ""
+"<p>The shortcode in this page should be similar to "
+"[wpabstracts_list_abstracts event_id=EventID]</p>"
+msgstr ""
+
+#: ../wpabstracts.php:244
+msgid "Request Customization"
+msgstr "Anmod om tilpasning"
+
+#: ../wpabstracts.php:245 ../wpabstracts.php:747 ../wpabstracts_help.php:12
+msgid "Support"
+msgstr "Support"
+
+#: ../wpabstracts.php:682
+msgid "Please enter a name for your event"
+msgstr "Udfyld navnet for eventet"
+
+#: ../wpabstracts.php:685
+msgid "Do you really want to delete this abstract and all its attachments?"
+msgstr "Er du sikker på du vil slette dette abstract og alle vedhæftninger?"
+
+#: ../wpabstracts.php:686
+msgid "Do you really want to delete this event?"
+msgstr "Er du sikker på du vil slette dette event?"
+
+#: ../wpabstracts.php:687
+msgid "Do you really want to delete this review?"
+msgstr "Er du sikker på du vil slette denne anmeldelse?"
+
+#: ../wpabstracts.php:688
+msgid "Are you sure you want to delete this user?"
+msgstr "Er du sikker på du vil slette denne bruger?"
+
+#: ../wpabstracts.php:689
+msgid "hosted by"
+msgstr "afholdt af"
+
+#: ../wpabstracts.php:690
+msgid "Assign Reviewer"
+msgstr "Tildel en anmelder"
+
+#: ../wpabstracts.php:691
+msgid "Set session"
+msgstr "Sæt session"
+
+#: ../wpabstracts.php:692
+msgid "Review Alert"
+msgstr "Anmeldelsesalarm"
+
+#: ../wpabstracts.php:693
+msgid "Please fill in all required fields."
+msgstr "Udfyld alle påkrævede felter."
+
+#: ../wpabstracts.php:747
+msgid "Need help?"
+msgstr "Brug for hjælp?"
+
+#: ../wpabstracts_abstracts.php:146 ../wpabstracts_abstracts.php:222
+msgid "-- Not Assigned --"
+msgstr "-- Ikke tildelt --"
+
+#: ../wpabstracts_abstracts.php:175 ../wpabstracts_abstracts.php:241
+msgid "Select Reviewer"
+msgstr "Vælg reviewer"
+
+#: ../wpabstracts_abstracts.php:176 ../wpabstracts_abstracts.php:242
+msgid "Send Email"
+msgstr "Send E-mail"
+
+#: ../wpabstracts_abstracts.php:210 ../wpabstracts_abstracts.php:276
+msgid "Assign Reviewers"
+msgstr "Tildel anmeldere"
+
+#: ../wpabstracts_emails.php:101
+msgid "A test email was sent to your email"
+msgstr "En test-mail er blevet sendt til din email-adresse"
+
+#: ../wpabstracts_emails.php:108
+msgid "A test email could not be sent to your email"
+msgstr "En test-mail kunne ikke sendes til din email-adresse"
+
+#: ../wpabstracts_events.php:125
+msgid "Create event"
+msgstr "Tilføj begivenhed"
+
+#: ../wpabstracts_events.php:145
+msgid "Event deleted"
+msgstr "Begivenheden er slettet"
+
+#: ../wpabstracts_events.php:163 ../wpabstracts_events.php:181
+msgid "Error!"
+msgstr "Fejl!"
+
+#: ../wpabstracts_events.php:174
+msgid "All sessions"
+msgstr "Alle sessioner"
+
+#: ../wpabstracts_help.php:6
+msgid "Important Information"
+msgstr "Vigtig information"
+
+#: ../wpabstracts_help.php:8
+msgid ""
+"At least one <strong>event</strong> must be created to allow users to submit "
+"abstracts."
+msgstr ""
+"Der skal som minimum være oprettet én <strong>begivenhd</strong> før der kan "
+"indsendes abstracts."
+
+#: ../wpabstracts_help.php:14
+msgid ""
+"For more help on questions and issues please visit the <a href=\"http://www."
+"wpabstracts.com/support\" target=\"_blank\">support forums</a> or <a href="
+"\"mailto:support@wpabstracts.com\">email us</a>. We would be happy to hear "
+"form you."
+msgstr ""
+
+#: ../wpabstracts_help.php:18 ../wpabstracts_reports.php:103
+#: ../wpabstracts_summary.php:48
+msgid "Help us Improve"
+msgstr ""
+
+#: ../wpabstracts_help.php:20 ../wpabstracts_summary.php:50
+msgid "Suggest"
+msgstr ""
+
+#: ../wpabstracts_help.php:20 ../wpabstracts_summary.php:50
+msgid "features"
+msgstr ""
+
+#: ../wpabstracts_help.php:21 ../wpabstracts_summary.php:51
+msgid "Rate"
+msgstr ""
+
+#: ../wpabstracts_help.php:21
+msgid "the plugin 5 stars on WordPress.org"
+msgstr ""
+
+#: ../wpabstracts_help.php:22 ../wpabstracts_summary.php:52
+msgid "Like us"
+msgstr ""
+
+#: ../wpabstracts_help.php:22
+msgid "on Facebook"
+msgstr ""
+
+#: ../wpabstracts_help.php:29
+msgid "Get setup and running in three simple steps"
+msgstr ""
+
+#: ../wpabstracts_help.php:31
+msgid ""
+"Create an event. This may be the name of a conference or anything relating "
+"to the submission of abstracts."
+msgstr ""
+"Tilføj en begivenhed. Det kunne være navnet på en konference eller workshop."
+
+#: ../wpabstracts_help.php:34
+msgid ""
+"Visit the settings page and choose your preference for the plugin. Also "
+"ensure your permanent links are set to post-name or custom."
+msgstr ""
+
+#: ../wpabstracts_help.php:37
+msgid ""
+"Create a dashboard page and add [wpabstracts event_id=\"EVENT_ID_HERE\"] and "
+"link this page to your site menu to allow frontend access."
+msgstr ""
+
+#: ../wpabstracts_listAbstracts.php:66
+#, php-format
+msgid "Events for %s"
+msgstr "Events for %s"
+
+#: ../wpabstracts_reports.php:49
+msgid "ABSTRACTS BY STATUS"
+msgstr "Absracts > status"
+
+#: ../wpabstracts_reports.php:50
+msgid "STATUS"
+msgstr "STATUS"
+
+#: ../wpabstracts_reports.php:51 ../wpabstracts_reports.php:74
+msgid "SUBMITTED"
+msgstr "INDSENDTE"
+
+#: ../wpabstracts_reports.php:72
+msgid "REVIEWS BY RELEVANCE"
+msgstr "ANEMELDELSER > RELEVANS"
+
+#: ../wpabstracts_reports.php:73
+msgid "RELEVANCE"
+msgstr "RELEVANS"
+
+#: ../wpabstracts_reports.php:84
+msgid "Abstracts - Export by status"
+msgstr "Abstracts - eksporter sorteret efter status"
+
+#: ../wpabstracts_reports.php:86 ../wpabstracts_reports.php:87
+#: ../wpabstracts_reports.php:88 ../wpabstracts_reports.php:89
+#: ../wpabstracts_reports.php:95 ../wpabstracts_reports.php:96
+#: ../wpabstracts_reports.php:97 ../wpabstracts_reports.php:98
+#: ../wpabstracts_reports.php:99
+msgid "Export CSV"
+msgstr "Eksporter til CSV"
+
+#: ../wpabstracts_reports.php:93
+msgid "Reviews - Export by relevance"
+msgstr "Anmeldelser - eksporter efter relevans"
+
+#: ../wpabstracts_reports.php:105
+msgid ""
+"These report and export features are new to WP Abstracts Pro, please <a href="
+"\"mailto=support@wpabstracts.com\">let me know</a> what other types of "
+"reports would be convenient to implement."
+msgstr ""
+
+#: ../wpabstracts_reviews.php:99
+msgid "Reviews for Abstract ID"
+msgstr "Anmeldelser for abstractID"
+
+#: ../wpabstracts_reviews.php:99
+msgid "Add New"
+msgstr "Tilføj ny"
+
+#: ../wpabstracts_settings.php:22
+msgid "Settings saved"
+msgstr "Indstillingerne er gemt"
+
+#: ../wpabstracts_settings.php:30
+msgid "Save options"
+msgstr "Gem indstillingerne"
+
+#: ../wpabstracts_settings.php:40
+msgid "Email Administrator on submission"
+msgstr "E-mail til adminstratoren ved indsendelse af abstract"
+
+#: ../wpabstracts_settings.php:41
+msgid ""
+"Enable this to send an email to the site admin on submission of a new "
+"abstract."
+msgstr ""
+
+#: ../wpabstracts_settings.php:45 ../wpabstracts_settings.php:57
+#: ../wpabstracts_settings.php:69 ../wpabstracts_settings.php:81
+#: ../wpabstracts_settings.php:93 ../wpabstracts_settings.php:105
+#: ../wpabstracts_settings.php:117 ../wpabstracts_settings.php:129
+#: ../wpabstracts_settings.php:141 ../wpabstracts_settings.php:153
+#: ../wpabstracts_settings.php:168
+msgid "Yes"
+msgstr "Ja"
+
+#: ../wpabstracts_settings.php:46 ../wpabstracts_settings.php:58
+#: ../wpabstracts_settings.php:70 ../wpabstracts_settings.php:82
+#: ../wpabstracts_settings.php:94 ../wpabstracts_settings.php:106
+#: ../wpabstracts_settings.php:118 ../wpabstracts_settings.php:130
+#: ../wpabstracts_settings.php:142 ../wpabstracts_settings.php:154
+#: ../wpabstracts_settings.php:169
+msgid "No"
+msgstr "Nej"
+
+#: ../wpabstracts_settings.php:52
+msgid "Email Reviewers on assignment"
+msgstr "E-mail til anmeldere ved tildeling til abstract"
+
+#: ../wpabstracts_settings.php:53
+msgid ""
+"Enable this to send an email to reviewers when they are assigned to an "
+"abstract."
+msgstr ""
+
+#: ../wpabstracts_settings.php:64
+msgid "Email Author on submission"
+msgstr "E-mail til forfattere ved indsendelse af abstract"
+
+#: ../wpabstracts_settings.php:65
+msgid ""
+"Enable this to send an email to authors when they submit an abstract (email "
+"is sent to Author's email)."
+msgstr ""
+
+#: ../wpabstracts_settings.php:76
+msgid "Email Author on status change"
+msgstr ""
+
+#: ../wpabstracts_settings.php:77
+msgid ""
+"Enable this to send an email to authors when their abstracts has been "
+"approved or rejected (email is sent to submitter's email only)."
+msgstr ""
+
+#: ../wpabstracts_settings.php:88
+msgid "Enable Blind Reviews"
+msgstr ""
+
+#: ../wpabstracts_settings.php:89
+msgid ""
+"Enable this to hide author information from reviewers (does not apply to "
+"admin)."
+msgstr ""
+
+#: ../wpabstracts_settings.php:100
+msgid "Allow Reviewers to submit abstracts"
+msgstr ""
+
+#: ../wpabstracts_settings.php:101
+msgid "Enable this to allow reviewers to submit new abstracts."
+msgstr ""
+
+#: ../wpabstracts_settings.php:112
+msgid "Allow Reviewers to edit abstracts"
+msgstr ""
+
+#: ../wpabstracts_settings.php:113
+msgid "Enable this to allow reviewers to edit abstracts."
+msgstr ""
+
+#: ../wpabstracts_settings.php:124
+msgid "Allow Change Ownership"
+msgstr ""
+
+#: ../wpabstracts_settings.php:125
+msgid ""
+"Enable this to allow reviewers to change ownership (the author) of a "
+"submission (useful if a reviewer submits an abstract on behalf of an author "
+"but the option above to enable reviewers to edit abstracts must be enabled "
+"for this to work)."
+msgstr ""
+
+#: ../wpabstracts_settings.php:136
+msgid "Allow Dashboard Access"
+msgstr ""
+
+#: ../wpabstracts_settings.php:137
+msgid ""
+"Disables users from accessing Wordpress Admin dashboard. Enable this if you "
+"want to allow frontend access only."
+msgstr ""
+
+#: ../wpabstracts_settings.php:148
+msgid "Show Admin Bar"
+msgstr ""
+
+#: ../wpabstracts_settings.php:149
+msgid "Disables users from seeing the Wordpress Admin Bar after sign in."
+msgstr ""
+
+#: ../wpabstracts_settings.php:162
+#, fuzzy
+msgid "Show Attachment Uploads"
+msgstr "<p>Der er ikke nogle vedhæftninger</p>"
+
+#: ../wpabstracts_settings.php:163
+msgid ""
+"Use this setting to hide the attachment box completely from the submission "
+"page."
+msgstr ""
+
+#: ../wpabstracts_settings.php:184
+msgid "Maximum Attachments"
+msgstr ""
+
+#: ../wpabstracts_settings.php:185
+msgid "Set the maximum attachment upload allowed per submission."
+msgstr ""
+
+#: ../wpabstracts_settings.php:195
+msgid "Maximum Attachment Size"
+msgstr ""
+
+#: ../wpabstracts_settings.php:196
+msgid "Maxmium size allowed for attachments (in bytes)."
+msgstr ""
+
+#: ../wpabstracts_settings.php:206
+msgid "Permitted Attachments"
+msgstr ""
+
+#: ../wpabstracts_settings.php:207
+msgid ""
+"File extentions allowed for uploading (separate extentions with a comma)."
+msgstr ""
+
+#: ../wpabstracts_settings.php:215
+msgid "Minimum Abstract Character Count"
+msgstr "Mindste antal tegn i abstract:"
+
+#: ../wpabstracts_settings.php:216
+msgid "Minimum character count allowed in a submission."
+msgstr ""
+
+#: ../wpabstracts_settings.php:224
+msgid "Maximum Abstract Character Count"
+msgstr "Max antal tegn i abstract:"
+
+#: ../wpabstracts_settings.php:225
+msgid "Maximum character count allowed in a submission."
+msgstr ""
+
+#: ../wpabstracts_settings.php:233
+msgid "Maximum Resume Character Count"
+msgstr "Max antal tegn i resume"
+
+#: ../wpabstracts_settings.php:234
+msgid "Maximum character count allowed in resumes."
+msgstr ""
+
+#: ../wpabstracts_settings.php:242
+msgid "Maximum Target Group Character Count"
+msgstr "Max antal tegn i beskrivelse af målgruppe:"
+
+#: ../wpabstracts_settings.php:243
+msgid "Maximum character count allowed in target group descriptions."
+msgstr ""
+
+#: ../wpabstracts_settings.php:251
+msgid "Maximum Abstract Comment Character Count"
+msgstr "Max antal tegn i forfatters kommentar til abstract"
+
+#: ../wpabstracts_settings.php:252
+msgid "Maximum character count allowed in abstract author comments."
+msgstr ""
+
+#: ../wpabstracts_settings.php:261
+msgid "Presenter Preferences"
+msgstr ""
+
+#: ../wpabstracts_settings.php:262
+msgid ""
+"Set the types of presentation allowed (separated by commas), Eg. Poster, "
+"Panel, Round Table"
+msgstr ""
+
+#: ../wpabstracts_summary.php:23
+msgid "Stats"
+msgstr "Statistik"
+
+#: ../wpabstracts_summary.php:27
+msgid "Total Abstracts"
+msgstr "Antal abstracts"
+
+#: ../wpabstracts_summary.php:51
+msgid "the plugin 5 stars on WordPress.org."
+msgstr ""
+
+#: ../wpabstracts_summary.php:63
+msgid "Recent Abstracts"
+msgstr "Seneste abstracts"
+
+#: ../wpabstracts_summary.php:65
+msgid "Author Email"
+msgstr ""
+
+#: ../wpabstracts_summary.php:66
+msgid "Submit by"
+msgstr ""
+
+#: ../wpabstracts_summary.php:67 ../wpabstracts_summary.php:95
+msgid "Date"
+msgstr ""
+
+#: ../wpabstracts_summary.php:91
+msgid "Recent Reviews"
+msgstr ""
+
+#: ../wpabstracts_summary.php:94
+msgid "Suggested Status"
+msgstr ""
+
+#: ../wpabstracts_summary.php:126
+msgid "Recent Events"
+msgstr ""
+
+#: ../wpabstracts_summary.php:127
+msgid "Hosted by"
+msgstr ""
+
+#: ../wpabstracts_summary.php:128
+msgid "From"
+msgstr "Fra"
+
+#: ../wpabstracts_summary.php:129
+msgid "To"
+msgstr "Til"
+
+#~ msgid "Abstract data"
+#~ msgstr "Om abstract"
+
+#~ msgid "Need an account?"
+#~ msgstr "Brug for en konto?"
+
+#~ msgid "Create an Account"
+#~ msgstr "Tilføj en konto"
+
+#~ msgid "Choose an event first"
+#~ msgstr "Vælg først et event"
+
+#~ msgid "Abstracts & Manuscripts Summary"
+#~ msgstr "Oversigt over abstracts"
+
+#~ msgid "Summary"
+#~ msgstr "Oversigt"
+
+#~ msgid "Users"
+#~ msgstr "Brugere"
+
+#~ msgid "Reports"
+#~ msgstr "Rapporter"
+
+#~ msgid "Dashboard"
+#~ msgstr "Dashboard"
+
+#~ msgid "Date Submitted"
+#~ msgstr "Dato for indsendelse"
+
+#~ msgid "Error: Reviewer Deleted"
+#~ msgstr "Fejl: anmelderen blev slettet"
+
+#~ msgid "No Attachments submitted"
+#~ msgstr "Der er ingen vedhæftninger"
+
+#~ msgid "Request"
+#~ msgstr "Foreslag"
+
+#~ msgid "Add Attachments ("
+#~ msgstr "Tilføj vedhæftning ("
+
+#~ msgid "Register"
+#~ msgstr "Registrer dig"
+
+#~ msgid ""
+#~ "You're an Administrator. <br>Please use the Wordpress admin area to "
+#~ "submit abstracts."
+#~ msgstr ""
+#~ "Du er administrator. <br>Brug venligst backendmodulet til at tilføje "
+#~ "abstracts."
+
+#~ msgid "You do not have permission to view this page."
+#~ msgstr "Du har ikke rettigheder til at se denne side."
+
+#~ msgid ""
+#~ "You do not have permission to view this page. Please contact the site "
+#~ "admin."
+#~ msgstr ""
+#~ "Du har ikke rettigheder til at se denne side. Kontakt administratoreren."
+
+#~ msgid "<p>Please login to review abstracts</p>"
+#~ msgstr "<p>Log ind for at anmelde abstracts</p>"
+
+#~ msgid ""
+#~ "You're an Administrator. Please use the WordPress admin area to review "
+#~ "abstracts."
+#~ msgstr "Du er administrator. Brug WordPress admin til at anmelde abstracts."
+
+#~ msgid "From:"
+#~ msgstr "Fra:"
+
+#~ msgid "Welcome back"
+#~ msgstr "Velkommen tilbage"
+
+#~ msgid "Wmails"
+#~ msgstr "W-mails"
+
+#~ msgid "An unknown error occurred"
+#~ msgstr "Der er opstået en ukendt fejl"
+
+#~ msgid "Email Reviewer"
+#~ msgstr "E-mail til anmelder"

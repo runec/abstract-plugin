@@ -1,0 +1,45 @@
+body, html {
+    margin:0;
+    padding:0;
+    color:#111111;
+    background:#FFFFFF;
+}
+
+#wrap {
+    width:100%;
+    height: 100%;
+}
+
+#abstract-photo {
+  padding: 30px;
+  float: right;
+}
+
+#abstract-photo img {
+  width: 200px;
+  height: 300px;
+}
+
+#abstract-id {
+  font-size: 150%;
+  font-weight: bold;
+}
+
+#abstract-title-presenter h2, #abstract-resume h2, #abstract-text h2 {
+  color: blue;
+}
+
+#abstract-title-presenter {
+  font-size: 125%;
+  font-weight: bold;
+}
+
+#abstract-resume {
+  font-size: 100%;
+  font-weight: normal;
+}
+
+#abstract-text {
+  font-size: 100%;
+  font-weight: normal;
+}

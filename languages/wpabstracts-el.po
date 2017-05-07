@@ -1,0 +1,1495 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wpabstracts\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-05-13 22:03-0500\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Kevon Adonis <email@kevonadonis.com>\n"
+"Language-Team: \n"
+"Language: el_GR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.7.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../backend/wpabstracts_addAbstract.php:6 ../frontend/wpabstracts_addAbstract.php:30 ../frontend/wpabstracts_dashboard.php:88
+#: ../frontend/wpabstracts_dashboard.php:94
+msgid "New Abstract"
+msgstr "Νέα Περίληψη"
+
+#: ../backend/wpabstracts_addAbstract.php:11 ../frontend/wpabstracts_addAbstract.php:167
+msgid "Submit Abstract"
+msgstr "Υποβολή περίληψης"
+
+#: ../backend/wpabstracts_addAbstract.php:14 ../backend/wpabstracts_addEvent.php:15 ../backend/wpabstracts_editAbstract.php:14
+#: ../backend/wpabstracts_editEvent.php:17 ../frontend/wpabstracts_addAbstract.php:77
+#: ../frontend/wpabstracts_editAbstract.php:92 ../inc/wpabstracts_downloads.php:154
+msgid "Event Information"
+msgstr "Πληροφορίες συνεδρίου"
+
+#: ../backend/wpabstracts_addAbstract.php:14 ../backend/wpabstracts_addAbstract.php:40 ../backend/wpabstracts_addAbstract.php:61
+#: ../backend/wpabstracts_addEvent.php:15 ../backend/wpabstracts_addReview.php:9 ../backend/wpabstracts_editEvent.php:17
+#: ../backend/wpabstracts_editReview.php:9 ../frontend/wpabstracts_editAbstract.php:92
+#: ../frontend/wpabstracts_editAbstract.php:127 ../frontend/wpabstracts_editAbstract.php:170
+msgid "All fields required"
+msgstr "Όλα τα πεδία είναι υποχρεωτικά"
+
+#: ../backend/wpabstracts_addAbstract.php:18 ../backend/wpabstracts_addReview.php:134 ../backend/wpabstracts_editAbstract.php:18
+#: ../backend/wpabstracts_editReview.php:132 ../frontend/wpabstracts_addAbstract.php:83
+#: ../frontend/wpabstracts_addReview.php:175 ../frontend/wpabstracts_editAbstract.php:98
+#: ../frontend/wpabstracts_editReview.php:177 ../inc/wpabstracts_downloads.php:41 ../inc/wpabstracts_downloads.php:155
+msgid "Event"
+msgstr "Συνέδριο"
+
+#: ../backend/wpabstracts_addAbstract.php:20 ../frontend/wpabstracts_addAbstract.php:85
+msgid "Select an event"
+msgstr "Επιλέξτε συνέδριο"
+
+#: ../backend/wpabstracts_addAbstract.php:30 ../backend/wpabstracts_addEvent.php:47 ../backend/wpabstracts_addReview.php:135
+#: ../backend/wpabstracts_editAbstract.php:30 ../backend/wpabstracts_editEvent.php:50 ../backend/wpabstracts_editReview.php:133
+#: ../frontend/wpabstracts_addAbstract.php:94 ../frontend/wpabstracts_addReview.php:176
+#: ../frontend/wpabstracts_editAbstract.php:109 ../frontend/wpabstracts_editReview.php:178 ../inc/wpabstracts_downloads.php:41
+#: ../inc/wpabstracts_downloads.php:156 ../wpabstracts.php:538
+msgid "Topic"
+msgstr "Θέμα"
+
+#: ../backend/wpabstracts_addAbstract.php:32 ../frontend/wpabstracts_addAbstract.php:96
+msgid "Select a topic"
+msgstr "Επιλέξτε θεματολογία"
+
+#: ../backend/wpabstracts_addAbstract.php:40 ../backend/wpabstracts_addReview.php:50 ../backend/wpabstracts_editAbstract.php:45
+#: ../backend/wpabstracts_editReview.php:52 ../frontend/wpabstracts_addAbstract.php:107 ../frontend/wpabstracts_addReview.php:20
+#: ../frontend/wpabstracts_editAbstract.php:127 ../frontend/wpabstracts_editReview.php:22 ../inc/wpabstracts_downloads.php:158
+msgid "Author Information"
+msgstr "Σχετικά με τον συγγραφέα"
+
+#: ../backend/wpabstracts_addAbstract.php:44 ../backend/wpabstracts_addAbstract.php:65 ../backend/wpabstracts_addReview.php:66
+#: ../backend/wpabstracts_addReview.php:80 ../backend/wpabstracts_editAbstract.php:62 ../backend/wpabstracts_editAbstract.php:88
+#: ../backend/wpabstracts_editReview.php:68 ../backend/wpabstracts_editReview.php:79 ../frontend/wpabstracts_addAbstract.php:113
+#: ../frontend/wpabstracts_addAbstract.php:141 ../frontend/wpabstracts_addReview.php:35 ../frontend/wpabstracts_addReview.php:46
+#: ../frontend/wpabstracts_editAbstract.php:147 ../frontend/wpabstracts_editAbstract.php:176
+#: ../frontend/wpabstracts_editReview.php:37 ../frontend/wpabstracts_editReview.php:48 ../wpabstracts.php:528
+msgid "Name"
+msgstr "Όνομα"
+
+#: ../backend/wpabstracts_addAbstract.php:48 ../backend/wpabstracts_addAbstract.php:69 ../backend/wpabstracts_addReview.php:67
+#: ../backend/wpabstracts_addReview.php:81 ../backend/wpabstracts_addUser.php:57 ../backend/wpabstracts_editAbstract.php:66
+#: ../backend/wpabstracts_editAbstract.php:92 ../backend/wpabstracts_editReview.php:69 ../backend/wpabstracts_editReview.php:80
+#: ../frontend/wpabstracts_addAbstract.php:116 ../frontend/wpabstracts_addAbstract.php:146
+#: ../frontend/wpabstracts_addReview.php:36 ../frontend/wpabstracts_addReview.php:47
+#: ../frontend/wpabstracts_editAbstract.php:150 ../frontend/wpabstracts_editAbstract.php:181
+#: ../frontend/wpabstracts_editReview.php:38 ../frontend/wpabstracts_editReview.php:49 ../inc/wpabstracts_classes.php:905
+#: ../inc/wpabstracts_downloads.php:160 ../inc/wpabstracts_downloads.php:165 ../wpabstracts.php:529
+msgid "Email"
+msgstr "Ηλ. διεύθυνση"
+
+#: ../backend/wpabstracts_addAbstract.php:52 ../backend/wpabstracts_editAbstract.php:70 ../backend/wpabstracts_editReview.php:70
+#: ../frontend/wpabstracts_addAbstract.php:119 ../frontend/wpabstracts_addReview.php:37
+#: ../frontend/wpabstracts_editAbstract.php:153 ../frontend/wpabstracts_editReview.php:39 ../inc/wpabstracts_downloads.php:161
+#: ../wpabstracts.php:539
+msgid "Affiliation"
+msgstr "Οργανισμός"
+
+#: ../backend/wpabstracts_addAbstract.php:56 ../backend/wpabstracts_editAbstract.php:77
+#: ../frontend/wpabstracts_addAbstract.php:126 ../frontend/wpabstracts_editAbstract.php:161
+msgid "add author"
+msgstr "προσθήκη "
+
+#: ../backend/wpabstracts_addAbstract.php:57 ../backend/wpabstracts_editAbstract.php:78
+#: ../frontend/wpabstracts_addAbstract.php:127 ../frontend/wpabstracts_editAbstract.php:162
+msgid "delete author"
+msgstr "διαγραφή συγγραφέα"
+
+#: ../backend/wpabstracts_addAbstract.php:61 ../backend/wpabstracts_addReview.php:77 ../backend/wpabstracts_editAbstract.php:84
+#: ../backend/wpabstracts_editReview.php:76 ../frontend/wpabstracts_addAbstract.php:135 ../frontend/wpabstracts_addReview.php:43
+#: ../frontend/wpabstracts_editAbstract.php:170 ../frontend/wpabstracts_editReview.php:45 ../inc/wpabstracts_downloads.php:163
+msgid "Presenter Information"
+msgstr "Πληροφορίες σχετικά με τον ομιλητή"
+
+#: ../backend/wpabstracts_addAbstract.php:73 ../backend/wpabstracts_editAbstract.php:96
+#: ../frontend/wpabstracts_addAbstract.php:151 ../frontend/wpabstracts_editAbstract.php:186
+msgid "Presenter Preference"
+msgstr "Προτίμηση ομιλητή"
+
+#: ../backend/wpabstracts_addAbstract.php:75 ../backend/wpabstracts_addReview.php:82 ../backend/wpabstracts_editReview.php:81
+#: ../frontend/wpabstracts_addAbstract.php:153 ../frontend/wpabstracts_addReview.php:48
+#: ../frontend/wpabstracts_editReview.php:50 ../inc/wpabstracts_downloads.php:43 ../inc/wpabstracts_downloads.php:166
+msgid "Preference"
+msgstr "Προτίμηση"
+
+#: ../backend/wpabstracts_addAbstract.php:88 ../frontend/wpabstracts_addAbstract.php:49
+msgid "Add up to "
+msgstr "προσθέστε μέχρι "
+
+#: ../backend/wpabstracts_addAbstract.php:88 ../backend/wpabstracts_addReview.php:88 ../backend/wpabstracts_editReview.php:87
+#: ../frontend/wpabstracts_addAbstract.php:48 ../frontend/wpabstracts_addAbstract.php:49
+#: ../frontend/wpabstracts_addReview.php:57 ../frontend/wpabstracts_editAbstract.php:203
+#: ../frontend/wpabstracts_editReview.php:59 ../wpabstracts.php:69 ../wpabstracts.php:241 ../wpabstracts_summary.php:42
+msgid "Attachments"
+msgstr "συνημμένα"
+
+#: ../backend/wpabstracts_addAbstract.php:90 ../backend/wpabstracts_editAbstract.php:116
+#: ../frontend/wpabstracts_addAbstract.php:55 ../frontend/wpabstracts_editAbstract.php:210
+msgid "Use this form to upload your images, photos or tables."
+msgstr "Χρησιμοποιήστε την φόρμα για να ανεβάσετε εικόνες, φωτογραφίες ή πίνακες."
+
+#: ../backend/wpabstracts_addAbstract.php:91 ../backend/wpabstracts_editAbstract.php:116
+#: ../frontend/wpabstracts_addAbstract.php:56 ../frontend/wpabstracts_editAbstract.php:211
+msgid "Supported formats"
+msgstr "Επιτρεπόμενοι τύποι αρχείων"
+
+#: ../backend/wpabstracts_addAbstract.php:92 ../backend/wpabstracts_editAbstract.php:116
+#: ../frontend/wpabstracts_addAbstract.php:57 ../frontend/wpabstracts_editAbstract.php:212
+msgid "Maximum attachment size"
+msgstr "Μέγιστο μέγεθος συνημμένου"
+
+#: ../backend/wpabstracts_addAbstract.php:112 ../frontend/wpabstracts_editAbstract.php:28
+msgid "Please add a description"
+msgstr "Παρακαλώ προσθέστε την περιγραφή"
+
+#: ../backend/wpabstracts_addAbstract.php:119 ../backend/wpabstracts_editAbstract.php:144
+#: ../frontend/wpabstracts_addAbstract.php:40 ../frontend/wpabstracts_editAbstract.php:35
+#, php-format
+msgid "Word count: %s"
+msgstr "Αρίθμηση του Word:%s"
+
+#: ../backend/wpabstracts_addEvent.php:12 ../backend/wpabstracts_editEvent.php:13
+msgid "Save Event"
+msgstr "Αποθήκευση συνεδρίου"
+
+#: ../backend/wpabstracts_addEvent.php:19 ../backend/wpabstracts_editEvent.php:21 ../inc/wpabstracts_classes.php:658
+msgid "Host"
+msgstr "Διοργανωτής"
+
+#: ../backend/wpabstracts_addEvent.php:23 ../backend/wpabstracts_editEvent.php:25 ../inc/wpabstracts_classes.php:657
+msgid "Location"
+msgstr "Τοποθεσία"
+
+#: ../backend/wpabstracts_addEvent.php:24 ../backend/wpabstracts_addEvent.php:29 ../backend/wpabstracts_addEvent.php:33
+#: ../backend/wpabstracts_addEvent.php:37 ../backend/wpabstracts_addEvent.php:43 ../backend/wpabstracts_addEvent.php:68
+#: ../backend/wpabstracts_editEvent.php:26 ../backend/wpabstracts_editEvent.php:30 ../backend/wpabstracts_editEvent.php:34
+#: ../backend/wpabstracts_editEvent.php:38 ../backend/wpabstracts_editEvent.php:44 ../backend/wpabstracts_editEvent.php:72
+msgid "Required field"
+msgstr "Το πεδίο είναι απαραίτητο."
+
+#: ../backend/wpabstracts_addEvent.php:27 ../backend/wpabstracts_editEvent.php:29 ../inc/wpabstracts_classes.php:660
+msgid "Start Date"
+msgstr "Ημερομηνία έναρξης"
+
+#: ../backend/wpabstracts_addEvent.php:32 ../backend/wpabstracts_editEvent.php:33 ../inc/wpabstracts_classes.php:661
+msgid "End Date"
+msgstr "Ημερομηνία λήξης"
+
+#: ../backend/wpabstracts_addEvent.php:36 ../backend/wpabstracts_editEvent.php:37 ../inc/wpabstracts_classes.php:662
+msgid "Deadline"
+msgstr "προθεσμία"
+
+#: ../backend/wpabstracts_addEvent.php:43 ../backend/wpabstracts_editEvent.php:44 ../inc/wpabstracts_classes.php:659
+msgid "Topics"
+msgstr "Θεματολογία"
+
+#: ../backend/wpabstracts_addEvent.php:53 ../backend/wpabstracts_editEvent.php:57
+msgid "add topic"
+msgstr "προσθήκη θέματος"
+
+#: ../backend/wpabstracts_addEvent.php:54 ../backend/wpabstracts_editEvent.php:58
+msgid "delete topic"
+msgstr "διαγραφή θέματος"
+
+#: ../backend/wpabstracts_addEvent.php:63 ../backend/wpabstracts_editEvent.php:67
+msgid "Enter event name here. Eg. ICS Conference 2014"
+msgstr "Δώστε το όνομα συνεδρίου. Πχ. Συνέδριο ICS 2014"
+
+#: ../backend/wpabstracts_addReview.php:1 ../frontend/wpabstracts_addReview.php:1
+msgid "New Review"
+msgstr "αξιολόγηση"
+
+#: ../backend/wpabstracts_addReview.php:7 ../frontend/wpabstracts_addReview.php:183
+msgid "Save Review"
+msgstr "Αποθήκευση Περίληψης"
+
+#: ../backend/wpabstracts_addReview.php:11 ../backend/wpabstracts_editReview.php:11 ../frontend/wpabstracts_addReview.php:97
+#: ../frontend/wpabstracts_dashboard.php:268 ../frontend/wpabstracts_editReview.php:99 ../inc/wpabstracts_classes.php:246
+#: ../inc/wpabstracts_classes.php:523 ../inc/wpabstracts_downloads.php:75
+msgid "Relevance"
+msgstr "Σχετικότητα"
+
+#: ../backend/wpabstracts_addReview.php:13 ../backend/wpabstracts_addReview.php:22 ../backend/wpabstracts_editReview.php:13
+#: ../backend/wpabstracts_editReview.php:22 ../frontend/wpabstracts_addReview.php:102 ../frontend/wpabstracts_addReview.php:124
+#: ../frontend/wpabstracts_editReview.php:104 ../frontend/wpabstracts_editReview.php:126 ../wpabstracts_reports.php:65
+#: ../wpabstracts_reports.php:95
+msgid "Excellent"
+msgstr "Εξαιρετική"
+
+#: ../backend/wpabstracts_addReview.php:14 ../backend/wpabstracts_addReview.php:23 ../backend/wpabstracts_editReview.php:14
+#: ../backend/wpabstracts_editReview.php:23 ../frontend/wpabstracts_addReview.php:105 ../frontend/wpabstracts_addReview.php:127
+#: ../frontend/wpabstracts_editReview.php:107 ../frontend/wpabstracts_editReview.php:129 ../wpabstracts_reports.php:66
+#: ../wpabstracts_reports.php:96
+msgid "Good"
+msgstr "Καλή"
+
+#: ../backend/wpabstracts_addReview.php:15 ../backend/wpabstracts_addReview.php:24 ../backend/wpabstracts_editReview.php:15
+#: ../backend/wpabstracts_editReview.php:24 ../frontend/wpabstracts_addReview.php:108 ../frontend/wpabstracts_addReview.php:130
+#: ../frontend/wpabstracts_editReview.php:110 ../frontend/wpabstracts_editReview.php:132 ../wpabstracts_reports.php:67
+#: ../wpabstracts_reports.php:97
+msgid "Average"
+msgstr "Μέσος όρος"
+
+#: ../backend/wpabstracts_addReview.php:16 ../backend/wpabstracts_addReview.php:25 ../backend/wpabstracts_editReview.php:16
+#: ../backend/wpabstracts_editReview.php:26 ../frontend/wpabstracts_addReview.php:111 ../frontend/wpabstracts_addReview.php:133
+#: ../frontend/wpabstracts_editReview.php:113 ../frontend/wpabstracts_editReview.php:135 ../wpabstracts_reports.php:68
+#: ../wpabstracts_reports.php:98
+msgid "Poor"
+msgstr "Φτωχή"
+
+#: ../backend/wpabstracts_addReview.php:20 ../backend/wpabstracts_editReview.php:20 ../frontend/wpabstracts_addReview.php:119
+#: ../frontend/wpabstracts_dashboard.php:269 ../frontend/wpabstracts_editReview.php:121 ../inc/wpabstracts_classes.php:247
+#: ../inc/wpabstracts_classes.php:524 ../inc/wpabstracts_downloads.php:76
+msgid "Quality"
+msgstr "Ποιότητα"
+
+#: ../backend/wpabstracts_addReview.php:29 ../backend/wpabstracts_editReview.php:30 ../frontend/wpabstracts_addReview.php:141
+#: ../frontend/wpabstracts_editReview.php:143
+msgid "Suggest Type"
+msgstr "Προτείνετε Τύπο"
+
+#: ../backend/wpabstracts_addReview.php:31 ../backend/wpabstracts_editReview.php:32 ../frontend/wpabstracts_addReview.php:145
+#: ../frontend/wpabstracts_editReview.php:147
+msgid "Request"
+msgstr "Αίτημα"
+
+#: ../backend/wpabstracts_addReview.php:40 ../backend/wpabstracts_editReview.php:41 ../frontend/wpabstracts_addReview.php:157
+#: ../frontend/wpabstracts_editReview.php:159
+msgid "Suggest Status"
+msgstr "Προτεινόμενη κατάσταση"
+
+#: ../backend/wpabstracts_addReview.php:42 ../backend/wpabstracts_editReview.php:43 ../frontend/wpabstracts_addReview.php:161
+#: ../frontend/wpabstracts_editReview.php:163 ../wpabstracts_reports.php:44 ../wpabstracts_reports.php:87
+#: ../wpabstracts_summary.php:33
+msgid "Pending"
+msgstr "Εκκρεμεί"
+
+#: ../backend/wpabstracts_addReview.php:43 ../backend/wpabstracts_editReview.php:44 ../frontend/wpabstracts_addReview.php:162
+#: ../frontend/wpabstracts_editReview.php:164 ../wpabstracts_reports.php:43 ../wpabstracts_reports.php:86
+#: ../wpabstracts_summary.php:30
+msgid "Approved"
+msgstr "Αποδεκτή"
+
+#: ../backend/wpabstracts_addReview.php:44 ../backend/wpabstracts_editReview.php:45 ../frontend/wpabstracts_addReview.php:163
+#: ../frontend/wpabstracts_editReview.php:165 ../wpabstracts_reports.php:45 ../wpabstracts_reports.php:88
+#: ../wpabstracts_summary.php:36
+msgid "Rejected"
+msgstr "Απορρίφθηκε"
+
+#: ../backend/wpabstracts_addReview.php:92 ../backend/wpabstracts_editReview.php:92 ../frontend/wpabstracts_addReview.php:63
+#: ../frontend/wpabstracts_editReview.php:65
+msgid "No Attachments submitted"
+msgstr "Δεν υποβλήθηκαν συνημμένα"
+
+#: ../backend/wpabstracts_addReview.php:122 ../backend/wpabstracts_editReview.php:120 ../frontend/wpabstracts_addReview.php:80
+#: ../frontend/wpabstracts_editReview.php:82
+msgid "Add Comments"
+msgstr "Προσθέστε το σχόλιο μας"
+
+#: ../backend/wpabstracts_addReview.php:122 ../backend/wpabstracts_editReview.php:120
+msgid "Please add some comments about this review"
+msgstr "Παρακαλώ προσθέστε κάποια σχόλια σχετικά με το σκεπτικό της αξιολόγησης σας"
+
+#: ../backend/wpabstracts_addReview.php:131 ../backend/wpabstracts_editReview.php:129 ../frontend/wpabstracts_addReview.php:170
+#: ../frontend/wpabstracts_editReview.php:172
+msgid "Additional Information"
+msgstr "Σημαντική πληροφορία"
+
+#: ../backend/wpabstracts_addReview.php:133 ../backend/wpabstracts_editReview.php:131 ../frontend/wpabstracts_addReview.php:174
+#: ../frontend/wpabstracts_dashboard.php:131 ../frontend/wpabstracts_editReview.php:176 ../inc/wpabstracts_classes.php:79
+#: ../inc/wpabstracts_downloads.php:43 ../wpabstracts_reports.php:42
+msgid "Submitted"
+msgstr "Υποβλήθηκε"
+
+#: ../backend/wpabstracts_addUser.php:9
+msgid "View"
+msgstr "Προβολή"
+
+#: ../backend/wpabstracts_addUser.php:10
+msgid "Instructions"
+msgstr "Οδηγίες"
+
+#: ../backend/wpabstracts_addUser.php:12
+msgid ""
+"1. Enter the user's name, username, temporary password and email address.\n"
+"                    Then select the level and submit. "
+msgstr ""
+"1. Δώστε το όνομα χρήστη, προσωρινό κωδικό πρόσβασης και διεύθυνση ηλ. ταχυδρομείου.\n"
+"                    Στην συνέχεια ορίστε το επίπεδο και πατήστε το Δημιουργία χρήστη. "
+
+#: ../backend/wpabstracts_addUser.php:13
+msgid ""
+"2. Email the user his/her user name\n"
+"                    and temporary password and have them update their password after the first login."
+msgstr ""
+"2. Αποστείλετε στον χρήστη, το όνομα χρήστη και το προσωρινό κωδικό πρόσβασης και ζητήστε να αλλάξουν τον κωδικό τους μετά "
+"στην 1η σύνδεση τους."
+
+#: ../backend/wpabstracts_addUser.php:15
+msgid "<strong>Authors</strong> are only allowed to submit abstracts from the frontend."
+msgstr "Οι <strong>συγγραφείς</strong> μπορούν αν υποβάλουν περιλήψεις μέσω του frontend."
+
+#: ../backend/wpabstracts_addUser.php:16
+msgid "<strong>Reviewers</strong> are allowed backend access to review, approve or reject abstracts."
+msgstr "Οι <strong>Αξιολογητές</strong> επιτρέπεται να χρησιμοποιούν το backend για να αξιολογούν περιλήψεις."
+
+#: ../backend/wpabstracts_addUser.php:17
+msgid ""
+"You may also manage users from the default WordPress users tab. Authors are equivalent to subscribers\n"
+"                    while reviewers are editors."
+msgstr ""
+"Μπορείτε επίσης να χρησιμοποιήσετε την διαχείριση χρηστών του ιστοτόπου. Δημιουργοί περιλήψεων να είναι όλοι οι Συνδρομητές "
+"(subscribers)\n"
+"                    ενώ αξιολογητές είναι οι Αρχισυντάκτες (editors)."
+
+#: ../backend/wpabstracts_addUser.php:31
+msgid "User Information"
+msgstr "Πληροφορίες χρήστη"
+
+#: ../backend/wpabstracts_addUser.php:37
+msgid "First Name"
+msgstr "Όνομα"
+
+#: ../backend/wpabstracts_addUser.php:39 ../backend/wpabstracts_addUser.php:44 ../backend/wpabstracts_addUser.php:49
+#: ../backend/wpabstracts_addUser.php:54 ../backend/wpabstracts_addUser.php:59 ../backend/wpabstracts_addUser.php:69
+msgid "Required"
+msgstr "Απαιτείται"
+
+#: ../backend/wpabstracts_addUser.php:42
+msgid "Last Name"
+msgstr "Επώνυμο"
+
+#: ../backend/wpabstracts_addUser.php:47 ../inc/wpabstracts_classes.php:904
+msgid "Username"
+msgstr "Όνομα χρήστη"
+
+#: ../backend/wpabstracts_addUser.php:52
+msgid "Password"
+msgstr "Κωδικός Πρόσβασης"
+
+#: ../backend/wpabstracts_addUser.php:62
+msgid "User Level"
+msgstr "Επίπεδο χρήστη"
+
+#: ../backend/wpabstracts_addUser.php:65
+msgid "User Role"
+msgstr "Ρόλος μελούς"
+
+#: ../backend/wpabstracts_addUser.php:66 ../frontend/wpabstracts_dashboard.php:191 ../inc/wpabstracts_classes.php:76
+#: ../inc/wpabstracts_classes.php:387 ../inc/wpabstracts_downloads.php:159 ../wpabstracts_summary.php:64
+msgid "Author"
+msgstr "Συγγραφέας"
+
+#: ../backend/wpabstracts_addUser.php:67 ../inc/wpabstracts_downloads.php:43 ../wpabstracts_abstracts.php:167
+#: ../wpabstracts_abstracts.php:187 ../wpabstracts_abstracts.php:206 ../wpabstracts_summary.php:93
+msgid "Reviewer"
+msgstr "Αξιολογητής"
+
+#: ../backend/wpabstracts_addUser.php:76
+msgid "Create User"
+msgstr "Δημιουργία χρήστη"
+
+#: ../backend/wpabstracts_editAbstract.php:6 ../frontend/wpabstracts_dashboard.php:238
+#: ../frontend/wpabstracts_editAbstract.php:24
+msgid "Edit Abstract"
+msgstr "Επεξεργασία περίληψης"
+
+#: ../backend/wpabstracts_editAbstract.php:11 ../frontend/wpabstracts_editAbstract.php:232
+msgid "Update Abstract"
+msgstr "Ενημέρωση περίληψης"
+
+#: ../backend/wpabstracts_editAbstract.php:14 ../backend/wpabstracts_editAbstract.php:45
+#: ../backend/wpabstracts_editAbstract.php:84 ../backend/wpabstracts_editAbstract.php:137
+msgid " All fields required"
+msgstr "Όλα τα πεδία είναι υποχρεωτικά"
+
+#: ../backend/wpabstracts_editAbstract.php:114
+msgid "Add Attachments ("
+msgstr "Συνημμένα"
+
+#: ../backend/wpabstracts_editAbstract.php:148 ../frontend/wpabstracts_editAbstract.php:42
+msgid "Manage Attachments"
+msgstr "Διαχείριση συνημμένων"
+
+#: ../backend/wpabstracts_editAbstract.php:152 ../frontend/wpabstracts_editAbstract.php:47
+msgid "<p>No Attachments uploaded</p>"
+msgstr "<p>Δεν περιέχει συνημμένα</p>"
+
+#: ../backend/wpabstracts_editAbstract.php:168
+msgid "Change Ownership"
+msgstr "Αλλαγή δημιουργού"
+
+#: ../backend/wpabstracts_editAbstract.php:170 ../frontend/wpabstracts_editAbstract.php:69
+msgid "Use this box to assign a new user / owner of this submission"
+msgstr "Χρησιμοποιήστε αυτό το "
+
+#: ../backend/wpabstracts_editEmailTemplate.php:5
+msgid "Available Shortcodes"
+msgstr ""
+
+#: ../backend/wpabstracts_editEmailTemplate.php:23
+msgid "Edit Email Template"
+msgstr "Ενημέρωση περίληψης"
+
+#: ../backend/wpabstracts_editEmailTemplate.php:27
+msgid "Template Name"
+msgstr "Επώνυμο"
+
+#: ../backend/wpabstracts_editEmailTemplate.php:31 ../inc/wpabstracts_classes.php:789
+msgid "From Name"
+msgstr "Όνομα"
+
+#: ../backend/wpabstracts_editEmailTemplate.php:35 ../inc/wpabstracts_classes.php:790
+msgid "From Email"
+msgstr "Ηλ. διεύθυνση"
+
+#: ../backend/wpabstracts_editEmailTemplate.php:39
+msgid "Email Subject"
+msgstr "Εmail συγγραφέα"
+
+#: ../backend/wpabstracts_editEmailTemplate.php:43
+msgid "Email Body"
+msgstr "Ηλ. διεύθυνση"
+
+#: ../backend/wpabstracts_editEmailTemplate.php:55
+msgid "Update Template"
+msgstr "Ενημέρωση περίληψης"
+
+#: ../backend/wpabstracts_editReview.php:1 ../frontend/wpabstracts_editReview.php:1
+msgid "Edit Review"
+msgstr "Επεξεργασία"
+
+#: ../backend/wpabstracts_editReview.php:7 ../frontend/wpabstracts_editReview.php:185
+msgid "Update Review"
+msgstr "αξιολόγηση"
+
+#: ../frontend/wpabstracts_addAbstract.php:18
+msgid "<h4>Abstract submission for this event has past</h4>"
+msgstr ""
+
+#: ../frontend/wpabstracts_addAbstract.php:33 ../frontend/wpabstracts_editAbstract.php:27
+msgid "Enter title"
+msgstr "Τίτλος"
+
+#: ../frontend/wpabstracts_dashboard.php:9
+msgid "You're an Administrator. Please use the WordPress admin area to manage abstracts."
+msgstr "Είστε διαχειριστής. Χρησιμοποιείστε τον διαχειριστικό πίνακα ελέγχου για να αξιολογήσετε περιλήψεις."
+
+#: ../frontend/wpabstracts_dashboard.php:55
+#, fuzzy
+msgid "You do not have permission to view this page. Please contact the site admin."
+msgstr "Δεν έχετε δικαιώματα πρόσβασης σε αυτή τη σελίδα."
+
+#: ../frontend/wpabstracts_dashboard.php:59
+msgid "You do not have permission to view this page."
+msgstr "Δεν έχετε δικαιώματα πρόσβασης σε αυτή τη σελίδα."
+
+#: ../frontend/wpabstracts_dashboard.php:62
+msgid "Please login for your conference participation"
+msgstr "Παρακαλούμε συνδεθείτε για τη συμμετοχή σας στο συνέδριο"
+
+#: ../frontend/wpabstracts_dashboard.php:66
+msgid "Need an account?"
+msgstr "Δεν έχετε λογαριασμό;"
+
+#: ../frontend/wpabstracts_dashboard.php:66
+msgid "Create an Account"
+msgstr "Δεν έχετε λογαριασμό;"
+
+#: ../frontend/wpabstracts_dashboard.php:72
+msgid "Welcome back"
+msgstr "Καλωσήρθατε "
+
+#: ../frontend/wpabstracts_dashboard.php:82
+msgid "Dashboard"
+msgstr "Πίνακας ελέγχου"
+
+#: ../frontend/wpabstracts_dashboard.php:101
+msgid "Logout"
+msgstr "Αποσύνδεση"
+
+#: ../frontend/wpabstracts_dashboard.php:120
+msgid "My Abstracts"
+msgstr "Περιλήψεις"
+
+#: ../frontend/wpabstracts_dashboard.php:127 ../frontend/wpabstracts_dashboard.php:188 ../frontend/wpabstracts_dashboard.php:264
+msgid "ID"
+msgstr "ID"
+
+#: ../frontend/wpabstracts_dashboard.php:128 ../frontend/wpabstracts_dashboard.php:189 ../frontend/wpabstracts_dashboard.php:265
+#: ../inc/wpabstracts_classes.php:74 ../inc/wpabstracts_downloads.php:41
+msgid "Title"
+msgstr "Τίτλος"
+
+#: ../frontend/wpabstracts_dashboard.php:129 ../frontend/wpabstracts_dashboard.php:267 ../inc/wpabstracts_classes.php:77
+#: ../inc/wpabstracts_classes.php:525 ../inc/wpabstracts_downloads.php:42 ../inc/wpabstracts_downloads.php:75
+#: ../wpabstracts_reports.php:41 ../wpabstracts_reports.php:64
+msgid "Status"
+msgstr "Κατάσταση"
+
+#: ../frontend/wpabstracts_dashboard.php:130 ../frontend/wpabstracts_dashboard.php:270 ../inc/wpabstracts_classes.php:249
+#: ../inc/wpabstracts_classes.php:526 ../inc/wpabstracts_classes.php:906
+msgid "Type"
+msgstr "Τύπος"
+
+#: ../frontend/wpabstracts_dashboard.php:132 ../frontend/wpabstracts_dashboard.php:196 ../frontend/wpabstracts_dashboard.php:272
+msgid "Action"
+msgstr "Ενέργεια"
+
+#: ../frontend/wpabstracts_dashboard.php:137
+msgid "You have NOT submitted any abstracts."
+msgstr "Δεν έχετε υποβάλλει κάποια περίληψη"
+
+#: ../frontend/wpabstracts_dashboard.php:151 ../frontend/wpabstracts_dashboard.php:300 ../inc/wpabstracts_classes.php:27
+#: ../inc/wpabstracts_classes.php:195 ../inc/wpabstracts_classes.php:484 ../inc/wpabstracts_classes.php:625
+#: ../inc/wpabstracts_classes.php:764 ../inc/wpabstracts_classes.php:869
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+#: ../frontend/wpabstracts_dashboard.php:152 ../frontend/wpabstracts_dashboard.php:301 ../inc/wpabstracts_classes.php:31
+#: ../inc/wpabstracts_classes.php:101 ../inc/wpabstracts_classes.php:196 ../inc/wpabstracts_classes.php:267
+#: ../inc/wpabstracts_classes.php:485 ../inc/wpabstracts_classes.php:544 ../inc/wpabstracts_classes.php:626
+#: ../inc/wpabstracts_classes.php:689 ../inc/wpabstracts_classes.php:870 ../inc/wpabstracts_classes.php:922
+msgid "Delete"
+msgstr "Διαγραφή"
+
+#: ../frontend/wpabstracts_dashboard.php:155
+msgid "Closed"
+msgstr "Κλειστό"
+
+#: ../frontend/wpabstracts_dashboard.php:180
+msgid "New Abstracts"
+msgstr "Νέες περιλήψεις"
+
+#: ../frontend/wpabstracts_dashboard.php:193
+msgid "Type Request"
+msgstr "Τύπος που ζητήθηκε"
+
+#: ../frontend/wpabstracts_dashboard.php:194
+msgid "Date Submitted"
+msgstr "Ημερ. υποβολής"
+
+#: ../frontend/wpabstracts_dashboard.php:216
+msgid "You have NO newly assigned abstracts"
+msgstr "Δεν σας έχει ανατεθεί ΚΑΜΙΑ νέα περίληψη προς αξιολόγηση"
+
+#: ../frontend/wpabstracts_dashboard.php:240
+msgid "Review"
+msgstr "Αξιολόγηση"
+
+#: ../frontend/wpabstracts_dashboard.php:256 ../inc/wpabstracts_classes.php:29 ../wpabstracts.php:68 ../wpabstracts.php:241
+msgid "Reviews"
+msgstr "Αξιολογήσεις"
+
+#: ../frontend/wpabstracts_dashboard.php:266 ../inc/wpabstracts_classes.php:245 ../inc/wpabstracts_classes.php:522
+#: ../inc/wpabstracts_downloads.php:76 ../wpabstracts_summary.php:92
+msgid "Comments"
+msgstr "Σχόλια "
+
+#: ../frontend/wpabstracts_dashboard.php:271
+msgid "Reviewed"
+msgstr "Αξιολογήθηκε"
+
+#: ../frontend/wpabstracts_dashboard.php:280
+msgid "You have no COMPLETED reviews"
+msgstr "Δεν έχετε κάνει ΚΑΜΙΑ αξιολόγηση"
+
+#: ../frontend/wpabstracts_editAbstract.php:66
+msgid "Manage Ownership"
+msgstr "Αλλαγή δημιουργού"
+
+#: ../frontend/wpabstracts_editAbstract.php:204
+msgid "(add up to "
+msgstr "προσθέστε μέχρι "
+
+#: ../inc/wpabstracts_classes.php:25 ../inc/wpabstracts_classes.php:99
+msgid "Approve"
+msgstr "Έγκριση"
+
+#: ../inc/wpabstracts_classes.php:26 ../inc/wpabstracts_classes.php:100
+msgid "Reject"
+msgstr "Απόρριψη"
+
+#: ../inc/wpabstracts_classes.php:28
+msgid "Assign"
+msgstr "Ανάθεση σε αξιολογητή"
+
+#: ../inc/wpabstracts_classes.php:30
+msgid "Export PDF"
+msgstr "Εξαγωγή PDF"
+
+#: ../inc/wpabstracts_classes.php:57 ../wpabstracts_abstracts.php:140 ../wpabstracts_abstracts.php:151
+#: ../wpabstracts_abstracts.php:162 ../wpabstracts_summary.php:111
+msgid "Not Assigned"
+msgstr "Δεν έχει ανατεθεί"
+
+#: ../inc/wpabstracts_classes.php:75
+msgid "Event / Topic"
+msgstr "Επιλέξτε θεματολογία"
+
+#: ../inc/wpabstracts_classes.php:78
+msgid "Reviewers"
+msgstr "Αξιολογητές"
+
+#: ../inc/wpabstracts_classes.php:205 ../inc/wpabstracts_classes.php:495
+msgid "User deleted"
+msgstr "Ο χρήστης διαγράφηκε"
+
+#: ../inc/wpabstracts_classes.php:208 ../inc/wpabstracts_classes.php:498
+#, php-format
+msgid "%1$s<br><span style=\"color:silver\">Reviewed by: %2$s | %3$s</span>"
+msgstr "%1$s<br><span style=\"color:silver\">Αξιολόγηση από: %2$s | %3$s</span>"
+
+#: ../inc/wpabstracts_classes.php:233
+msgid ""
+"TIP: The suggested status on reviews is only\n"
+"                    a recommendation, administrators have the final decision to accept or reject submissions."
+msgstr ""
+"Η προτεινόμενη από τους αξιολογητές κατάσταση\n"
+"είναι απλώς μια πρόταση, οι διαχειριστές λαμβάνουν την τελική απόφαση για το αν θα εγκρίνουν ή θα απορρίψουν μία περίληψη."
+
+#: ../inc/wpabstracts_classes.php:244 ../inc/wpabstracts_classes.php:521 ../inc/wpabstracts_downloads.php:41
+msgid "Abstract"
+msgstr "Περίληψη"
+
+#: ../inc/wpabstracts_classes.php:248
+msgid "Suggested"
+msgstr "Προτεινόμενη κατάσταση"
+
+#: ../inc/wpabstracts_classes.php:346 ../inc/wpabstracts_classes.php:390
+msgid "Download"
+msgstr "Προβολή"
+
+#: ../inc/wpabstracts_classes.php:385
+msgid "File Name"
+msgstr "Επώνυμο"
+
+#: ../inc/wpabstracts_classes.php:386
+#, fuzzy
+msgid "Uploaded to"
+msgstr "προσθήκη θέματος"
+
+#: ../inc/wpabstracts_classes.php:388
+#, fuzzy
+msgid "File Type"
+msgstr "Τύπος"
+
+#: ../inc/wpabstracts_classes.php:389
+#, fuzzy
+msgid "File Size"
+msgstr "Επώνυμο"
+
+#: ../inc/wpabstracts_classes.php:472
+msgid "review"
+msgstr "αξιολόγηση"
+
+#: ../inc/wpabstracts_classes.php:473
+msgid "reviews"
+msgstr "αξιολογήσεις"
+
+#: ../inc/wpabstracts_classes.php:656
+#, fuzzy
+msgid "Event Name"
+msgstr "Συνέδριο"
+
+#: ../inc/wpabstracts_classes.php:663
+msgid "Submissions"
+msgstr "Διαχείριση Υποβολών"
+
+#: ../inc/wpabstracts_classes.php:787
+msgid "Email Template"
+msgstr "Ενημέρωση περίληψης"
+
+#: ../inc/wpabstracts_classes.php:788
+#, fuzzy
+msgid "Subject"
+msgstr "Εmail συγγραφέα"
+
+#: ../inc/wpabstracts_classes.php:791
+#, fuzzy
+msgid "Email Group"
+msgstr "Ηλ. διεύθυνση"
+
+#: ../inc/wpabstracts_classes.php:903
+#, fuzzy
+msgid "Full Name"
+msgstr "Όνομα"
+
+#: ../inc/wpabstracts_classes.php:938
+msgid "Search users"
+msgstr "Αναζήτηση χρηστών"
+
+#: ../inc/wpabstracts_downloads.php:41
+msgid "Description"
+msgstr "Περιγραφή"
+
+#: ../inc/wpabstracts_downloads.php:42
+msgid "Authors"
+msgstr "Συγγραφείς"
+
+#: ../inc/wpabstracts_downloads.php:42
+#, fuzzy
+msgid "AuthorsEmail"
+msgstr "Εmail συγγραφέα"
+
+#: ../inc/wpabstracts_downloads.php:42
+#, fuzzy
+msgid "AuthorAffiliation"
+msgstr "Οργανισμός"
+
+#: ../inc/wpabstracts_downloads.php:42 ../inc/wpabstracts_downloads.php:164
+msgid "Presenter"
+msgstr "Ομιλητής"
+
+#: ../inc/wpabstracts_downloads.php:42
+#, fuzzy
+msgid "PresenterEmail"
+msgstr "Ομιλητής"
+
+#: ../inc/wpabstracts_downloads.php:43
+msgid "User"
+msgstr "Χρήστης"
+
+#: ../inc/wpabstracts_downloads.php:46
+msgid "Approved Abstracts"
+msgstr "Αποδεκτές περιλήψεις"
+
+#: ../inc/wpabstracts_downloads.php:53
+msgid "Pending Abstracts"
+msgstr "Εκκρεμείς Περιλήψεις"
+
+#: ../inc/wpabstracts_downloads.php:60
+msgid "Rejected Abstracts"
+msgstr "Περιλήψεις που απορρίφθηκαν"
+
+#: ../inc/wpabstracts_downloads.php:67 ../wpabstracts_reports.php:89
+msgid "All Abstracts"
+msgstr "Όλες οι περιλήψεις"
+
+#: ../inc/wpabstracts_downloads.php:75
+msgid "ReviewID"
+msgstr "ID Αξιολόγησης"
+
+#: ../inc/wpabstracts_downloads.php:75
+msgid "AbstractID"
+msgstr "ID Περίληψης"
+
+#: ../inc/wpabstracts_downloads.php:75
+msgid "UserID"
+msgstr ""
+
+#: ../inc/wpabstracts_downloads.php:76
+msgid "Recommendation"
+msgstr "Πρόταση"
+
+#: ../inc/wpabstracts_downloads.php:76
+msgid "ReviewDate"
+msgstr "Ημερ. Αξιολόγησης"
+
+#: ../inc/wpabstracts_downloads.php:79
+#, fuzzy
+msgid "Excellent Reviews"
+msgstr "Εξαιρετική"
+
+#: ../inc/wpabstracts_downloads.php:83
+#, fuzzy
+msgid "Good Reviews"
+msgstr "Αξιολογήσεις"
+
+#: ../inc/wpabstracts_downloads.php:87
+#, fuzzy
+msgid "Average Reviews"
+msgstr "Μέσος όρος"
+
+#: ../inc/wpabstracts_downloads.php:91
+#, fuzzy
+msgid "Poor Reviews"
+msgstr "Φτωχό"
+
+#: ../inc/wpabstracts_downloads.php:95 ../wpabstracts_reports.php:99 ../wpabstracts_reviews.php:100
+msgid "All Reviews"
+msgstr "Όλες οι αξιολογήσεις"
+
+#: ../inc/wpabstracts_downloads.php:132 ../inc/wpabstracts_downloads.php:147
+msgid "Abstract ID"
+msgstr "ID Περίληψης"
+
+#: ../inc/wpabstracts_downloads.php:132
+msgid "Auto-Generated"
+msgstr "Δημιουργήθηκε αυτόματα"
+
+#: ../inc/wpabstracts_downloads.php:150
+msgid "Abstract Details"
+msgstr "Περίληψη - Πληροφορίες"
+
+#: ../inc/wpabstracts_emailer.php:43
+msgid "From:"
+msgstr "Από:"
+
+#: ../wpabstracts.php:64
+msgid "WP Abstracts Pro"
+msgstr "WP Περιλήψεις Pro"
+
+#: ../wpabstracts.php:65
+msgid "Abstracts & Manuscripts Summary"
+msgstr "Σύνοψη Περιλήψεων"
+
+#: ../wpabstracts.php:65 ../wpabstracts.php:241
+msgid "Summary"
+msgstr "Σύνοψη"
+
+#: ../wpabstracts.php:66
+msgid "Manage Submissions"
+msgstr "Διαχείριση Υποβολών"
+
+#: ../wpabstracts.php:66 ../wpabstracts.php:241 ../wpabstracts_abstracts.php:286
+msgid "Abstracts"
+msgstr "Περιλήψεις"
+
+#: ../wpabstracts.php:67
+msgid "Events / Conference"
+msgstr "Συνέδρια / Εκδηλώσεις"
+
+#: ../wpabstracts.php:67 ../wpabstracts.php:241 ../wpabstracts_events.php:100 ../wpabstracts_summary.php:39
+msgid "Events"
+msgstr "Συνέδρια"
+
+#: ../wpabstracts.php:70 ../wpabstracts.php:241
+msgid "Users"
+msgstr "χρήστες"
+
+#: ../wpabstracts.php:71 ../wpabstracts.php:241
+msgid "Reports"
+msgstr "Αναφορές"
+
+#: ../wpabstracts.php:72 ../wpabstracts.php:241 ../wpabstracts_settings.php:30
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: ../wpabstracts.php:73 ../wpabstracts.php:241
+msgid "Emails"
+msgstr "Emails"
+
+#: ../wpabstracts.php:74 ../wpabstracts.php:241
+msgid "Help"
+msgstr "Βοήθεια"
+
+#: ../wpabstracts.php:89 ../wpabstracts.php:111 ../wpabstracts.php:133
+msgid "<h3 style=\"color:red;\">Please enter a valid event ID</h3>"
+msgstr "<h3 style=\"color:red;\">Πληκτρολογήστε ένα έγκυρο αναγνωριστικό</h3>"
+
+#: ../wpabstracts.php:90 ../wpabstracts.php:112 ../wpabstracts.php:134
+msgid "<p>The shortcode in this page should be similar to [wpabstracts event_id=EventID]</p>"
+msgstr "<p>Το shortcode σε αυτή τη σελίδα θα πρέπει να είναι παρόμοια με [wpabstracts event_id = EventID]</p>"
+
+#: ../wpabstracts.php:169
+msgid "Request Customization"
+msgstr "Αίτηση προσαρμογής"
+
+#: ../wpabstracts.php:170 ../wpabstracts.php:575 ../wpabstracts_help.php:12
+msgid "Support"
+msgstr "Υποστήριξη"
+
+#: ../wpabstracts.php:527
+msgid "Please enter a name for your event"
+msgstr "Παρακαλώ εισάγετε τον τίτλο του συνεδρίου/εκδήλωσης"
+
+#: ../wpabstracts.php:530
+msgid "Do you really want to delete this abstract and all its attachments?"
+msgstr "Είστε σίγουρος ότι θέλετε να διαγράψετε την περίληψη και τα συνημμένα της;"
+
+#: ../wpabstracts.php:531
+#, fuzzy
+msgid "Do you really want to delete this event?"
+msgstr "Είστε σίγουρος ότι θέλετε να διαγράψετε την αξιολόγηση;"
+
+#: ../wpabstracts.php:532
+msgid "Do you really want to delete this review?"
+msgstr "Είστε σίγουρος ότι θέλετε να διαγράψετε την αξιολόγηση;"
+
+#: ../wpabstracts.php:533
+#, fuzzy
+msgid "Are you sure you want to delete this user?"
+msgstr "Είστε σίγουρος ότι θέλετε να διαγράψετε την αξιολόγηση;"
+
+#: ../wpabstracts.php:534
+msgid "hosted by"
+msgstr "που διοργανώνεται από"
+
+#: ../wpabstracts.php:535
+msgid "Assign Reviewer"
+msgstr "Ανάθεση σε αξιολογητή"
+
+#: ../wpabstracts.php:536
+msgid "Review Alert"
+msgstr "Ενημέρωση για αξιολόγηση"
+
+#: ../wpabstracts.php:537
+msgid "Please fill in all required fields."
+msgstr "Παρακαλώ συμπληρώστε τα απαιτούμενα πεδία."
+
+#: ../wpabstracts.php:575
+msgid "Need help?"
+msgstr "Χρειάζεστε βοήθεια;"
+
+#: ../wpabstracts_abstracts.php:137 ../wpabstracts_abstracts.php:148 ../wpabstracts_abstracts.php:159
+msgid "Error: Reviewer Deleted"
+msgstr "Σφάλμα: Ο αξιολογητής έχει διαγραφεί"
+
+#: ../wpabstracts_abstracts.php:182 ../wpabstracts_abstracts.php:202 ../wpabstracts_abstracts.php:221
+msgid "Email Reviewer"
+msgstr "Ενημέρωση μέσω του αξιολογητή"
+
+#: ../wpabstracts_abstracts.php:226
+msgid "Assign Reviewers"
+msgstr "Ορισμός αξιολογητών"
+
+#: ../wpabstracts_abstracts.php:286 ../wpabstracts_reviews.php:99
+msgid "Add New"
+msgstr "Προσθήκη νέας"
+
+#: ../wpabstracts_events.php:100
+msgid "Create event"
+msgstr "Δημιουργία συνεδρίου"
+
+#: ../wpabstracts_events.php:120
+msgid "Event deleted"
+msgstr "Το συνέδριο διαγράφηκε"
+
+#: ../wpabstracts_events.php:134
+msgid "Error!"
+msgstr "Σφάλμα!"
+
+#: ../wpabstracts_help.php:6
+msgid "Important Information"
+msgstr "Σημαντική πληροφορία"
+
+#: ../wpabstracts_help.php:8
+msgid "At least one <strong>event</strong> must be created to allow users to submit abstracts."
+msgstr ""
+"Θα πρέπει να υπάρχει <strong> ένα τουλάχιστον</strong> συνέδριο/εκδήλωση για να μπορούν οι χρήστες να υποβάλλουν περιλήψεις."
+
+#: ../wpabstracts_help.php:14
+msgid ""
+"For more help on questions and issues please visit the <a href=\"http://www.wpabstracts.com/support\" target=\"_blank"
+"\">support forums</a> or <a href=\"mailto:support@wpabstracts.com\">email us</a>. We would be happy to hear form you."
+msgstr ""
+"Για περισσότερη βοήθεια ή αναφορά προβλημάτων απευθυνθείτε στο <a href=\"http://www.wpabstracts.com/support\" target=\"_blank"
+"\">φόρουμ υποστήριξης </a> ή <a href=\"mailto:support@wpabstracts.com\">στείλτε μας email</a>. Θα χαρούμε να επικοινωνήσετε "
+"μαζί μας."
+
+#: ../wpabstracts_help.php:18 ../wpabstracts_reports.php:103 ../wpabstracts_summary.php:48
+msgid "Help us Improve"
+msgstr "Βοηθείστε μας να βελτιωθούμε"
+
+#: ../wpabstracts_help.php:20 ../wpabstracts_summary.php:50
+msgid "Suggest"
+msgstr "Προτείνετε"
+
+#: ../wpabstracts_help.php:20 ../wpabstracts_summary.php:50
+msgid "features"
+msgstr "χαρακτηριστικά"
+
+#: ../wpabstracts_help.php:21 ../wpabstracts_summary.php:51
+msgid "Rate"
+msgstr "Αξιολογήστε"
+
+#: ../wpabstracts_help.php:21
+msgid "the plugin 5 stars on WordPress.org"
+msgstr "το προσθέτο στο WordPress.org  με 5 αστέρια"
+
+#: ../wpabstracts_help.php:22 ../wpabstracts_summary.php:52
+msgid "Like us"
+msgstr "Like us"
+
+#: ../wpabstracts_help.php:22
+msgid "on Facebook"
+msgstr "στο Facebook"
+
+#: ../wpabstracts_help.php:29
+msgid "Get setup and running in three simple steps"
+msgstr "Ξεκινήστε με 3 απλά βήματα"
+
+#: ../wpabstracts_help.php:31
+msgid "Create an event. This may be the name of a conference or anything relating to the submission of abstracts."
+msgstr ""
+"Δημιουργήστε ένα συνέδριο/εκδήλωση. Αυτό μπορεί να είναι το όνομα ενός συνεδρίου ή οτιδήποτε άλλο σχετικό με την υποβολή "
+"περιλήψεων."
+
+#: ../wpabstracts_help.php:34
+msgid ""
+"Visit the settings page and choose your preference for the plugin. Also ensure your permanent links are set to post-name or "
+"custom."
+msgstr ""
+"Μεταβείτε στην σελίδα ρυθμίσεων και παραμετροποιήστε το πρόσθετο. Επίσης σιγουρευτείτε ότι οι μόνιμοι σύνδεσμοι είναι "
+"ορισμένοι ως \"Όνομα άρθρου\" ή \"Προσαρμοσμένη δομή\""
+
+#: ../wpabstracts_help.php:37
+#, fuzzy
+msgid ""
+"Create a dashboard page and add [wpabstracts event_id=\"EVENT_ID_HERE\"] and link this page to your site menu to allow "
+"frontend access."
+msgstr ""
+"Δημιουργήστε 2 σελίδες πλήρους μήκου, προσθέστε [wpabstracts] για την δημιουργία περιλήψεων and [wpabstracts_reviewer] για την "
+"σελίδα όπου θα γίνονται οι αξιολογήσεις και προσθέστε τις σελίδες αυτές του μενού του ιστοτόπου σας."
+
+#: ../wpabstracts_reports.php:49
+msgid "ABSTRACTS BY STATUS"
+msgstr "ΠΕΡΙΛΗΨΕΙΣ ΚΑΤΑΣΤΑΣΗ"
+
+#: ../wpabstracts_reports.php:50
+msgid "STATUS"
+msgstr "ΚΑΤΑΣΤΑΣΗ"
+
+#: ../wpabstracts_reports.php:51 ../wpabstracts_reports.php:74
+msgid "SUBMITTED"
+msgstr "ΥΠΟΒΛΗΘΗΚΕ"
+
+#: ../wpabstracts_reports.php:72
+msgid "REVIEWS BY RELEVANCE"
+msgstr "Αξιολόγησεις βάσει σχετικότητας"
+
+#: ../wpabstracts_reports.php:73
+msgid "RELEVANCE"
+msgstr "Σχετικότητα"
+
+#: ../wpabstracts_reports.php:84
+msgid "Abstracts - Export by status"
+msgstr "Περιλήψεις - εξαγωγή βάσει κατάστασης"
+
+#: ../wpabstracts_reports.php:86 ../wpabstracts_reports.php:87 ../wpabstracts_reports.php:88 ../wpabstracts_reports.php:89
+#: ../wpabstracts_reports.php:95 ../wpabstracts_reports.php:96 ../wpabstracts_reports.php:97 ../wpabstracts_reports.php:98
+#: ../wpabstracts_reports.php:99
+msgid "Export CSV"
+msgstr "Εξαγωγή CSV"
+
+#: ../wpabstracts_reports.php:93
+msgid "Reviews - Export by relevance"
+msgstr "Αξιολόγησεις - Εξαγωγή βάσει σχετικότητας"
+
+#: ../wpabstracts_reports.php:105
+msgid ""
+"These report and export features are new to WP Abstracts Pro, please <a href=\"mailto=support@wpabstracts.com\">let me know</"
+"a> what other types of reports would be convenient to implement."
+msgstr ""
+"Αυτές οι αναφορές και οι δυνατότητες εξαγωγής είναι νέα χαρακτηριστικά του WP Abstracts Pro. <a href="
+"\"mailto=support@wpabstracts.com\">Επικοινωνήστε μαζί μας</a> για να μας προτείνεται και άλλους τύπους αναφορών που θα θέλατε "
+"να εισάγουμε στο WP Abstracts Pro."
+
+#: ../wpabstracts_reviews.php:99
+msgid "Reviews for Abstract ID"
+msgstr "Αξιολογήσεις για την περίληψη με ID"
+
+#: ../wpabstracts_settings.php:22
+msgid "Settings saved"
+msgstr "Οι ρυθμίσεις αποθηκεύτηκαν."
+
+#: ../wpabstracts_settings.php:30
+msgid "Save options"
+msgstr "Αποθήκευση επιλογών"
+
+#: ../wpabstracts_settings.php:40
+msgid "Email Administrator"
+msgstr "Ενημέρωση μέσω email του διαχειριστή"
+
+#: ../wpabstracts_settings.php:41
+msgid "Enable this to send an email to the site admin on submission of a new abstract."
+msgstr "Ενεργοποίηστε το αν θέλετε να λαμβάνει ο διαχειριστής του ιστοτόπου email για κάθε νέα υποβολή περίληψης."
+
+#: ../wpabstracts_settings.php:45 ../wpabstracts_settings.php:57 ../wpabstracts_settings.php:69 ../wpabstracts_settings.php:81
+#: ../wpabstracts_settings.php:93 ../wpabstracts_settings.php:105 ../wpabstracts_settings.php:117
+#: ../wpabstracts_settings.php:138 ../wpabstracts_settings.php:150
+msgid "Yes"
+msgstr "Ναι"
+
+#: ../wpabstracts_settings.php:46 ../wpabstracts_settings.php:58 ../wpabstracts_settings.php:70 ../wpabstracts_settings.php:82
+#: ../wpabstracts_settings.php:94 ../wpabstracts_settings.php:106 ../wpabstracts_settings.php:118
+#: ../wpabstracts_settings.php:139 ../wpabstracts_settings.php:151
+msgid "No"
+msgstr "Όχι"
+
+#: ../wpabstracts_settings.php:52
+msgid "Email Reviewers"
+msgstr "Ενημέρωση των αξιολογητών μέσω email"
+
+#: ../wpabstracts_settings.php:53
+msgid "Enable this to send an email to reviewers when they are assigned to an abstract."
+msgstr "Ενεργοποίηστε το αν θέλετε να λαμβάνει ο αξιολογήτης email για κάθε ανάθεση περίληψης σε αυτόν."
+
+#: ../wpabstracts_settings.php:64
+msgid "Email Author"
+msgstr "Aποστολή email στον συγγραφέα"
+
+#: ../wpabstracts_settings.php:65
+msgid "Enable this to send an email to authors when they submit an abstract (email is sent to Author's email)."
+msgstr ""
+"Ενεργοποίηστε το αν θέλετε να αποστέλεται email στους συγγραφείς μίας περίληψης όταν υποβάλουν μία περίληψη (το email "
+"αποστέλλεται στην ηλ. διεύθυνση του συγγραφέα)."
+
+#: ../wpabstracts_settings.php:76
+msgid "Enable Blind Reviews"
+msgstr "Ενεργοποίηση \"τυφλών\" αξιολογήσεων"
+
+#: ../wpabstracts_settings.php:77
+msgid "Enable this to hide author information from reviewers (does not apply to admin)."
+msgstr ""
+"Ενεργοποιήστε το για να αποκρύψετε τις πληροφορίες δημιουργού, συγγραφέων και ομιλητή από τους αξιολογητές (ο διαχειριστής θα "
+"έχει πρόσβαση σε αυτές τις πληροφορίες)"
+
+#: ../wpabstracts_settings.php:88
+#, fuzzy
+msgid "Allow Reviewers to submit abstracts"
+msgstr "Παρακαλώ συνδεθείτε για να υποβάλλετε περιλήψεις"
+
+#: ../wpabstracts_settings.php:89
+#, fuzzy
+msgid "Enable this to allow reviewers to submit new abstracts."
+msgstr "Ενεργοποίηστε το αν θέλετε να λαμβάνει ο αξιολογήτης email για κάθε ανάθεση περίληψης σε αυτόν."
+
+#: ../wpabstracts_settings.php:100
+#, fuzzy
+msgid "Allow Reviewers to edit abstracts"
+msgstr "Παρακαλώ συνδεθείτε για να υποβάλλετε περιλήψεις"
+
+#: ../wpabstracts_settings.php:101
+#, fuzzy
+msgid "Enable this to allow reviewers to edit abstracts."
+msgstr "Ενεργοποίηστε το αν θέλετε να λαμβάνει ο αξιολογήτης email για κάθε ανάθεση περίληψης σε αυτόν."
+
+#: ../wpabstracts_settings.php:112
+msgid "Allow Change Ownership"
+msgstr "Επιτρέπεται η αλλαγή δημιουργού"
+
+#: ../wpabstracts_settings.php:113
+#, fuzzy
+msgid ""
+"Enable this to allow reviewers to change ownership (the author) of a submission (useful if a reviewer submits an abstract on "
+"behalf of an author but the option above to enable reviewers to edit abstracts must be enabled for this to work)."
+msgstr ""
+"Ενεργοποιήστε το για να επιτρέψετε στους αξιολογητές να αλλάζουν τον δημιουργό μίας περίληψης (χρήσιμο αν αξιολογητής μπορεί "
+"να υποβάλλει περίληψεις εκ μέρους των δημιουργών)."
+
+#: ../wpabstracts_settings.php:133
+msgid "Allow Dashboard Access"
+msgstr "Επιτρέπεται πρόσβαση στον πίνακα ελέγχου"
+
+#: ../wpabstracts_settings.php:134
+msgid "Disables users from accessing Wordpress Admin dashboard. Enable this if you want to allow frontend access only."
+msgstr ""
+"Αποκλείει την πρόσβαση χρηστών στο διαχειριστικές σελίδες. Ενεργοποιήστε το αν θέλετε να επιτρέπετε μόνο πρόσβαση στο frontend."
+
+#: ../wpabstracts_settings.php:145
+msgid "Show Admin Bar"
+msgstr "Εμφάνιση μπάρας διαχείρισης"
+
+#: ../wpabstracts_settings.php:146
+msgid "Disables users from seeing the Wordpress Admin Bar after sign in."
+msgstr "Δεν εμφανίζει την μπάρα διαχείρισης του ιστοτόπου σε συνδεδεμένους χρήστες."
+
+#: ../wpabstracts_settings.php:157
+msgid "Maximum Word Count"
+msgstr "Αρίθμηση του Word:%s"
+
+#: ../wpabstracts_settings.php:158
+msgid "Maximum character count allowed in a submission."
+msgstr "Μέγιστο πλήθος χαρακτήρων σε μία περίληψη."
+
+#: ../wpabstracts_settings.php:167
+#, fuzzy
+msgid "Maximum Attachments"
+msgstr "Μέγιστο μέγεθος συνημμένου"
+
+#: ../wpabstracts_settings.php:168
+#, fuzzy
+msgid "Set the maximum attachment upload allowed per submission."
+msgstr "Μέγιστο πλήθος χαρακτήρων σε μία περίληψη."
+
+#: ../wpabstracts_settings.php:177
+msgid "Maximum Attachment Size"
+msgstr "Μέγιστο μέγεθος συνημμένου"
+
+#: ../wpabstracts_settings.php:178
+msgid "Maxmium size allowed for attachments (in bytes)."
+msgstr "Μέγιστο μέγεθος συνημμένου (σε bytes)."
+
+#: ../wpabstracts_settings.php:188
+#, fuzzy
+msgid "Permitted Attachments"
+msgstr "Επιτρεπτά συνημμένα"
+
+#: ../wpabstracts_settings.php:189
+msgid "File extentions allowed for uploading (separate extentions with a comma)."
+msgstr "Επιτρεπόμενοι τύποι αρχείων (διαχωρίστε τους με κόμμα)."
+
+#: ../wpabstracts_settings.php:198
+#, fuzzy
+msgid "Presenter Preferences"
+msgstr "Προτίμηση ομιλητή"
+
+#: ../wpabstracts_settings.php:199
+msgid "Set the types of presentation allowed (separated by commas), Eg. Poster, Panel, Round Table"
+msgstr ""
+
+#: ../wpabstracts_settings.php:223
+#, fuzzy
+msgid "Author Instructions"
+msgstr "Οδηγίες"
+
+#: ../wpabstracts_settings.php:224
+msgid "Enter specific instructions for authors to follow for submissions"
+msgstr "Εισάγετε συγκεκριμένες οδηγίες για συγγραφείς να ακολουθήσει για την υποβολή"
+
+#: ../wpabstracts_summary.php:23
+msgid "Stats"
+msgstr "Στατιστικά"
+
+#: ../wpabstracts_summary.php:27
+msgid "Total Abstracts"
+msgstr "Αριθμός περιλήψεων"
+
+#: ../wpabstracts_summary.php:51
+msgid "the plugin 5 stars on WordPress.org."
+msgstr "το προσθέτο στο WordPress.org  με 5 αστέρια"
+
+#: ../wpabstracts_summary.php:63
+msgid "Recent Abstracts"
+msgstr "Πρόσφατες περιλήψεις"
+
+#: ../wpabstracts_summary.php:65
+msgid "Author Email"
+msgstr "Εmail συγγραφέα"
+
+#: ../wpabstracts_summary.php:66
+msgid "Submit by"
+msgstr "Υποβλήθηκε από"
+
+#: ../wpabstracts_summary.php:67 ../wpabstracts_summary.php:95
+msgid "Date"
+msgstr "Ημερομηνία"
+
+#: ../wpabstracts_summary.php:91
+msgid "Recent Reviews"
+msgstr "Πρόσφατες αξιολογήσεις"
+
+#: ../wpabstracts_summary.php:94
+msgid "Suggested Status"
+msgstr "Προτεινόμενη κατάσταση"
+
+#: ../wpabstracts_summary.php:126
+msgid "Recent Events"
+msgstr "Πρόσφατα συνέδρια"
+
+#: ../wpabstracts_summary.php:127
+msgid "Hosted by"
+msgstr "Διοργάνωση από"
+
+#: ../wpabstracts_summary.php:128
+msgid "From"
+msgstr "Από"
+
+#: ../wpabstracts_summary.php:129
+msgid "To"
+msgstr "Προς"
+
+#~ msgid "Please login to submit abstracts"
+#~ msgstr "Παρακαλώ συνδεθείτε για να υποβάλλετε περιλήψεις"
+
+#~ msgid "Register"
+#~ msgstr "Εγγραφή"
+
+#~ msgid "You're an Administrator. <br>Please use the Wordpress admin area to submit abstracts."
+#~ msgstr "Είστε διαχειριστής. <br> Χρησιμοποιείστε τον διαχειριστικό πίνακα ελέγχου για να υποβάλλετε περιλήψεις."
+
+#~ msgid "<p>Please login to review abstracts</p>"
+#~ msgstr "<p>Παρακαλώ συνδεθείτε για να αξιολογήσετε περιλήψεις</p>"
+
+#~ msgid "You're an Administrator. Please use the WordPress admin area to review abstracts."
+#~ msgstr "Είστε διαχειριστής. Χρησιμοποιείστε τον διαχειριστικό πίνακα ελέγχου για να αξιολογήσετε περιλήψεις."
+
+#, fuzzy
+#~ msgid "Wmails"
+#~ msgstr "Ηλ. διεύθυνση"
+
+#~ msgid "New Abstract Assigned"
+#~ msgstr "Νέα ανάθεση περίληψης"
+
+#, fuzzy
+#~ msgid "Panel"
+#~ msgstr "Σχετικά με μένα. Αλλάξτε το στην διαχειριστική σελίδα επιλογών του θέματος"
+
+#, fuzzy
+#~ msgid "Poster"
+#~ msgstr "Poster"
+
+#~ msgid "Roundtable"
+#~ msgstr "Στρογγυλή τράπεζα"
+
+#~ msgid "Add attachment"
+#~ msgstr "Προσθήκη συνημμένου"
+
+#~ msgid "Submit"
+#~ msgstr "Υποβολή"
+
+#~ msgid "User Manager"
+#~ msgstr "Διαχείριση Χρηστών"
+
+#~ msgid "Users Manager"
+#~ msgstr "Διαχείριση Χρηστών"
+
+#~ msgid "User Guide"
+#~ msgstr "Οδηγίες χρήσης"
+
+#~ msgid "Wish list"
+#~ msgstr "Επιθυμητές δυνατότητες"
+
+#~ msgid "Do you really want to delete"
+#~ msgstr "Είστε σίγουρος ότι θέλετε να διαγράψετε το"
+
+#~ msgid "Abstract Submission"
+#~ msgstr "Υποβολή περίληψης."
+
+#~ msgid "New Abstract Submitted"
+#~ msgstr "Νέα υποβολή περίληψης"
+
+#~ msgid "Abstract Updated"
+#~ msgstr "Η περίληψη ενημερώθηκε"
+
+#~ msgid "Submit Review"
+#~ msgstr "Υποβολή αξιολόγησης"
+
+#~ msgid "Save"
+#~ msgstr "Αποθήκευση"
+
+#~ msgid "Submitted by"
+#~ msgstr "Υποβλήθηκε από "
+
+#~ msgid "This abstract was already reviewed<br>Do you want to edit the review?"
+#~ msgstr "Η περίληψη έχ"
+
+#~ msgid "deleted"
+#~ msgstr "διαγράφηκε"
+
+#~ msgid "Abstract chars number"
+#~ msgstr "Πλήθος χαρακτήρων περίληψης"
+
+#~ msgid "Enter description here."
+#~ msgstr "Γράψτε εδώ την περιγραφή"
+
+#~ msgid "<a href=\"?page=wpabstracts&tab=reviews&task=edit&id=%s\">Edit</a>"
+#~ msgstr "<a href=\"?page=wpabstracts&tab=reviews&task=edit&id=%s\">Επεξεργασία</a>"
+
+#~ msgid "<a href=\"javascript:confirm_review_delete(%s)\">Delete</a>"
+#~ msgstr "<a href=\"javascript:confirm_review_delete(%s)\">Διαγραφή</a>"
+
+#~ msgid "<a href=\"?page=wpabstracts&tab=events&task=edit&id=%s\">Edit</a>"
+#~ msgstr "<a href=\"?page=wpabstracts&tab=events&task=edit&id=%s\">Επεξεργασία</a>"
+
+#~ msgid "<a href=\"javascript:confirm_event_delete(%s)\">Delete</a>"
+#~ msgstr "<a href=\"javascript:confirm_event_delete(%s)\">Διαγραφή</a>"
+
+#~ msgid "<a href=\"?page=wpabstracts&tab=abstracts&task=reject&id=%s\">Reject</a>"
+#~ msgstr "<a href=\"?page=wpabstracts&tab=abstracts&task=reject&id=%s\">Απόρριψη</a>"
+
+#~ msgid "<a href=\"?page=wpabstracts&tab=abstracts&task=edit&id=%s\">Edit</a>"
+#~ msgstr "<a href=\"?page=wpabstracts&tab=abstracts&task=edit&id=%s\">Επεξεργασία</a>"
+
+#~ msgid "<a href=\"#assign\" onclick=\"assignReviewer(%s);\">Assign</a>"
+#~ msgstr "<a href=\"#assign\" onclick=\"assignReviewer(%s);\">Ανάθεση</a>"
+
+#~ msgid "<a href=\"?page=wpabstracts&tab=reviews&task=view&id=%1$s\";>Reviews (%2$s)</a>"
+#~ msgstr "<a href=\"?page=wpabstracts&tab=reviews&task=view&id=%1$s\";>Αξιολογήσεις (%2$s)</a>"
+
+#~ msgid "<a href=\"?page=wpabstracts&tab=abstracts&task=download&downloadID=%s\" target=\"_blank\">Export PDF</a>"
+#~ msgstr "<a href=\"?page=wpabstracts&tab=abstracts&task=download&downloadID=%s\" target=\"_blank\">Εξαγωγή PDF</a>"
+
+#~ msgid "<a href=\"javascript:confirm_abstract_delete(%s)\">Delete</a>"
+#~ msgstr "<a href=\"javascript:confirm_abstract_delete(%s)\">Διαγραφή</a>"
+
+#~ msgid "<a href=\"?page=wpabstracts&tab=abstracts&task=approve&id=%s\">Approve</a>"
+#~ msgstr "<a href=\"?page=wpabstracts&tab=abstracts&task=approve&id=%s\">Έγκριση</a>"
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#, fuzzy
+#~ msgid "%1$s<span style=\"color:silver\"> [%2$s]</span>%3$s"
+#~ msgstr "%1$s<br><span style=\"color:silver\">Αξιολόγηση από: %2$s | %3$s</span>"
+
+#~ msgid "<a href=\"#review\" onclick=\"manageReview(%s)\";>Review</a>"
+#~ msgstr "<a href=\"#review\" onclick=\"manageReview(%s)\";>Αξιολόγηση</a>"
+
+#~ msgid "Get Pro"
+#~ msgstr "Get Pro"
+
+#~ msgid "More features?"
+#~ msgstr "Περισσότερες δυνατότητες;"
+
+#~ msgid "Error downloading attachment(s)"
+#~ msgstr "Σφάλμα λήψης αρχείου (ων)"
+
+#~ msgid "You do not have permission to view this page"
+#~ msgstr "Δεν έχετε δικαιώματα πρόσβασης σε αυτή τη σελίδα"
+
+#~ msgid "Please note that if you are uploading large attachments the submit process may take a while."
+#~ msgstr "Σας επισημαίνουμε ότι αν προσθέσετε αρχεία  μεγάλου μεγέθους η διαδικασία υποβολής διαρκεί λίγο περισσότερο."
+
+#~ msgid "Please be patient and click Submit only once."
+#~ msgstr "Παρακαλούμε να είστε υπομονετικός και να πατήσετε το Υποβολή μόνο μια φορά."
+
+#~ msgid "This and more reviewing features are available in the WPAbstracts Pro."
+#~ msgstr "Αυτό και άλλα χαρακτηριστικά αξιολόγησης είναι διαθέσιμα στο  WPAbstracts Pro."
+
+#~ msgid "Displaying"
+#~ msgstr "Προβολή"
+
+#~ msgid "of"
+#~ msgstr "από"
+
+#~ msgid "Address"
+#~ msgstr "Διεύθυνση"
+
+#~ msgid "Separate extentions with a comma"
+#~ msgstr "Διαχωριζόμενες με κόμμα"
+
+#~ msgid "Allow access to admin dashboard"
+#~ msgstr "Επιτρέπεται πρόσβαση στον πίνακα ελέγχου"
+
+#~ msgid "Email admin on submissions"
+#~ msgstr "Αποστολή mail στον διαχειριστή για νέα υποβολή"
+
+#~ msgid "Email reviewer on assignments"
+#~ msgstr "Αποστολή mail στον αξιολογητή για νέα ανάθεση "
+
+#~ msgid "Email user on submission"
+#~ msgstr "Αποστολή mail στον συγγραφέα μετά την υποβολή"
+
+#~ msgid "on"
+#~ msgstr "στο"
+
+#~ msgid ""
+#~ "Create a dashboard page, add [wpabstracts] to the page and link it to your menu to allow front end user management.\n"
+#~ "                                                                                                                       Both "
+#~ "reviewers (PRO version) and authors (subscribers) use the front-end dashboard to submit and review abstracts. Enjoy!"
+#~ msgstr ""
+#~ "Δημιουργήστε μια νέα σελίδα και προσθέστε το  [wpabstracts] σε αυτή βάλτε την στο μενού για να είναι δυνατή η υποβολή / "
+#~ "αξιολόγησεων περιλήψεων από το front end.\n"
+#~ "Τόσο οι αξιολογητές (PRO version) και οι συγγραφείς (συνδρομητές) θα χρησιμοποιούν το front end.  "
+
+#, fuzzy
+#~ msgid "Deletewpabstracts"
+#~ msgstr "Πρόσφατες περιλήψεις"
+
+#, fuzzy
+#~ msgid "\"Add attachment"
+#~ msgstr "Προσθήκη συνημμένου"

@@ -1,0 +1,174 @@
+/************************************************************
+ * WPAbstracts Plugin
+ * Copyright (c) 2013 Kevon Adonis
+ * www.WPabstracts.com																										*
+ ************************************************************/
+
+.wp-list-table .column-comments {
+    width: 35%;
+}
+.wp-list-table .column-cb {
+    width: 3%;
+}
+.wp-list-table .column-title {
+    width: 20%;
+}
+.wp-list-table .column-abstract_id {
+    width: 20%;
+}
+.wp-list-table .column-type {
+    width: 10%;
+}
+.wp-list-table .column-status {
+    width: 10%;
+}
+.wp-list-table .column-rid {
+    width: 15%;
+}
+.wp-list-table .column-author {
+    width: 13%;
+}
+.wp-list-table .column-reviewers {
+    width: 15%;
+}
+.wp-list-table .column-submit_date {
+    width: 10%;
+}
+.wp-list-table .column-last_edit_date {
+  width: 10%;
+}
+.wp-list-table .column-attachments {
+    text-align: center;
+}
+#attachments {
+    background-image: url('../images/attachment_icon.png');
+    background-repeat:  no-repeat;
+    background-position:  center;
+}
+.wp-list-table .column-topic {
+    width: 12%;
+}
+.abstract_form_table_label {
+	text-align: left;
+	width: 100px;
+}
+.save_buttons {
+	text-align:center;
+}
+.sub_date {
+	float: right;
+	font-size: 11px;
+        line-height: 13px;
+        display:block;
+}
+.steps{
+    position: relative;
+    padding-left: 55px;
+    padding-top: 8px;
+}
+.steps img{
+    position: absolute;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    left: 0;
+}
+#assign_reviewer{
+    padding: 12px;
+    text-align: center;
+}
+.review_table{
+    border-collapse: collapse;
+}
+.review_table tr{
+    border-bottom: 1px #CCCCCC dotted;
+}
+.reviewerList{
+    display: list-item;
+}
+.email_reviewer{
+    vertical-align: middle;
+}
+#abs_comments{
+    min-width:  500px;
+    min-height: 170px;
+}
+.export_reports p{
+    display: block;
+    padding: 12px 12px;
+    text-decoration: none;
+}
+
+.export_reports:before {
+    content:" ";
+}
+.export_reports a{
+    float: right;
+    text-decoration: none;
+}
+.export_reports a:before {
+    content: "\00bb";
+    font-weight: 400;
+    line-height: 1;
+    margin-right: 4px;
+    text-transform: none;
+}
+#wpabstracts_status_report, #wpabstracts_review_report{
+    height: 290px;
+}
+.settings_tip{
+    padding:0;
+    margin:-4px 0 0 0px;
+    vertical-align:middle;
+    cursor:help;
+    line-height:0
+}
+
+[data-tip] {
+	position:absolute;
+
+}
+[data-tip]:before {
+	content:'';
+	/* hides the tooltip when not hovered */
+	display:none;
+	content:'';
+	border-left: 5px solid transparent;
+	border-right: 5px solid transparent;
+	border-bottom: 5px solid #436388;
+	position:absolute;
+	top:20px;
+	left:5px;
+	z-index:8;
+	font-size:0;
+	line-height:0;
+        width:0;
+	height:0;
+}
+[data-tip]:after {
+	display:none;
+	content:attr(data-tip);
+	position:absolute;
+	top:25px;
+	left:-100px;
+	padding:5px 8px;
+	background:#436388;
+	color:#fff;
+	z-index:9;
+	font-size: 0.75em;
+	height:auto;
+        width: 200px;
+	line-height:18px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+
+}
+[data-tip]:hover:before,
+[data-tip]:hover:after {
+	display:block;
+}
+
+.word-count-error{
+    color:red;
+    font-weight:bold;
+}

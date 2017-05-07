@@ -1,0 +1,1505 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wpabstracts\n"
+"POT-Creation-Date: 2015-03-08 10:29-0500\n"
+"PO-Revision-Date: 2015-03-08 10:31-0500\n"
+"Last-Translator: Kevon Adonis <email@kevonadonis.com>\n"
+"Language-Team: Kevon Adonis <support@wpabstracts.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../backend/wpabstracts_addAbstract.php:6
+#: ../frontend/wpabstracts_addAbstract.php:30
+#: ../inc/wpabstracts_functions.php:365
+msgid "New Abstract"
+msgstr ""
+
+#: ../backend/wpabstracts_addAbstract.php:11
+#: ../frontend/wpabstracts_addAbstract.php:167
+msgid "Submit Abstract"
+msgstr ""
+
+#: ../backend/wpabstracts_addAbstract.php:14
+#: ../backend/wpabstracts_addEvent.php:15
+#: ../backend/wpabstracts_editAbstract.php:14
+#: ../backend/wpabstracts_editEvent.php:17
+#: ../frontend/wpabstracts_addAbstract.php:77
+#: ../frontend/wpabstracts_editAbstract.php:92
+#: ../inc/wpabstracts_downloads.php:154
+msgid "Event Information"
+msgstr ""
+
+#: ../backend/wpabstracts_addAbstract.php:14
+#: ../backend/wpabstracts_addAbstract.php:40
+#: ../backend/wpabstracts_addAbstract.php:61
+#: ../backend/wpabstracts_addEvent.php:15
+#: ../backend/wpabstracts_addReview.php:9
+#: ../backend/wpabstracts_editEvent.php:17
+#: ../backend/wpabstracts_editReview.php:9
+#: ../frontend/wpabstracts_editAbstract.php:92
+#: ../frontend/wpabstracts_editAbstract.php:127
+#: ../frontend/wpabstracts_editAbstract.php:170
+msgid "All fields required"
+msgstr ""
+
+#: ../backend/wpabstracts_addAbstract.php:18
+#: ../backend/wpabstracts_addReview.php:134
+#: ../backend/wpabstracts_editAbstract.php:18
+#: ../backend/wpabstracts_editReview.php:132
+#: ../frontend/wpabstracts_addAbstract.php:83
+#: ../frontend/wpabstracts_addReview.php:175
+#: ../frontend/wpabstracts_editAbstract.php:98
+#: ../frontend/wpabstracts_editReview.php:177
+#: ../inc/wpabstracts_downloads.php:41 ../inc/wpabstracts_downloads.php:155
+msgid "Event"
+msgstr ""
+
+#: ../backend/wpabstracts_addAbstract.php:20
+#: ../frontend/wpabstracts_addAbstract.php:85
+msgid "Select an event"
+msgstr ""
+
+#: ../backend/wpabstracts_addAbstract.php:30
+#: ../backend/wpabstracts_addEvent.php:47
+#: ../backend/wpabstracts_addReview.php:135
+#: ../backend/wpabstracts_editAbstract.php:30
+#: ../backend/wpabstracts_editEvent.php:50
+#: ../backend/wpabstracts_editReview.php:133
+#: ../frontend/wpabstracts_addAbstract.php:94
+#: ../frontend/wpabstracts_addReview.php:176
+#: ../frontend/wpabstracts_editAbstract.php:109
+#: ../frontend/wpabstracts_editReview.php:178
+#: ../inc/wpabstracts_downloads.php:41 ../inc/wpabstracts_downloads.php:156
+#: ../wpabstracts.php:543
+msgid "Topic"
+msgstr ""
+
+#: ../backend/wpabstracts_addAbstract.php:32
+#: ../frontend/wpabstracts_addAbstract.php:96
+msgid "Select a topic"
+msgstr ""
+
+#: ../backend/wpabstracts_addAbstract.php:40
+#: ../backend/wpabstracts_addReview.php:50
+#: ../backend/wpabstracts_editAbstract.php:45
+#: ../backend/wpabstracts_editReview.php:52
+#: ../frontend/wpabstracts_addAbstract.php:107
+#: ../frontend/wpabstracts_addReview.php:20
+#: ../frontend/wpabstracts_editAbstract.php:127
+#: ../frontend/wpabstracts_editReview.php:22
+#: ../inc/wpabstracts_downloads.php:158
+msgid "Author Information"
+msgstr ""
+
+#: ../backend/wpabstracts_addAbstract.php:44
+#: ../backend/wpabstracts_addAbstract.php:65
+#: ../backend/wpabstracts_addReview.php:66
+#: ../backend/wpabstracts_addReview.php:80
+#: ../backend/wpabstracts_editAbstract.php:62
+#: ../backend/wpabstracts_editAbstract.php:88
+#: ../backend/wpabstracts_editReview.php:68
+#: ../backend/wpabstracts_editReview.php:79
+#: ../frontend/wpabstracts_addAbstract.php:113
+#: ../frontend/wpabstracts_addAbstract.php:141
+#: ../frontend/wpabstracts_addReview.php:35
+#: ../frontend/wpabstracts_addReview.php:46
+#: ../frontend/wpabstracts_editAbstract.php:147
+#: ../frontend/wpabstracts_editAbstract.php:176
+#: ../frontend/wpabstracts_editReview.php:37
+#: ../frontend/wpabstracts_editReview.php:48 ../wpabstracts.php:533
+msgid "Name"
+msgstr ""
+
+#: ../backend/wpabstracts_addAbstract.php:48
+#: ../backend/wpabstracts_addAbstract.php:69
+#: ../backend/wpabstracts_addReview.php:67
+#: ../backend/wpabstracts_addReview.php:81
+#: ../backend/wpabstracts_addUser.php:57
+#: ../backend/wpabstracts_editAbstract.php:66
+#: ../backend/wpabstracts_editAbstract.php:92
+#: ../backend/wpabstracts_editReview.php:69
+#: ../backend/wpabstracts_editReview.php:80
+#: ../frontend/wpabstracts_addAbstract.php:116
+#: ../frontend/wpabstracts_addAbstract.php:146
+#: ../frontend/wpabstracts_addReview.php:36
+#: ../frontend/wpabstracts_addReview.php:47
+#: ../frontend/wpabstracts_editAbstract.php:150
+#: ../frontend/wpabstracts_editAbstract.php:181
+#: ../frontend/wpabstracts_editReview.php:38
+#: ../frontend/wpabstracts_editReview.php:49
+#: ../inc/wpabstracts_classes.php:905 ../inc/wpabstracts_downloads.php:160
+#: ../inc/wpabstracts_downloads.php:165 ../wpabstracts.php:534
+msgid "Email"
+msgstr ""
+
+#: ../backend/wpabstracts_addAbstract.php:52
+#: ../backend/wpabstracts_editAbstract.php:70
+#: ../backend/wpabstracts_editReview.php:70
+#: ../frontend/wpabstracts_addAbstract.php:119
+#: ../frontend/wpabstracts_addReview.php:37
+#: ../frontend/wpabstracts_editAbstract.php:153
+#: ../frontend/wpabstracts_editReview.php:39
+#: ../inc/wpabstracts_downloads.php:161 ../wpabstracts.php:544
+msgid "Affiliation"
+msgstr ""
+
+#: ../backend/wpabstracts_addAbstract.php:56
+#: ../backend/wpabstracts_editAbstract.php:77
+#: ../frontend/wpabstracts_addAbstract.php:126
+#: ../frontend/wpabstracts_editAbstract.php:161
+msgid "add author"
+msgstr ""
+
+#: ../backend/wpabstracts_addAbstract.php:57
+#: ../backend/wpabstracts_editAbstract.php:78
+#: ../frontend/wpabstracts_addAbstract.php:127
+#: ../frontend/wpabstracts_editAbstract.php:162
+msgid "delete author"
+msgstr ""
+
+#: ../backend/wpabstracts_addAbstract.php:61
+#: ../backend/wpabstracts_addReview.php:77
+#: ../backend/wpabstracts_editAbstract.php:84
+#: ../backend/wpabstracts_editReview.php:76
+#: ../frontend/wpabstracts_addAbstract.php:135
+#: ../frontend/wpabstracts_addReview.php:43
+#: ../frontend/wpabstracts_editAbstract.php:170
+#: ../frontend/wpabstracts_editReview.php:45
+#: ../inc/wpabstracts_downloads.php:163
+msgid "Presenter Information"
+msgstr ""
+
+#: ../backend/wpabstracts_addAbstract.php:73
+#: ../backend/wpabstracts_editAbstract.php:96
+#: ../frontend/wpabstracts_addAbstract.php:151
+#: ../frontend/wpabstracts_editAbstract.php:186
+msgid "Presenter Preference"
+msgstr ""
+
+#: ../backend/wpabstracts_addAbstract.php:75
+#: ../backend/wpabstracts_addReview.php:82
+#: ../backend/wpabstracts_editReview.php:81
+#: ../frontend/wpabstracts_addAbstract.php:153
+#: ../frontend/wpabstracts_addReview.php:48
+#: ../frontend/wpabstracts_editReview.php:50
+#: ../inc/wpabstracts_downloads.php:43 ../inc/wpabstracts_downloads.php:166
+msgid "Preference"
+msgstr ""
+
+#: ../backend/wpabstracts_addAbstract.php:88
+msgid "Add up to "
+msgstr ""
+
+#: ../backend/wpabstracts_addAbstract.php:90
+#: ../backend/wpabstracts_editAbstract.php:116
+#: ../frontend/wpabstracts_addAbstract.php:55
+#: ../frontend/wpabstracts_editAbstract.php:210
+msgid "Use this form to upload your images, photos or tables."
+msgstr ""
+
+#: ../backend/wpabstracts_addAbstract.php:91
+#: ../backend/wpabstracts_editAbstract.php:116
+#: ../frontend/wpabstracts_addAbstract.php:56
+#: ../frontend/wpabstracts_editAbstract.php:211
+msgid "Supported formats"
+msgstr ""
+
+#: ../backend/wpabstracts_addAbstract.php:92
+#: ../backend/wpabstracts_editAbstract.php:116
+#: ../frontend/wpabstracts_addAbstract.php:57
+#: ../frontend/wpabstracts_editAbstract.php:212
+msgid "Maximum attachment size"
+msgstr ""
+
+#: ../backend/wpabstracts_addAbstract.php:112
+#: ../frontend/wpabstracts_editAbstract.php:28
+msgid "Please add a description"
+msgstr ""
+
+#: ../backend/wpabstracts_addAbstract.php:119
+#: ../backend/wpabstracts_editAbstract.php:144
+#: ../frontend/wpabstracts_addAbstract.php:40
+#: ../frontend/wpabstracts_editAbstract.php:35
+#, php-format
+msgid "Word count: %s"
+msgstr ""
+
+#: ../backend/wpabstracts_addEvent.php:12
+#: ../backend/wpabstracts_editEvent.php:13
+msgid "Save Event"
+msgstr ""
+
+#: ../backend/wpabstracts_addEvent.php:19
+#: ../backend/wpabstracts_editEvent.php:21 ../inc/wpabstracts_classes.php:658
+msgid "Host"
+msgstr ""
+
+#: ../backend/wpabstracts_addEvent.php:23
+#: ../backend/wpabstracts_editEvent.php:25 ../inc/wpabstracts_classes.php:657
+msgid "Location"
+msgstr ""
+
+#: ../backend/wpabstracts_addEvent.php:24
+#: ../backend/wpabstracts_addEvent.php:29
+#: ../backend/wpabstracts_addEvent.php:33
+#: ../backend/wpabstracts_addEvent.php:37
+#: ../backend/wpabstracts_addEvent.php:43
+#: ../backend/wpabstracts_addEvent.php:68
+#: ../backend/wpabstracts_editEvent.php:26
+#: ../backend/wpabstracts_editEvent.php:30
+#: ../backend/wpabstracts_editEvent.php:34
+#: ../backend/wpabstracts_editEvent.php:38
+#: ../backend/wpabstracts_editEvent.php:44
+#: ../backend/wpabstracts_editEvent.php:72
+msgid "Required field"
+msgstr ""
+
+#: ../backend/wpabstracts_addEvent.php:27
+#: ../backend/wpabstracts_editEvent.php:29 ../inc/wpabstracts_classes.php:660
+msgid "Start Date"
+msgstr ""
+
+#: ../backend/wpabstracts_addEvent.php:32
+#: ../backend/wpabstracts_editEvent.php:33 ../inc/wpabstracts_classes.php:661
+msgid "End Date"
+msgstr ""
+
+#: ../backend/wpabstracts_addEvent.php:36
+#: ../backend/wpabstracts_editEvent.php:37 ../inc/wpabstracts_classes.php:662
+msgid "Deadline"
+msgstr ""
+
+#: ../backend/wpabstracts_addEvent.php:43
+#: ../backend/wpabstracts_editEvent.php:44 ../inc/wpabstracts_classes.php:659
+msgid "Topics"
+msgstr ""
+
+#: ../backend/wpabstracts_addEvent.php:53
+#: ../backend/wpabstracts_editEvent.php:57
+msgid "add topic"
+msgstr ""
+
+#: ../backend/wpabstracts_addEvent.php:54
+#: ../backend/wpabstracts_editEvent.php:58
+msgid "delete topic"
+msgstr ""
+
+#: ../backend/wpabstracts_addEvent.php:63
+#: ../backend/wpabstracts_editEvent.php:67
+msgid "Enter event name here. Eg. ICS Conference 2014"
+msgstr ""
+
+#: ../backend/wpabstracts_addReview.php:1
+#: ../frontend/wpabstracts_addReview.php:1
+msgid "New Review"
+msgstr ""
+
+#: ../backend/wpabstracts_addReview.php:7
+#: ../frontend/wpabstracts_addReview.php:183
+msgid "Save Review"
+msgstr ""
+
+#: ../backend/wpabstracts_addReview.php:11
+#: ../backend/wpabstracts_editReview.php:11
+#: ../frontend/wpabstracts_addReview.php:97
+#: ../frontend/wpabstracts_editReview.php:99
+#: ../inc/wpabstracts_classes.php:246 ../inc/wpabstracts_classes.php:523
+#: ../inc/wpabstracts_downloads.php:75 ../inc/wpabstracts_functions.php:535
+msgid "Relevance"
+msgstr ""
+
+#: ../backend/wpabstracts_addReview.php:13
+#: ../backend/wpabstracts_addReview.php:22
+#: ../backend/wpabstracts_editReview.php:13
+#: ../backend/wpabstracts_editReview.php:22
+#: ../frontend/wpabstracts_addReview.php:102
+#: ../frontend/wpabstracts_addReview.php:124
+#: ../frontend/wpabstracts_editReview.php:104
+#: ../frontend/wpabstracts_editReview.php:126 ../wpabstracts_reports.php:65
+#: ../wpabstracts_reports.php:95
+msgid "Excellent"
+msgstr ""
+
+#: ../backend/wpabstracts_addReview.php:14
+#: ../backend/wpabstracts_addReview.php:23
+#: ../backend/wpabstracts_editReview.php:14
+#: ../backend/wpabstracts_editReview.php:23
+#: ../frontend/wpabstracts_addReview.php:105
+#: ../frontend/wpabstracts_addReview.php:127
+#: ../frontend/wpabstracts_editReview.php:107
+#: ../frontend/wpabstracts_editReview.php:129 ../wpabstracts_reports.php:66
+#: ../wpabstracts_reports.php:96
+msgid "Good"
+msgstr ""
+
+#: ../backend/wpabstracts_addReview.php:15
+#: ../backend/wpabstracts_addReview.php:24
+#: ../backend/wpabstracts_editReview.php:15
+#: ../backend/wpabstracts_editReview.php:24
+#: ../frontend/wpabstracts_addReview.php:108
+#: ../frontend/wpabstracts_addReview.php:130
+#: ../frontend/wpabstracts_editReview.php:110
+#: ../frontend/wpabstracts_editReview.php:132 ../wpabstracts_reports.php:67
+#: ../wpabstracts_reports.php:97
+msgid "Average"
+msgstr ""
+
+#: ../backend/wpabstracts_addReview.php:16
+#: ../backend/wpabstracts_addReview.php:25
+#: ../backend/wpabstracts_editReview.php:16
+#: ../backend/wpabstracts_editReview.php:26
+#: ../frontend/wpabstracts_addReview.php:111
+#: ../frontend/wpabstracts_addReview.php:133
+#: ../frontend/wpabstracts_editReview.php:113
+#: ../frontend/wpabstracts_editReview.php:135 ../wpabstracts_reports.php:68
+#: ../wpabstracts_reports.php:98
+msgid "Poor"
+msgstr ""
+
+#: ../backend/wpabstracts_addReview.php:20
+#: ../backend/wpabstracts_editReview.php:20
+#: ../frontend/wpabstracts_addReview.php:119
+#: ../frontend/wpabstracts_editReview.php:121
+#: ../inc/wpabstracts_classes.php:247 ../inc/wpabstracts_classes.php:524
+#: ../inc/wpabstracts_downloads.php:76 ../inc/wpabstracts_functions.php:536
+msgid "Quality"
+msgstr ""
+
+#: ../backend/wpabstracts_addReview.php:29
+#: ../backend/wpabstracts_editReview.php:30
+#: ../frontend/wpabstracts_addReview.php:141
+#: ../frontend/wpabstracts_editReview.php:143
+msgid "Suggest Type"
+msgstr ""
+
+#: ../backend/wpabstracts_addReview.php:31
+#: ../backend/wpabstracts_editReview.php:32
+#: ../frontend/wpabstracts_addReview.php:145
+#: ../frontend/wpabstracts_editReview.php:147
+msgid "Request"
+msgstr ""
+
+#: ../backend/wpabstracts_addReview.php:40
+#: ../backend/wpabstracts_editReview.php:41
+#: ../frontend/wpabstracts_addReview.php:157
+#: ../frontend/wpabstracts_editReview.php:159
+msgid "Suggest Status"
+msgstr ""
+
+#: ../backend/wpabstracts_addReview.php:42
+#: ../backend/wpabstracts_editReview.php:43
+#: ../frontend/wpabstracts_addReview.php:161
+#: ../frontend/wpabstracts_editReview.php:163 ../wpabstracts_reports.php:44
+#: ../wpabstracts_reports.php:87 ../wpabstracts_summary.php:33
+msgid "Pending"
+msgstr ""
+
+#: ../backend/wpabstracts_addReview.php:43
+#: ../backend/wpabstracts_editReview.php:44
+#: ../frontend/wpabstracts_addReview.php:162
+#: ../frontend/wpabstracts_editReview.php:164 ../wpabstracts_reports.php:43
+#: ../wpabstracts_reports.php:86 ../wpabstracts_summary.php:30
+msgid "Approved"
+msgstr ""
+
+#: ../backend/wpabstracts_addReview.php:44
+#: ../backend/wpabstracts_editReview.php:45
+#: ../frontend/wpabstracts_addReview.php:163
+#: ../frontend/wpabstracts_editReview.php:165 ../wpabstracts_reports.php:45
+#: ../wpabstracts_reports.php:88 ../wpabstracts_summary.php:36
+msgid "Rejected"
+msgstr ""
+
+#: ../backend/wpabstracts_addReview.php:88
+#: ../backend/wpabstracts_editReview.php:87
+#: ../frontend/wpabstracts_addAbstract.php:48
+#: ../frontend/wpabstracts_addReview.php:57
+#: ../frontend/wpabstracts_editAbstract.php:203
+#: ../frontend/wpabstracts_editReview.php:59 ../wpabstracts.php:70
+#: ../wpabstracts.php:244 ../wpabstracts_summary.php:42
+msgid "Attachments"
+msgstr ""
+
+#: ../backend/wpabstracts_addReview.php:92
+#: ../backend/wpabstracts_editReview.php:92
+#: ../frontend/wpabstracts_addReview.php:63
+#: ../frontend/wpabstracts_editReview.php:65
+msgid "No Attachments submitted"
+msgstr ""
+
+#: ../backend/wpabstracts_addReview.php:122
+#: ../backend/wpabstracts_editReview.php:120
+#: ../frontend/wpabstracts_addReview.php:80
+#: ../frontend/wpabstracts_editReview.php:82
+msgid "Add Comments"
+msgstr ""
+
+#: ../backend/wpabstracts_addReview.php:122
+#: ../backend/wpabstracts_editReview.php:120
+msgid "Please add some comments about this review"
+msgstr ""
+
+#: ../backend/wpabstracts_addReview.php:131
+#: ../backend/wpabstracts_editReview.php:129
+#: ../frontend/wpabstracts_addReview.php:170
+#: ../frontend/wpabstracts_editReview.php:172
+msgid "Additional Information"
+msgstr ""
+
+#: ../backend/wpabstracts_addReview.php:133
+#: ../backend/wpabstracts_editReview.php:131
+#: ../frontend/wpabstracts_addReview.php:174
+#: ../frontend/wpabstracts_editReview.php:176
+#: ../inc/wpabstracts_classes.php:79 ../inc/wpabstracts_downloads.php:43
+#: ../inc/wpabstracts_functions.php:403 ../wpabstracts_reports.php:42
+msgid "Submitted"
+msgstr ""
+
+#: ../backend/wpabstracts_addUser.php:9
+msgid "View"
+msgstr ""
+
+#: ../backend/wpabstracts_addUser.php:10
+msgid "Instructions"
+msgstr ""
+
+#: ../backend/wpabstracts_addUser.php:12
+msgid ""
+"1. Enter the user's name, username, temporary password and email address.\n"
+"                    Then select the level and submit. "
+msgstr ""
+
+#: ../backend/wpabstracts_addUser.php:13
+msgid ""
+"2. Email the user his/her user name\n"
+"                    and temporary password and have them update their "
+"password after the first login."
+msgstr ""
+
+#: ../backend/wpabstracts_addUser.php:15
+msgid ""
+"<strong>Authors</strong> are only allowed to submit abstracts from the "
+"frontend."
+msgstr ""
+
+#: ../backend/wpabstracts_addUser.php:16
+msgid ""
+"<strong>Reviewers</strong> are allowed backend access to review, approve or "
+"reject abstracts."
+msgstr ""
+
+#: ../backend/wpabstracts_addUser.php:17
+msgid ""
+"You may also manage users from the default WordPress users tab. Authors are "
+"equivalent to subscribers\n"
+"                    while reviewers are editors."
+msgstr ""
+
+#: ../backend/wpabstracts_addUser.php:31
+msgid "User Information"
+msgstr ""
+
+#: ../backend/wpabstracts_addUser.php:37
+msgid "First Name"
+msgstr ""
+
+#: ../backend/wpabstracts_addUser.php:39 ../backend/wpabstracts_addUser.php:44
+#: ../backend/wpabstracts_addUser.php:49 ../backend/wpabstracts_addUser.php:54
+#: ../backend/wpabstracts_addUser.php:59 ../backend/wpabstracts_addUser.php:69
+msgid "Required"
+msgstr ""
+
+#: ../backend/wpabstracts_addUser.php:42
+msgid "Last Name"
+msgstr ""
+
+#: ../backend/wpabstracts_addUser.php:47 ../inc/wpabstracts_classes.php:904
+msgid "Username"
+msgstr ""
+
+#: ../backend/wpabstracts_addUser.php:52
+msgid "Password"
+msgstr ""
+
+#: ../backend/wpabstracts_addUser.php:62
+msgid "User Level"
+msgstr ""
+
+#: ../backend/wpabstracts_addUser.php:65
+msgid "User Role"
+msgstr ""
+
+#: ../backend/wpabstracts_addUser.php:66 ../inc/wpabstracts_classes.php:76
+#: ../inc/wpabstracts_classes.php:387 ../inc/wpabstracts_downloads.php:159
+#: ../inc/wpabstracts_functions.php:462 ../wpabstracts_summary.php:64
+msgid "Author"
+msgstr ""
+
+#: ../backend/wpabstracts_addUser.php:67 ../inc/wpabstracts_downloads.php:43
+#: ../wpabstracts_abstracts.php:168 ../wpabstracts_abstracts.php:188
+#: ../wpabstracts_abstracts.php:207 ../wpabstracts_summary.php:93
+msgid "Reviewer"
+msgstr ""
+
+#: ../backend/wpabstracts_addUser.php:76
+msgid "Create User"
+msgstr ""
+
+#: ../backend/wpabstracts_editAbstract.php:6
+#: ../frontend/wpabstracts_editAbstract.php:24
+#: ../inc/wpabstracts_functions.php:505
+msgid "Edit Abstract"
+msgstr ""
+
+#: ../backend/wpabstracts_editAbstract.php:11
+#: ../frontend/wpabstracts_editAbstract.php:232
+msgid "Update Abstract"
+msgstr ""
+
+#: ../backend/wpabstracts_editAbstract.php:14
+#: ../backend/wpabstracts_editAbstract.php:45
+#: ../backend/wpabstracts_editAbstract.php:84
+#: ../backend/wpabstracts_editAbstract.php:137
+msgid " All fields required"
+msgstr ""
+
+#: ../backend/wpabstracts_editAbstract.php:114
+msgid "Add Attachments ("
+msgstr ""
+
+#: ../backend/wpabstracts_editAbstract.php:148
+#: ../frontend/wpabstracts_editAbstract.php:42
+msgid "Manage Attachments"
+msgstr ""
+
+#: ../backend/wpabstracts_editAbstract.php:152
+#: ../frontend/wpabstracts_editAbstract.php:47
+msgid "<p>No Attachments uploaded</p>"
+msgstr ""
+
+#: ../backend/wpabstracts_editAbstract.php:168
+msgid "Change Ownership"
+msgstr ""
+
+#: ../backend/wpabstracts_editAbstract.php:170
+#: ../frontend/wpabstracts_editAbstract.php:69
+msgid "Use this box to assign a new user / owner of this submission"
+msgstr ""
+
+#: ../backend/wpabstracts_editEmailTemplate.php:5
+msgid "Available Shortcodes"
+msgstr ""
+
+#: ../backend/wpabstracts_editEmailTemplate.php:23
+msgid "Edit Email Template"
+msgstr ""
+
+#: ../backend/wpabstracts_editEmailTemplate.php:27
+msgid "Template Name"
+msgstr ""
+
+#: ../backend/wpabstracts_editEmailTemplate.php:31
+#: ../inc/wpabstracts_classes.php:789
+msgid "From Name"
+msgstr ""
+
+#: ../backend/wpabstracts_editEmailTemplate.php:35
+#: ../inc/wpabstracts_classes.php:790
+msgid "From Email"
+msgstr ""
+
+#: ../backend/wpabstracts_editEmailTemplate.php:39
+msgid "Email Subject"
+msgstr ""
+
+#: ../backend/wpabstracts_editEmailTemplate.php:43
+msgid "Email Body"
+msgstr ""
+
+#: ../backend/wpabstracts_editEmailTemplate.php:55
+msgid "Update Template"
+msgstr ""
+
+#: ../backend/wpabstracts_editReview.php:1
+#: ../frontend/wpabstracts_editReview.php:1
+msgid "Edit Review"
+msgstr ""
+
+#: ../backend/wpabstracts_editReview.php:7
+#: ../frontend/wpabstracts_editReview.php:185
+msgid "Update Review"
+msgstr ""
+
+#: ../frontend/wpabstracts_addAbstract.php:18
+msgid "<h4>Abstract submission for this event has past</h4>"
+msgstr ""
+
+#: ../frontend/wpabstracts_addAbstract.php:49
+#: ../frontend/wpabstracts_editAbstract.php:204
+msgid "(add up to "
+msgstr ""
+
+#: ../frontend/wpabstracts_author.php:11
+msgid "Please login to submit abstracts"
+msgstr ""
+
+#: ../frontend/wpabstracts_author.php:15
+#: ../frontend/wpabstracts_dashboard.php:66
+#: ../frontend/wpabstracts_reviewer.php:14
+msgid "Need an account?"
+msgstr ""
+
+#: ../frontend/wpabstracts_author.php:15
+#: ../frontend/wpabstracts_reviewer.php:14
+msgid "Register"
+msgstr ""
+
+#: ../frontend/wpabstracts_author.php:22
+msgid ""
+"You're an Administrator. <br>Please use the Wordpress admin area to submit "
+"abstracts."
+msgstr ""
+
+#: ../frontend/wpabstracts_author.php:24
+#: ../frontend/wpabstracts_dashboard.php:59
+#: ../frontend/wpabstracts_reviewer.php:53
+msgid "You do not have permission to view this page."
+msgstr ""
+
+#: ../frontend/wpabstracts_dashboard.php:9
+msgid ""
+"You're an Administrator. Please use the WordPress admin area to manage "
+"abstracts."
+msgstr ""
+
+#: ../frontend/wpabstracts_dashboard.php:55
+msgid ""
+"You do not have permission to view this page. Please contact the site admin."
+msgstr ""
+
+#: ../frontend/wpabstracts_dashboard.php:62
+msgid "Please login for your conference participation"
+msgstr ""
+
+#: ../frontend/wpabstracts_dashboard.php:66
+msgid "Create an Account"
+msgstr ""
+
+#: ../frontend/wpabstracts_editAbstract.php:66
+msgid "Manage Ownership"
+msgstr ""
+
+#: ../frontend/wpabstracts_reviewer.php:8
+msgid "<p>Please login to review abstracts</p>"
+msgstr ""
+
+#: ../frontend/wpabstracts_reviewer.php:22
+msgid ""
+"You're an Administrator. Please use the WordPress admin area to review "
+"abstracts."
+msgstr ""
+
+#: ../inc/wpabstracts_classes.php:25 ../inc/wpabstracts_classes.php:99
+msgid "Approve"
+msgstr ""
+
+#: ../inc/wpabstracts_classes.php:26 ../inc/wpabstracts_classes.php:100
+msgid "Reject"
+msgstr ""
+
+#: ../inc/wpabstracts_classes.php:27 ../inc/wpabstracts_classes.php:195
+#: ../inc/wpabstracts_classes.php:484 ../inc/wpabstracts_classes.php:625
+#: ../inc/wpabstracts_classes.php:764 ../inc/wpabstracts_classes.php:869
+#: ../inc/wpabstracts_functions.php:423 ../inc/wpabstracts_functions.php:567
+msgid "Edit"
+msgstr ""
+
+#: ../inc/wpabstracts_classes.php:28
+msgid "Assign"
+msgstr ""
+
+#: ../inc/wpabstracts_classes.php:29 ../inc/wpabstracts_functions.php:523
+#: ../wpabstracts.php:69 ../wpabstracts.php:244
+msgid "Reviews"
+msgstr ""
+
+#: ../inc/wpabstracts_classes.php:30
+msgid "Export PDF"
+msgstr ""
+
+#: ../inc/wpabstracts_classes.php:31 ../inc/wpabstracts_classes.php:101
+#: ../inc/wpabstracts_classes.php:196 ../inc/wpabstracts_classes.php:267
+#: ../inc/wpabstracts_classes.php:485 ../inc/wpabstracts_classes.php:544
+#: ../inc/wpabstracts_classes.php:626 ../inc/wpabstracts_classes.php:689
+#: ../inc/wpabstracts_classes.php:870 ../inc/wpabstracts_classes.php:922
+#: ../inc/wpabstracts_functions.php:424 ../inc/wpabstracts_functions.php:568
+msgid "Delete"
+msgstr ""
+
+#: ../inc/wpabstracts_classes.php:57 ../wpabstracts_abstracts.php:141
+#: ../wpabstracts_abstracts.php:152 ../wpabstracts_abstracts.php:163
+#: ../wpabstracts_summary.php:111
+msgid "Not Assigned"
+msgstr ""
+
+#: ../inc/wpabstracts_classes.php:74 ../inc/wpabstracts_downloads.php:41
+#: ../inc/wpabstracts_functions.php:400 ../inc/wpabstracts_functions.php:461
+#: ../inc/wpabstracts_functions.php:532
+msgid "Title"
+msgstr ""
+
+#: ../inc/wpabstracts_classes.php:75
+msgid "Event / Topic"
+msgstr ""
+
+#: ../inc/wpabstracts_classes.php:77 ../inc/wpabstracts_classes.php:525
+#: ../inc/wpabstracts_downloads.php:42 ../inc/wpabstracts_downloads.php:75
+#: ../inc/wpabstracts_functions.php:401 ../inc/wpabstracts_functions.php:534
+#: ../wpabstracts_reports.php:41 ../wpabstracts_reports.php:64
+msgid "Status"
+msgstr ""
+
+#: ../inc/wpabstracts_classes.php:78
+msgid "Reviewers"
+msgstr ""
+
+#: ../inc/wpabstracts_classes.php:205 ../inc/wpabstracts_classes.php:495
+msgid "User deleted"
+msgstr ""
+
+#: ../inc/wpabstracts_classes.php:208 ../inc/wpabstracts_classes.php:498
+#, php-format
+msgid "%1$s<br><span style=\"color:silver\">Reviewed by: %2$s | %3$s</span>"
+msgstr ""
+
+#: ../inc/wpabstracts_classes.php:233
+msgid ""
+"TIP: The suggested status on reviews is only\n"
+"                    a recommendation, administrators have the final decision "
+"to accept or reject submissions."
+msgstr ""
+
+#: ../inc/wpabstracts_classes.php:244 ../inc/wpabstracts_classes.php:521
+#: ../inc/wpabstracts_downloads.php:41
+msgid "Abstract"
+msgstr ""
+
+#: ../inc/wpabstracts_classes.php:245 ../inc/wpabstracts_classes.php:522
+#: ../inc/wpabstracts_downloads.php:76 ../inc/wpabstracts_functions.php:533
+#: ../wpabstracts_summary.php:92
+msgid "Comments"
+msgstr ""
+
+#: ../inc/wpabstracts_classes.php:248
+msgid "Suggested"
+msgstr ""
+
+#: ../inc/wpabstracts_classes.php:249 ../inc/wpabstracts_classes.php:526
+#: ../inc/wpabstracts_classes.php:906 ../inc/wpabstracts_functions.php:402
+#: ../inc/wpabstracts_functions.php:537
+msgid "Type"
+msgstr ""
+
+#: ../inc/wpabstracts_classes.php:346 ../inc/wpabstracts_classes.php:390
+msgid "Download"
+msgstr ""
+
+#: ../inc/wpabstracts_classes.php:385
+msgid "File Name"
+msgstr ""
+
+#: ../inc/wpabstracts_classes.php:386
+msgid "Uploaded to"
+msgstr ""
+
+#: ../inc/wpabstracts_classes.php:388
+msgid "File Type"
+msgstr ""
+
+#: ../inc/wpabstracts_classes.php:389
+msgid "File Size"
+msgstr ""
+
+#: ../inc/wpabstracts_classes.php:472
+msgid "review"
+msgstr ""
+
+#: ../inc/wpabstracts_classes.php:473
+msgid "reviews"
+msgstr ""
+
+#: ../inc/wpabstracts_classes.php:656
+msgid "Event Name"
+msgstr ""
+
+#: ../inc/wpabstracts_classes.php:663
+msgid "Submissions"
+msgstr ""
+
+#: ../inc/wpabstracts_classes.php:787
+msgid "Email Template"
+msgstr ""
+
+#: ../inc/wpabstracts_classes.php:788
+msgid "Subject"
+msgstr ""
+
+#: ../inc/wpabstracts_classes.php:791
+msgid "Email Group"
+msgstr ""
+
+#: ../inc/wpabstracts_classes.php:903
+msgid "Full Name"
+msgstr ""
+
+#: ../inc/wpabstracts_classes.php:938
+msgid "Search users"
+msgstr ""
+
+#: ../inc/wpabstracts_downloads.php:41
+msgid "Description"
+msgstr ""
+
+#: ../inc/wpabstracts_downloads.php:42
+msgid "Authors"
+msgstr ""
+
+#: ../inc/wpabstracts_downloads.php:42
+msgid "AuthorsEmail"
+msgstr ""
+
+#: ../inc/wpabstracts_downloads.php:42
+msgid "AuthorAffiliation"
+msgstr ""
+
+#: ../inc/wpabstracts_downloads.php:42 ../inc/wpabstracts_downloads.php:164
+msgid "Presenter"
+msgstr ""
+
+#: ../inc/wpabstracts_downloads.php:42
+msgid "PresenterEmail"
+msgstr ""
+
+#: ../inc/wpabstracts_downloads.php:43
+msgid "User"
+msgstr ""
+
+#: ../inc/wpabstracts_downloads.php:46
+msgid "Approved Abstracts"
+msgstr ""
+
+#: ../inc/wpabstracts_downloads.php:53
+msgid "Pending Abstracts"
+msgstr ""
+
+#: ../inc/wpabstracts_downloads.php:60
+msgid "Rejected Abstracts"
+msgstr ""
+
+#: ../inc/wpabstracts_downloads.php:67 ../wpabstracts_reports.php:89
+msgid "All Abstracts"
+msgstr ""
+
+#: ../inc/wpabstracts_downloads.php:75
+msgid "ReviewID"
+msgstr ""
+
+#: ../inc/wpabstracts_downloads.php:75
+msgid "AbstractID"
+msgstr ""
+
+#: ../inc/wpabstracts_downloads.php:75
+msgid "UserID"
+msgstr ""
+
+#: ../inc/wpabstracts_downloads.php:76
+msgid "Recommendation"
+msgstr ""
+
+#: ../inc/wpabstracts_downloads.php:76
+msgid "ReviewDate"
+msgstr ""
+
+#: ../inc/wpabstracts_downloads.php:79
+msgid "Excellent Reviews"
+msgstr ""
+
+#: ../inc/wpabstracts_downloads.php:83
+msgid "Good Reviews"
+msgstr ""
+
+#: ../inc/wpabstracts_downloads.php:87
+msgid "Average Reviews"
+msgstr ""
+
+#: ../inc/wpabstracts_downloads.php:91
+msgid "Poor Reviews"
+msgstr ""
+
+#: ../inc/wpabstracts_downloads.php:95 ../wpabstracts_reports.php:99
+#: ../wpabstracts_reviews.php:100
+msgid "All Reviews"
+msgstr ""
+
+#: ../inc/wpabstracts_downloads.php:132 ../inc/wpabstracts_downloads.php:147
+msgid "Abstract ID"
+msgstr ""
+
+#: ../inc/wpabstracts_downloads.php:132
+msgid "Auto-Generated"
+msgstr ""
+
+#: ../inc/wpabstracts_downloads.php:150
+msgid "Abstract Details"
+msgstr ""
+
+#: ../inc/wpabstracts_emailer.php:43
+msgid "From:"
+msgstr ""
+
+#: ../inc/wpabstracts_functions.php:349
+msgid "Welcome back"
+msgstr ""
+
+#: ../inc/wpabstracts_functions.php:359
+msgid "Dashboard"
+msgstr ""
+
+#: ../inc/wpabstracts_functions.php:372
+msgid "Logout"
+msgstr ""
+
+#: ../inc/wpabstracts_functions.php:392
+msgid "My Abstracts"
+msgstr ""
+
+#: ../inc/wpabstracts_functions.php:399 ../inc/wpabstracts_functions.php:460
+#: ../inc/wpabstracts_functions.php:531
+msgid "ID"
+msgstr ""
+
+#: ../inc/wpabstracts_functions.php:404 ../inc/wpabstracts_functions.php:466
+#: ../inc/wpabstracts_functions.php:539
+msgid "Action"
+msgstr ""
+
+#: ../inc/wpabstracts_functions.php:409
+msgid "You have NOT submitted any abstracts."
+msgstr ""
+
+#: ../inc/wpabstracts_functions.php:427
+msgid "Closed"
+msgstr ""
+
+#: ../inc/wpabstracts_functions.php:452
+msgid "New Abstracts"
+msgstr ""
+
+#: ../inc/wpabstracts_functions.php:463
+msgid "Type Request"
+msgstr ""
+
+#: ../inc/wpabstracts_functions.php:464
+msgid "Date Submitted"
+msgstr ""
+
+#: ../inc/wpabstracts_functions.php:486
+msgid "You have NO newly assigned abstracts"
+msgstr ""
+
+#: ../inc/wpabstracts_functions.php:507
+msgid "Review"
+msgstr ""
+
+#: ../inc/wpabstracts_functions.php:538
+msgid "Reviewed"
+msgstr ""
+
+#: ../inc/wpabstracts_functions.php:547
+msgid "You have no COMPLETED reviews"
+msgstr ""
+
+#: ../wpabstracts.php:66
+msgid "Abstracts & Manuscripts Summary"
+msgstr ""
+
+#: ../wpabstracts.php:66 ../wpabstracts.php:244
+msgid "Summary"
+msgstr ""
+
+#: ../wpabstracts.php:67
+msgid "Manage Submissions"
+msgstr ""
+
+#: ../wpabstracts.php:67 ../wpabstracts.php:244
+#: ../wpabstracts_abstracts.php:287
+msgid "Abstracts"
+msgstr ""
+
+#: ../wpabstracts.php:68
+msgid "Events / Conference"
+msgstr ""
+
+#: ../wpabstracts.php:68 ../wpabstracts.php:244 ../wpabstracts_events.php:100
+#: ../wpabstracts_summary.php:39
+msgid "Events"
+msgstr ""
+
+#: ../wpabstracts.php:71 ../wpabstracts.php:244
+msgid "Users"
+msgstr ""
+
+#: ../wpabstracts.php:72 ../wpabstracts.php:244
+msgid "Reports"
+msgstr ""
+
+#: ../wpabstracts.php:73 ../wpabstracts.php:244 ../wpabstracts_settings.php:30
+msgid "Settings"
+msgstr ""
+
+#: ../wpabstracts.php:74
+msgid "Wmails"
+msgstr ""
+
+#: ../wpabstracts.php:74 ../wpabstracts.php:244
+msgid "Emails"
+msgstr ""
+
+#: ../wpabstracts.php:75 ../wpabstracts.php:244
+msgid "Help"
+msgstr ""
+
+#: ../wpabstracts.php:90 ../wpabstracts.php:112 ../wpabstracts.php:134
+msgid "<h3 style=\"color:red;\">Please enter a valid event ID</h3>"
+msgstr ""
+
+#: ../wpabstracts.php:91 ../wpabstracts.php:113 ../wpabstracts.php:135
+msgid ""
+"<p>The shortcode in this page should be similar to [wpabstracts "
+"event_id=EventID]</p>"
+msgstr ""
+
+#: ../wpabstracts.php:181
+msgid "Request Customization"
+msgstr ""
+
+#: ../wpabstracts.php:182 ../wpabstracts.php:580 ../wpabstracts_help.php:12
+msgid "Support"
+msgstr ""
+
+#: ../wpabstracts.php:532
+msgid "Please enter a name for your event"
+msgstr ""
+
+#: ../wpabstracts.php:535
+msgid "Do you really want to delete this abstract and all its attachments?"
+msgstr ""
+
+#: ../wpabstracts.php:536
+msgid "Do you really want to delete this event?"
+msgstr ""
+
+#: ../wpabstracts.php:537
+msgid "Do you really want to delete this review?"
+msgstr ""
+
+#: ../wpabstracts.php:538
+msgid "Are you sure you want to delete this user?"
+msgstr ""
+
+#: ../wpabstracts.php:539
+msgid "hosted by"
+msgstr ""
+
+#: ../wpabstracts.php:540
+msgid "Assign Reviewer"
+msgstr ""
+
+#: ../wpabstracts.php:541
+msgid "Review Alert"
+msgstr ""
+
+#: ../wpabstracts.php:542
+msgid "Please fill in all required fields."
+msgstr ""
+
+#: ../wpabstracts.php:580
+msgid "Need help?"
+msgstr ""
+
+#: ../wpabstracts.php:655
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+
+#: ../wpabstracts.php:660
+msgid "An unknown error occurred"
+msgstr ""
+
+#: ../wpabstracts_abstracts.php:138 ../wpabstracts_abstracts.php:149
+#: ../wpabstracts_abstracts.php:160
+msgid "Error: Reviewer Deleted"
+msgstr ""
+
+#: ../wpabstracts_abstracts.php:183 ../wpabstracts_abstracts.php:203
+#: ../wpabstracts_abstracts.php:222
+msgid "Email Reviewer"
+msgstr ""
+
+#: ../wpabstracts_abstracts.php:227
+msgid "Assign Reviewers"
+msgstr ""
+
+#: ../wpabstracts_abstracts.php:287 ../wpabstracts_reviews.php:99
+msgid "Add New"
+msgstr ""
+
+#: ../wpabstracts_events.php:100
+msgid "Create event"
+msgstr ""
+
+#: ../wpabstracts_events.php:120
+msgid "Event deleted"
+msgstr ""
+
+#: ../wpabstracts_events.php:134
+msgid "Error!"
+msgstr ""
+
+#: ../wpabstracts_help.php:6
+msgid "Important Information"
+msgstr ""
+
+#: ../wpabstracts_help.php:8
+msgid ""
+"At least one <strong>event</strong> must be created to allow users to submit "
+"abstracts."
+msgstr ""
+
+#: ../wpabstracts_help.php:14
+msgid ""
+"For more help on questions and issues please visit the <a href=\"http://www."
+"wpabstracts.com/support\" target=\"_blank\">support forums</a> or <a href="
+"\"mailto:support@wpabstracts.com\">email us</a>. We would be happy to hear "
+"form you."
+msgstr ""
+
+#: ../wpabstracts_help.php:18 ../wpabstracts_reports.php:103
+#: ../wpabstracts_summary.php:48
+msgid "Help us Improve"
+msgstr ""
+
+#: ../wpabstracts_help.php:20 ../wpabstracts_summary.php:50
+msgid "Suggest"
+msgstr ""
+
+#: ../wpabstracts_help.php:20 ../wpabstracts_summary.php:50
+msgid "features"
+msgstr ""
+
+#: ../wpabstracts_help.php:21 ../wpabstracts_summary.php:51
+msgid "Rate"
+msgstr ""
+
+#: ../wpabstracts_help.php:21
+msgid "the plugin 5 stars on WordPress.org"
+msgstr ""
+
+#: ../wpabstracts_help.php:22 ../wpabstracts_summary.php:52
+msgid "Like us"
+msgstr ""
+
+#: ../wpabstracts_help.php:22
+msgid "on Facebook"
+msgstr ""
+
+#: ../wpabstracts_help.php:29
+msgid "Get setup and running in three simple steps"
+msgstr ""
+
+#: ../wpabstracts_help.php:31
+msgid ""
+"Create an event. This may be the name of a conference or anything relating "
+"to the submission of abstracts."
+msgstr ""
+
+#: ../wpabstracts_help.php:34
+msgid ""
+"Visit the settings page and choose your preference for the plugin. Also "
+"ensure your permanent links are set to post-name or custom."
+msgstr ""
+
+#: ../wpabstracts_help.php:37
+msgid ""
+"Create a dashboard page and add [wpabstracts event_id=\"EVENT_ID_HERE\"] and "
+"link this page to your site menu to allow frontend access."
+msgstr ""
+
+#: ../wpabstracts_reports.php:49
+msgid "ABSTRACTS BY STATUS"
+msgstr ""
+
+#: ../wpabstracts_reports.php:50
+msgid "STATUS"
+msgstr ""
+
+#: ../wpabstracts_reports.php:51 ../wpabstracts_reports.php:74
+msgid "SUBMITTED"
+msgstr ""
+
+#: ../wpabstracts_reports.php:72
+msgid "REVIEWS BY RELEVANCE"
+msgstr ""
+
+#: ../wpabstracts_reports.php:73
+msgid "RELEVANCE"
+msgstr ""
+
+#: ../wpabstracts_reports.php:84
+msgid "Abstracts - Export by status"
+msgstr ""
+
+#: ../wpabstracts_reports.php:86 ../wpabstracts_reports.php:87
+#: ../wpabstracts_reports.php:88 ../wpabstracts_reports.php:89
+#: ../wpabstracts_reports.php:95 ../wpabstracts_reports.php:96
+#: ../wpabstracts_reports.php:97 ../wpabstracts_reports.php:98
+#: ../wpabstracts_reports.php:99
+msgid "Export CSV"
+msgstr ""
+
+#: ../wpabstracts_reports.php:93
+msgid "Reviews - Export by relevance"
+msgstr ""
+
+#: ../wpabstracts_reports.php:105
+msgid ""
+"These report and export features are new to WP Abstracts Pro, please <a href="
+"\"mailto=support@wpabstracts.com\">let me know</a> what other types of "
+"reports would be convenient to implement."
+msgstr ""
+
+#: ../wpabstracts_reviews.php:99
+msgid "Reviews for Abstract ID"
+msgstr ""
+
+#: ../wpabstracts_settings.php:22
+msgid "Settings saved"
+msgstr ""
+
+#: ../wpabstracts_settings.php:30
+msgid "Save options"
+msgstr ""
+
+#: ../wpabstracts_settings.php:40
+msgid "Email Administrator"
+msgstr ""
+
+#: ../wpabstracts_settings.php:41
+msgid ""
+"Enable this to send an email to the site admin on submission of a new "
+"abstract."
+msgstr ""
+
+#: ../wpabstracts_settings.php:45 ../wpabstracts_settings.php:57
+#: ../wpabstracts_settings.php:69 ../wpabstracts_settings.php:81
+#: ../wpabstracts_settings.php:93 ../wpabstracts_settings.php:105
+#: ../wpabstracts_settings.php:117 ../wpabstracts_settings.php:138
+#: ../wpabstracts_settings.php:150
+msgid "Yes"
+msgstr ""
+
+#: ../wpabstracts_settings.php:46 ../wpabstracts_settings.php:58
+#: ../wpabstracts_settings.php:70 ../wpabstracts_settings.php:82
+#: ../wpabstracts_settings.php:94 ../wpabstracts_settings.php:106
+#: ../wpabstracts_settings.php:118 ../wpabstracts_settings.php:139
+#: ../wpabstracts_settings.php:151
+msgid "No"
+msgstr ""
+
+#: ../wpabstracts_settings.php:52
+msgid "Email Reviewers"
+msgstr ""
+
+#: ../wpabstracts_settings.php:53
+msgid ""
+"Enable this to send an email to reviewers when they are assigned to an "
+"abstract."
+msgstr ""
+
+#: ../wpabstracts_settings.php:64
+msgid "Email Author"
+msgstr ""
+
+#: ../wpabstracts_settings.php:65
+msgid ""
+"Enable this to send an email to authors when they submit an abstract (email "
+"is sent to Author's email)."
+msgstr ""
+
+#: ../wpabstracts_settings.php:76
+msgid "Enable Blind Reviews"
+msgstr ""
+
+#: ../wpabstracts_settings.php:77
+msgid ""
+"Enable this to hide author information from reviewers (does not apply to "
+"admin)."
+msgstr ""
+
+#: ../wpabstracts_settings.php:88
+msgid "Allow Reviewers to submit abstracts"
+msgstr ""
+
+#: ../wpabstracts_settings.php:89
+msgid "Enable this to allow reviewers to submit new abstracts."
+msgstr ""
+
+#: ../wpabstracts_settings.php:100
+msgid "Allow Reviewers to edit abstracts"
+msgstr ""
+
+#: ../wpabstracts_settings.php:101
+msgid "Enable this to allow reviewers to edit abstracts."
+msgstr ""
+
+#: ../wpabstracts_settings.php:112
+msgid "Allow Change Ownership"
+msgstr ""
+
+#: ../wpabstracts_settings.php:113
+msgid ""
+"Enable this to allow reviewers to change ownership (the author) of a "
+"submission (useful if a reviewer submits an abstract on behalf of an author "
+"but the option above to enable reviewers to edit abstracts must be enabled "
+"for this to work)."
+msgstr ""
+
+#: ../wpabstracts_settings.php:133
+msgid "Allow Dashboard Access"
+msgstr ""
+
+#: ../wpabstracts_settings.php:134
+msgid ""
+"Disables users from accessing Wordpress Admin dashboard. Enable this if you "
+"want to allow frontend access only."
+msgstr ""
+
+#: ../wpabstracts_settings.php:145
+msgid "Show Admin Bar"
+msgstr ""
+
+#: ../wpabstracts_settings.php:146
+msgid "Disables users from seeing the Wordpress Admin Bar after sign in."
+msgstr ""
+
+#: ../wpabstracts_settings.php:157
+msgid "Maximum Word Count"
+msgstr ""
+
+#: ../wpabstracts_settings.php:158
+msgid "Maximum character count allowed in a submission."
+msgstr ""
+
+#: ../wpabstracts_settings.php:167
+msgid "Maximum Attachments"
+msgstr ""
+
+#: ../wpabstracts_settings.php:168
+msgid "Set the maximum attachment upload allowed per submission."
+msgstr ""
+
+#: ../wpabstracts_settings.php:177
+msgid "Maximum Attachment Size"
+msgstr ""
+
+#: ../wpabstracts_settings.php:178
+msgid "Maxmium size allowed for attachments (in bytes)."
+msgstr ""
+
+#: ../wpabstracts_settings.php:188
+msgid "Permitted Attachments"
+msgstr ""
+
+#: ../wpabstracts_settings.php:189
+msgid ""
+"File extentions allowed for uploading (separate extentions with a comma)."
+msgstr ""
+
+#: ../wpabstracts_settings.php:198
+msgid "Presenter Preferences"
+msgstr ""
+
+#: ../wpabstracts_settings.php:199
+msgid ""
+"Set the types of presentation allowed (separated by commas), Eg. Poster, "
+"Panel, Round Table"
+msgstr ""
+
+#: ../wpabstracts_settings.php:223
+msgid "Author Instructions"
+msgstr ""
+
+#: ../wpabstracts_settings.php:224
+msgid "Enter specific instructions for authors to follow for submissions"
+msgstr ""
+
+#: ../wpabstracts_summary.php:23
+msgid "Stats"
+msgstr ""
+
+#: ../wpabstracts_summary.php:27
+msgid "Total Abstracts"
+msgstr ""
+
+#: ../wpabstracts_summary.php:51
+msgid "the plugin 5 stars on WordPress.org."
+msgstr ""
+
+#: ../wpabstracts_summary.php:63
+msgid "Recent Abstracts"
+msgstr ""
+
+#: ../wpabstracts_summary.php:65
+msgid "Author Email"
+msgstr ""
+
+#: ../wpabstracts_summary.php:66
+msgid "Submit by"
+msgstr ""
+
+#: ../wpabstracts_summary.php:67 ../wpabstracts_summary.php:95
+msgid "Date"
+msgstr ""
+
+#: ../wpabstracts_summary.php:91
+msgid "Recent Reviews"
+msgstr ""
+
+#: ../wpabstracts_summary.php:94
+msgid "Suggested Status"
+msgstr ""
+
+#: ../wpabstracts_summary.php:126
+msgid "Recent Events"
+msgstr ""
+
+#: ../wpabstracts_summary.php:127
+msgid "Hosted by"
+msgstr ""
+
+#: ../wpabstracts_summary.php:128
+msgid "From"
+msgstr ""
+
+#: ../wpabstracts_summary.php:129
+msgid "To"
+msgstr ""
