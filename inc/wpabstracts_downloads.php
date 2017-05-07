@@ -394,6 +394,90 @@ function wpabstracts_downloadAbstracts($abstractIDs) {
   $abstracts_table = $wpdb->prefix."wpabstracts_abstracts";
   $events_table = $wpdb->prefix."wpabstracts_events";
 
+  $top_width = 130;
+
+
+  $sql = "SELECT a.*,b.name FROM $abstracts_table a, $events_table b WHERE a.abstract_id IN (".implode(',', $abstractIDs).") AND a.event = b.event_id";
+  $abstracts = $wpdb->get_results($sql);
+  include("tcpdf/tcpdf.php");
+  $filename = 'abstracts.pdf';
+
+  $pdf = new TCPDF();
+
+  $pdf->setPrintHeader(false);
+  $pdf->setPrintFooter(false);
+
+  foreach($abstracts as $abstract) {
+    if($abstract->profile_image == null) {
+      $profile_image = get_site_url().'/wp-content/plugins/wpabstracts_pro/profile-images/profile-placeholder.jpg';
+    }
+    else if(preg_match("/^[a-zA-Z0-9\_]+\.[a-zA-Z0-9]+$/", $abstract->profile_image)) {
+      $image_dir = plugin_dir_path( __FILE__ ) . '../profile-images'. '/' . $abstract->profile_image;
+      if(file_exists($image_dir) && filesize($image_dir) > 5 * 1024) {//If larger than 5KB
+        $profile_image = get_site_url().'/wp-content/plugins/wpabstracts_pro/profile-images/'.$abstract->profile_image;
+      } else {
+        $profile_image = get_site_url().'/wp-content/plugins/wpabstracts_pro/profile-images/profile-placeholder.jpg';
+      }
+    }
+    else {
+      $profile_image = $abstract->profile_image;
+    }
+
+    // add a page
+    $pdf->AddPage();
+
+    // set font
+    $pdf->SetFont('times', 'B', 14);
+    $pdf->Cell($top_width, 0, 'Abstract ID: ' . $abstract->abstract_id, 0, 1);
+
+    $pdf->SetFont('times', '', 14);
+    $pdf->SetTextColor(96, 149, 198);
+    $pdf->Cell($top_width, 0, $abstract->title, 0, 1);
+    $pdf->SetTextColor(0,0,0);
+    $pdf->Cell($top_width, 0, $abstract->presenter . ' - ' . $abstract->presenter_company, 0, 1);
+
+    $pdf->Ln(4);
+
+    $pdf->Image($profile_image, $top_width + 20, 25, 40, 60);
+    $regions = array(array(
+      'page' => '',
+      'xt' => $top_width,
+      'yt' => 0,
+      'xb' => $top_width,
+      'yb' => 95,
+      'side' => 'R'
+    ));
+
+    $pdf->setPageRegions($regions);
+
+    $resume = strip_tags(str_replace("&nbsp;", "", $abstract->resume)) . "\n";
+    $text = strip_tags(str_replace("&nbsp;", "", $abstract->text));
+
+    //write abstract resume
+    $pdf->SetFont('times', 'B', 12);
+    $pdf->Cell($top_width, 0, 'Resume', 0, 1);
+    $pdf->SetFont('times', '', 11);
+    //$pdf->MultiCell($top_width, 0, $resume, 0, 'J', 0, 1, '', '', true, 0, false, false, 0);
+    $pdf->Write(0, $resume);
+    $pdf->Ln(4);
+
+    $pdf->SetFont('times', 'B', 12);
+    $pdf->Write(0, 'Abstract','',0,'',true);
+    $pdf->SetFont('times', '', 11);
+    $pdf->Write(0, $text);
+  }
+
+  $pdf->Output($filename, 'I');
+
+  exit(0);
+}
+
+
+function wpabstracts_downloadAbstracts2($abstractIDs) {
+  global $wpdb;
+  $abstracts_table = $wpdb->prefix."wpabstracts_abstracts";
+  $events_table = $wpdb->prefix."wpabstracts_events";
+
 
   $sql = "SELECT a.*,b.name FROM $abstracts_table a, $events_table b WHERE a.abstract_id IN (".implode(',', $abstractIDs).") AND a.event = b.event_id";
   $abstracts = $wpdb->get_results($sql);
